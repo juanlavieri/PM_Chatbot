@@ -60,6 +60,9 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 * This project was inspired by a passion for project management and a desire to help project managers succeed.
 * Special thanks to the team at OpenAI for creating the GPT3 model and making it available to developers.
+* Special thanks to Gradio team for helping developers all over the world get POC's going super fast '''https://gradio.app/'''.
+
+
 
 **Author**
 
