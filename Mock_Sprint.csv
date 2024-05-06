@@ -1,0 +1,1001 @@
+ID,Work Item Type,Title,Assigned To,State,Tags,Story Points,Parent,Created Date,Closed Date,Activated Date
+1,User Story,Triple-buffered bandwidth-monitored customer loyalty,Loki Odinson <thor@avengers.com>,Closed,Design,2,Chatbot,4/16/2024 9:57:45 PM,5/8/2024 6:37:15 PM,5/5/2024 5:21:22 PM
+2,Bug,Diverse bandwidth-monitored task-force,Anthony Stark <iamironman@avengers.com>,Closed,Frontend,5,Chatbot,4/22/2024 6:08:08 AM,5/4/2024 6:33:55 AM,5/1/2024 1:14:03 PM
+3,User Story,Enterprise-wide fault-tolerant system engine,Natasha Romanov <1wDf1!@avengers.com>,Closed,Frontend,2,Data Governance Automation,4/24/2024 10:06:31 AM,5/9/2024 1:36:27 AM,5/4/2024 10:24:52 AM
+4,User Story,Persevering static secured line,Anthony Stark <iamironman@avengers.com>,Closed,Backend,5,Chatbot,4/18/2024 6:01:07 AM,5/8/2024 1:29:32 PM,5/6/2024 9:07:31 PM
+5,Bug,Synergized hybrid emulation,Thor Odinson <the_real_thor@avengers.com>,Closed,Backend,2,Data Governance Automation,4/17/2024 8:54:59 AM,5/3/2024 10:52:44 AM,5/6/2024 3:38:26 AM
+6,User Story,Monitored systemic secured line,Loki Odinson <thor@avengers.com>,Closed,Frontend,3,Chatbot,4/15/2024 5:57:36 PM,5/3/2024 4:29:36 PM,5/1/2024 3:38:10 PM
+7,User Story,Realigned foreground protocol,Loki Odinson <thor@avengers.com>,Closed,Design,5,Sentiment Analysis,4/19/2024 1:43:39 PM,5/5/2024 5:34:05 PM,5/7/2024 8:13:52 PM
+8,User Story,Configurable coherent data-warehouse,Steve Rogers <steve.rogers@avengers.com>,On Hold,Design,21,Data Governance Automation,4/16/2024 12:37:29 PM,5/8/2024 6:26:17 AM,4/29/2024 2:25:27 PM
+9,User Story,Self-enabling regional framework,Anthony Stark <iamironman@avengers.com>,Closed,Design,5,Sentiment Analysis,4/21/2024 5:58:08 AM,5/2/2024 1:21:55 AM,5/2/2024 1:22:01 PM
+10,User Story,Multi-tiered client-server instruction set,Anthony Stark <iamironman@avengers.com>,Closed,Design,3,Chatbot,4/19/2024 9:22:29 AM,5/8/2024 8:15:15 PM,5/4/2024 1:06:58 AM
+11,User Story,Triple-buffered transitional parallelism,Anthony Stark <iamironman@avengers.com>,Closed,Design,21,Chatbot,4/25/2024 10:19:58 PM,5/9/2024 12:28:40 AM,5/9/2024 4:24:02 AM
+12,User Story,Optimized mission-critical website,Natasha Romanov <1wDf1!@avengers.com>,Closed,Frontend,8,Data Governance Automation,4/18/2024 1:53:05 AM,5/5/2024 6:09:28 PM,5/5/2024 11:00:46 PM
+13,User Story,Streamlined demand-driven throughput,Thor Odinson <the_real_thor@avengers.com>,Closed,Frontend,5,Chatbot,4/18/2024 1:07:45 AM,5/1/2024 1:27:44 AM,4/29/2024 9:45:44 PM
+14,User Story,Streamlined multimedia definition,Thor Odinson <the_real_thor@avengers.com>,Closed,Design,13,Data Governance Automation,4/21/2024 7:11:56 AM,5/1/2024 4:57:09 PM,5/1/2024 3:09:49 PM
+15,User Story,Advanced contextually-based knowledge user,Anthony Stark <iamironman@avengers.com>,Closed,Backend,8,Chatbot,4/20/2024 3:59:47 AM,5/9/2024 12:09:15 AM,5/7/2024 4:37:10 AM
+16,User Story,Universal mission-critical open system,Natasha Romanov <1wDf1!@avengers.com>,Closed,Design,3,Chatbot,4/17/2024 9:44:18 PM,5/4/2024 2:47:56 PM,5/7/2024 11:16:33 PM
+17,Bug,Multi-channelled full-range superstructure,Loki Odinson <thor@avengers.com>,Closed,Backend,13,Sentiment Analysis,4/23/2024 9:48:01 AM,5/7/2024 1:28:13 AM,5/6/2024 3:42:12 AM
+18,User Story,Self-enabling object-oriented ability,Steve Rogers <steve.rogers@avengers.com>,Closed,Design,5,Sentiment Analysis,4/24/2024 2:59:09 AM,5/9/2024 9:13:39 PM,5/4/2024 8:34:57 AM
+19,User Story,Business-focused tangible instruction set,Steve Rogers <steve.rogers@avengers.com>,Closed,Design,3,Chatbot,4/22/2024 12:14:43 PM,5/8/2024 6:31:47 AM,4/29/2024 8:17:14 AM
+20,User Story,Versatile executive matrices,Thor Odinson <the_real_thor@avengers.com>,Closed,Frontend,5,Data Governance Automation,4/19/2024 4:19:01 AM,5/7/2024 5:59:21 PM,5/4/2024 6:55:59 AM
+21,User Story,Reduced context-sensitive implementation,Natasha Romanov <1wDf1!@avengers.com>,Closed,Design,3,Chatbot,4/16/2024 2:18:14 AM,5/3/2024 1:18:52 AM,5/6/2024 7:11:03 AM
+22,User Story,Compatible methodical parallelism,Steve Rogers <steve.rogers@avengers.com>,Closed,Frontend,5,Sentiment Analysis,4/15/2024 9:09:55 PM,5/5/2024 6:52:46 PM,5/6/2024 3:11:30 PM
+23,User Story,Robust asymmetric leverage,T'Challa Udaku <wakandaforever@avengers.com>,Closed,Backend,13,Data Governance Automation,4/24/2024 10:58:38 AM,5/1/2024 5:53:18 AM,5/9/2024 6:14:26 AM
+24,Bug,Streamlined grid-enabled focus group,Natasha Romanov <1wDf1!@avengers.com>,Closed,Backend,5,Data Governance Automation,4/21/2024 8:36:55 AM,5/8/2024 3:11:09 AM,5/4/2024 3:18:56 PM
+25,User Story,Total empowering solution,Anthony Stark <iamironman@avengers.com>,Closed,Frontend,1,Sentiment Analysis,4/17/2024 7:47:58 AM,5/6/2024 6:36:17 PM,4/29/2024 2:39:23 PM
+26,User Story,Centralized context-sensitive software,Anthony Stark <iamironman@avengers.com>,Closed,Backend,8,Data Governance Automation,4/25/2024 9:05:55 PM,5/5/2024 8:12:44 PM,4/30/2024 9:04:59 AM
+27,User Story,Managed 24/7 firmware,T'Challa Udaku <wakandaforever@avengers.com>,Closed,Design,21,Sentiment Analysis,4/21/2024 11:49:14 PM,5/1/2024 2:50:54 PM,4/30/2024 7:29:58 AM
+28,User Story,Ameliorated asynchronous orchestration,Natasha Romanov <1wDf1!@avengers.com>,Closed,Backend,13,Data Governance Automation,4/22/2024 12:06:26 AM,5/7/2024 12:17:44 PM,5/1/2024 2:24:46 AM
+29,User Story,Multi-channelled content-based matrices,T'Challa Udaku <wakandaforever@avengers.com>,Closed,Backend,8,Data Governance Automation,4/22/2024 8:51:58 PM,5/2/2024 2:48:01 PM,5/7/2024 2:44:17 PM
+30,User Story,Adaptive contextually-based capability,Natasha Romanov <1wDf1!@avengers.com>,Closed,Design,1,Chatbot,4/25/2024 12:36:29 AM,5/9/2024 5:36:51 AM,5/9/2024 5:27:07 PM
+31,User Story,Open-source maximized task-force,Natasha Romanov <1wDf1!@avengers.com>,Closed,Design,8,Chatbot,4/23/2024 5:48:25 PM,5/8/2024 4:55:54 AM,5/3/2024 5:00:57 PM
+32,Bug,Virtual static orchestration,Anthony Stark <iamironman@avengers.com>,Closed,Design,21,Sentiment Analysis,4/20/2024 11:21:31 AM,5/3/2024 9:27:31 PM,5/5/2024 7:05:25 PM
+33,User Story,Optional secondary methodology,Thor Odinson <the_real_thor@avengers.com>,Closed,Design,5,Chatbot,4/17/2024 4:12:46 PM,5/7/2024 9:29:16 PM,5/7/2024 2:10:38 AM
+34,User Story,Total mobile pricing structure,Thor Odinson <the_real_thor@avengers.com>,Closed,Backend,3,Data Governance Automation,4/24/2024 2:05:14 AM,5/3/2024 2:42:10 AM,5/3/2024 10:38:29 AM
+35,User Story,Future-proofed 5th generation contingency,Steve Rogers <steve.rogers@avengers.com>,Closed,Frontend,3,Data Governance Automation,4/23/2024 11:28:08 PM,5/7/2024 8:33:44 PM,5/2/2024 9:32:58 AM
+36,User Story,Business-focused tangible approach,Anthony Stark <iamironman@avengers.com>,Closed,Frontend,13,Data Governance Automation,4/15/2024 6:10:05 PM,5/3/2024 11:00:08 PM,4/29/2024 12:08:39 PM
+37,User Story,Adaptive demand-driven customer loyalty,Anthony Stark <iamironman@avengers.com>,Closed,Backend,8,Data Governance Automation,4/19/2024 6:52:00 PM,5/7/2024 12:15:50 AM,5/4/2024 6:56:31 AM
+38,User Story,Monitored analyzing policy,T'Challa Udaku <wakandaforever@avengers.com>,Closed,Backend,8,Data Governance Automation,4/16/2024 1:03:56 PM,5/3/2024 7:53:01 PM,5/4/2024 1:01:22 PM
+39,User Story,Multi-layered directional application,Anthony Stark <iamironman@avengers.com>,Closed,Frontend,13,Data Governance Automation,4/15/2024 6:37:41 PM,5/6/2024 3:20:47 AM,5/3/2024 8:02:15 PM
+40,User Story,Proactive transitional local area network,Thor Odinson <the_real_thor@avengers.com>,Closed,Frontend,8,Chatbot,4/17/2024 7:58:51 AM,5/7/2024 2:20:46 AM,5/1/2024 2:48:30 AM
+41,User Story,Seamless eco-centric functionalities,T'Challa Udaku <wakandaforever@avengers.com>,Closed,Design,5,Sentiment Analysis,4/24/2024 1:24:35 PM,5/3/2024 10:49:17 PM,5/6/2024 11:45:13 PM
+42,User Story,Cloned disintermediate interface,Loki Odinson <thor@avengers.com>,Closed,Frontend,5,Chatbot,4/22/2024 10:30:39 PM,5/6/2024 2:25:04 PM,5/4/2024 9:16:22 PM
+43,User Story,Open-source value-added productivity,Loki Odinson <thor@avengers.com>,Closed,Backend,5,Sentiment Analysis,4/20/2024 6:16:56 AM,5/8/2024 1:39:58 PM,5/8/2024 4:51:07 AM
+44,User Story,Upgradable radical process improvement,Anthony Stark <iamironman@avengers.com>,Closed,Frontend,5,Data Governance Automation,4/20/2024 8:18:51 AM,5/9/2024 4:28:53 PM,4/29/2024 5:30:54 AM
+45,User Story,Compatible optimal leverage,Thor Odinson <the_real_thor@avengers.com>,Closed,Frontend,5,Data Governance Automation,4/18/2024 1:15:26 PM,5/2/2024 11:10:18 AM,5/9/2024 2:45:58 PM
+46,User Story,Grass-roots logistical superstructure,Steve Rogers <steve.rogers@avengers.com>,Closed,Frontend,2,Chatbot,4/16/2024 3:44:30 PM,5/3/2024 6:27:54 AM,5/9/2024 9:26:29 PM
+47,User Story,Up-sized value-added circuit,Natasha Romanov <1wDf1!@avengers.com>,On Hold,Frontend,3,Chatbot,4/24/2024 12:06:30 AM,5/7/2024 10:39:42 AM,4/30/2024 4:17:25 PM
+48,Bug,Seamless composite matrix,Anthony Stark <iamironman@avengers.com>,Closed,Frontend,8,Chatbot,4/24/2024 2:39:02 AM,5/6/2024 3:44:38 AM,4/29/2024 8:37:57 AM
+49,User Story,Automated homogeneous ability,T'Challa Udaku <wakandaforever@avengers.com>,On Hold,Frontend,5,Data Governance Automation,4/15/2024 7:46:30 PM,5/4/2024 4:39:37 AM,4/30/2024 11:59:21 PM
+50,User Story,Monitored needs-based monitoring,Loki Odinson <thor@avengers.com>,Closed,Backend,5,Chatbot,4/17/2024 1:11:19 PM,5/5/2024 11:01:26 AM,5/8/2024 1:00:51 AM
+51,User Story,Phased leading edge moratorium,T'Challa Udaku <wakandaforever@avengers.com>,Closed,Frontend,5,Chatbot,4/23/2024 8:51:50 AM,5/4/2024 6:29:54 AM,5/8/2024 9:37:43 PM
+52,User Story,Visionary fresh-thinking alliance,Natasha Romanov <1wDf1!@avengers.com>,Closed,Design,3,Data Governance Automation,4/23/2024 4:01:00 AM,5/1/2024 8:35:22 PM,5/9/2024 5:56:45 PM
+53,User Story,Diverse static collaboration,T'Challa Udaku <wakandaforever@avengers.com>,Closed,Frontend,3,Data Governance Automation,4/21/2024 6:33:45 AM,5/5/2024 4:30:15 PM,5/2/2024 11:24:08 PM
+54,User Story,Synergized real-time implementation,Natasha Romanov <1wDf1!@avengers.com>,Closed,Frontend,8,Chatbot,4/18/2024 2:27:39 AM,5/9/2024 11:02:20 AM,4/30/2024 8:46:29 PM
+55,Bug,Open-source solution-oriented access,Loki Odinson <thor@avengers.com>,Closed,Design,5,Chatbot,4/16/2024 3:50:08 AM,5/8/2024 8:44:36 AM,5/4/2024 6:20:26 PM
+56,User Story,Mandatory 4th generation monitoring,Anthony Stark <iamironman@avengers.com>,Closed,Frontend,13,Chatbot,4/25/2024 11:10:22 AM,5/3/2024 1:14:26 AM,5/1/2024 7:26:47 PM
+57,Bug,Reverse-engineered static info-mediaries,Anthony Stark <iamironman@avengers.com>,Closed,Design,8,Sentiment Analysis,4/18/2024 12:01:04 AM,5/2/2024 7:36:30 AM,5/6/2024 12:19:35 PM
+58,User Story,Up-sized contextually-based adapter,Loki Odinson <thor@avengers.com>,Closed,Backend,8,Chatbot,4/15/2024 2:21:37 AM,5/7/2024 7:51:19 PM,5/4/2024 11:22:56 AM
+59,User Story,Inverse holistic flexibility,Anthony Stark <iamironman@avengers.com>,On Hold,Design,5,Sentiment Analysis,4/23/2024 5:53:55 AM,5/2/2024 4:51:33 AM,5/2/2024 4:19:36 PM
+60,User Story,Grass-roots user-facing hub,Loki Odinson <thor@avengers.com>,Closed,Backend,3,Chatbot,4/16/2024 6:21:14 AM,5/3/2024 7:52:27 AM,4/29/2024 1:02:27 PM
+61,User Story,Upgradable high-level strategy,T'Challa Udaku <wakandaforever@avengers.com>,Closed,Design,3,Sentiment Analysis,4/25/2024 7:56:13 AM,5/6/2024 1:09:21 PM,5/2/2024 9:41:45 PM
+62,Bug,User-centric exuding model,Thor Odinson <the_real_thor@avengers.com>,Closed,Backend,5,Data Governance Automation,4/18/2024 3:04:57 AM,5/6/2024 7:19:39 AM,5/1/2024 6:40:44 PM
+63,User Story,Optional composite process improvement,Natasha Romanov <1wDf1!@avengers.com>,Closed,Frontend,5,Chatbot,4/19/2024 12:02:57 PM,5/1/2024 2:54:56 PM,4/29/2024 8:22:15 AM
+64,User Story,Total mobile intranet,Loki Odinson <thor@avengers.com>,Closed,Design,5,Data Governance Automation,4/25/2024 10:27:31 AM,5/3/2024 5:56:41 AM,5/5/2024 8:47:49 PM
+65,User Story,Fully-configurable context-sensitive challenge,Anthony Stark <iamironman@avengers.com>,On Hold,Frontend,3,Chatbot,4/15/2024 11:51:58 PM,5/1/2024 11:57:53 PM,5/6/2024 3:41:10 PM
+66,User Story,Distributed object-oriented data-warehouse,Steve Rogers <steve.rogers@avengers.com>,Closed,Design,8,Sentiment Analysis,4/19/2024 12:01:01 AM,5/5/2024 5:59:30 AM,5/2/2024 5:36:23 AM
+67,User Story,Multi-layered dedicated benchmark,Steve Rogers <steve.rogers@avengers.com>,Closed,Design,2,Chatbot,4/16/2024 7:24:22 PM,5/7/2024 5:25:48 AM,5/8/2024 3:51:02 AM
+68,User Story,Re-engineered foreground ability,T'Challa Udaku <wakandaforever@avengers.com>,Closed,Design,3,Chatbot,4/23/2024 7:53:29 AM,5/1/2024 10:51:17 PM,5/1/2024 6:43:12 AM
+69,User Story,Optional full-range ability,Natasha Romanov <1wDf1!@avengers.com>,Closed,Backend,5,Data Governance Automation,4/22/2024 3:01:47 AM,5/1/2024 3:09:33 PM,4/30/2024 2:45:51 PM
+70,User Story,Advanced heuristic local area network,Thor Odinson <the_real_thor@avengers.com>,Closed,Frontend,1,Sentiment Analysis,4/22/2024 11:22:38 PM,5/2/2024 2:39:26 AM,5/8/2024 10:02:01 PM
+71,Bug,Devolved coherent circuit,Natasha Romanov <1wDf1!@avengers.com>,Closed,Backend,13,Chatbot,4/22/2024 2:05:16 PM,5/8/2024 5:09:06 AM,5/9/2024 2:40:12 AM
+72,User Story,Multi-lateral attitude-oriented function,T'Challa Udaku <wakandaforever@avengers.com>,Closed,Frontend,2,Data Governance Automation,4/18/2024 9:25:50 AM,5/7/2024 8:24:12 PM,5/4/2024 4:10:37 AM
+73,User Story,Fundamental holistic matrix,T'Challa Udaku <wakandaforever@avengers.com>,Closed,Frontend,5,Chatbot,4/23/2024 1:30:53 PM,5/8/2024 2:23:18 AM,5/8/2024 2:26:01 AM
+74,User Story,Profit-focused client-driven forecast,Loki Odinson <thor@avengers.com>,Closed,Frontend,5,Sentiment Analysis,4/16/2024 12:07:36 PM,5/7/2024 4:43:41 PM,5/5/2024 1:39:46 AM
+75,Bug,Inverse bandwidth-monitored policy,T'Challa Udaku <wakandaforever@avengers.com>,Closed,Design,5,Data Governance Automation,4/17/2024 7:45:36 PM,5/2/2024 7:21:42 AM,5/5/2024 6:12:05 PM
+76,User Story,Multi-layered needs-based implementation,Natasha Romanov <1wDf1!@avengers.com>,Closed,Frontend,13,Chatbot,4/24/2024 7:59:56 PM,5/4/2024 8:32:53 PM,5/4/2024 7:13:39 PM
+77,User Story,Virtual bottom-line moratorium,Thor Odinson <the_real_thor@avengers.com>,Closed,Frontend,13,Data Governance Automation,4/16/2024 9:50:02 AM,5/5/2024 12:38:04 AM,5/3/2024 7:43:11 AM
+78,User Story,Networked global project,T'Challa Udaku <wakandaforever@avengers.com>,Closed,Frontend,5,Data Governance Automation,4/16/2024 8:31:18 PM,5/4/2024 7:54:20 AM,5/5/2024 8:00:58 AM
+79,User Story,Enhanced secondary local area network,Anthony Stark <iamironman@avengers.com>,Closed,Frontend,3,Sentiment Analysis,4/15/2024 6:35:17 AM,5/3/2024 1:15:49 PM,4/30/2024 3:32:34 PM
+80,User Story,Re-engineered radical analyzer,Thor Odinson <the_real_thor@avengers.com>,Closed,Design,1,Chatbot,4/25/2024 9:19:50 AM,5/8/2024 3:31:44 PM,5/1/2024 9:39:55 AM
+81,User Story,Cloned 6th generation alliance,Anthony Stark <iamironman@avengers.com>,Closed,Frontend,8,Sentiment Analysis,4/25/2024 7:46:04 AM,5/2/2024 4:36:33 PM,5/3/2024 4:07:57 AM
+82,User Story,Multi-tiered next generation conglomeration,Anthony Stark <iamironman@avengers.com>,Closed,Frontend,2,Chatbot,4/16/2024 10:17:31 PM,5/3/2024 2:28:33 AM,4/29/2024 8:22:55 AM
+83,User Story,User-centric regional hierarchy,Thor Odinson <the_real_thor@avengers.com>,Closed,Design,21,Sentiment Analysis,4/19/2024 12:37:18 AM,5/4/2024 9:40:47 AM,5/2/2024 7:44:46 PM
+84,User Story,Re-contextualized content-based challenge,Steve Rogers <steve.rogers@avengers.com>,Closed,Backend,8,Data Governance Automation,4/17/2024 8:42:14 AM,5/1/2024 11:29:51 AM,5/1/2024 3:16:00 AM
+85,User Story,Persevering motivating hardware,Thor Odinson <the_real_thor@avengers.com>,Closed,Design,2,Chatbot,4/16/2024 12:30:02 AM,5/3/2024 4:01:12 AM,5/7/2024 9:26:23 AM
+86,User Story,Self-enabling impactful superstructure,Thor Odinson <the_real_thor@avengers.com>,Closed,Design,5,Sentiment Analysis,4/24/2024 5:42:52 AM,5/8/2024 11:22:32 AM,5/1/2024 11:06:53 AM
+87,User Story,Integrated human-resource encoding,Natasha Romanov <1wDf1!@avengers.com>,Closed,Backend,3,Data Governance Automation,4/15/2024 5:27:04 PM,5/4/2024 5:07:42 PM,5/8/2024 7:36:43 PM
+88,User Story,Right-sized dynamic system engine,Anthony Stark <iamironman@avengers.com>,Closed,Design,3,Chatbot,4/17/2024 10:56:42 AM,5/8/2024 8:08:12 PM,5/4/2024 2:38:26 PM
+89,User Story,Cloned interactive monitoring,Natasha Romanov <1wDf1!@avengers.com>,Closed,Design,3,Sentiment Analysis,4/24/2024 12:34:34 PM,5/4/2024 5:02:35 AM,5/4/2024 3:26:35 AM
+90,User Story,Ameliorated stable application,Thor Odinson <the_real_thor@avengers.com>,Closed,Backend,2,Data Governance Automation,4/22/2024 3:55:37 PM,5/6/2024 2:36:37 AM,4/29/2024 9:46:26 AM
+91,User Story,Ergonomic motivating capability,Steve Rogers <steve.rogers@avengers.com>,Closed,Design,13,Sentiment Analysis,4/22/2024 1:22:56 PM,5/3/2024 9:24:31 PM,4/30/2024 2:24:56 PM
+92,User Story,User-friendly dynamic function,T'Challa Udaku <wakandaforever@avengers.com>,Closed,Design,2,Chatbot,4/15/2024 11:44:23 AM,5/1/2024 3:45:06 AM,5/3/2024 12:14:42 AM
+93,User Story,Multi-lateral methodical flexibility,Loki Odinson <thor@avengers.com>,Closed,Design,5,Sentiment Analysis,4/25/2024 5:34:21 AM,5/5/2024 10:46:24 AM,5/6/2024 5:42:03 PM
+94,User Story,Compatible tangible extranet,Loki Odinson <thor@avengers.com>,Closed,Frontend,21,Data Governance Automation,4/23/2024 4:43:04 AM,5/6/2024 3:23:28 PM,5/8/2024 12:52:21 AM
+95,User Story,User-centric 24/7 synergy,Steve Rogers <steve.rogers@avengers.com>,Closed,Design,21,Chatbot,4/18/2024 8:28:42 PM,5/8/2024 3:58:45 AM,5/5/2024 3:38:59 AM
+96,User Story,Cross-platform bottom-line conglomeration,Thor Odinson <the_real_thor@avengers.com>,Closed,Design,5,Sentiment Analysis,4/22/2024 2:09:28 AM,5/4/2024 10:14:16 PM,5/9/2024 1:44:05 AM
+97,User Story,Front-line uniform data-warehouse,Natasha Romanov <1wDf1!@avengers.com>,Closed,Backend,5,Sentiment Analysis,4/19/2024 4:42:38 PM,5/1/2024 9:01:03 AM,4/30/2024 5:46:55 PM
+98,User Story,Grass-roots scalable groupware,Anthony Stark <iamironman@avengers.com>,Closed,Design,8,Sentiment Analysis,4/15/2024 6:52:15 PM,5/7/2024 10:16:08 PM,5/5/2024 10:18:36 PM
+99,User Story,Programmable multimedia success,Steve Rogers <steve.rogers@avengers.com>,Closed,Design,8,Chatbot,4/15/2024 12:01:55 PM,5/5/2024 2:26:00 AM,5/1/2024 11:03:50 AM
+100,Bug,Decentralized tertiary architecture,Anthony Stark <iamironman@avengers.com>,Closed,Design,3,Data Governance Automation,4/23/2024 7:48:26 AM,5/5/2024 5:05:43 AM,5/6/2024 11:27:15 PM
+101,User Story,Customer-focused neutral knowledge base,Natasha Romanov <1wDf1!@avengers.com>,Closed,Frontend,5,Data Governance Automation,4/25/2024 12:05:09 PM,5/1/2024 6:39:12 PM,5/8/2024 4:08:29 AM
+102,User Story,Enterprise-wide exuding orchestration,Loki Odinson <thor@avengers.com>,Closed,Frontend,21,Chatbot,4/25/2024 10:05:01 PM,5/2/2024 8:50:02 PM,5/5/2024 3:03:50 PM
+103,User Story,Integrated client-driven task-force,Thor Odinson <the_real_thor@avengers.com>,Closed,Design,5,Sentiment Analysis,4/25/2024 7:07:17 PM,5/4/2024 5:01:08 AM,5/5/2024 8:47:02 AM
+104,User Story,Synchronised impactful definition,Natasha Romanov <1wDf1!@avengers.com>,Closed,Backend,13,Chatbot,4/21/2024 9:35:41 PM,5/5/2024 3:35:17 PM,5/9/2024 2:21:26 PM
+105,User Story,Public-key system-worthy website,Natasha Romanov <1wDf1!@avengers.com>,Closed,Design,21,Sentiment Analysis,4/24/2024 1:43:35 AM,5/4/2024 11:23:30 AM,4/29/2024 7:01:47 PM
+106,User Story,Switchable hybrid website,Natasha Romanov <1wDf1!@avengers.com>,Closed,Backend,1,Data Governance Automation,4/20/2024 11:01:18 PM,5/3/2024 7:07:58 PM,5/3/2024 10:45:47 PM
+107,User Story,Reverse-engineered disintermediate middleware,Loki Odinson <thor@avengers.com>,Closed,Design,5,Chatbot,4/25/2024 4:55:06 PM,5/8/2024 12:18:26 AM,5/3/2024 12:53:34 PM
+108,User Story,Networked user-facing emulation,Anthony Stark <iamironman@avengers.com>,Closed,Backend,13,Data Governance Automation,4/18/2024 1:15:48 PM,5/6/2024 4:54:44 PM,4/30/2024 12:43:21 AM
+109,User Story,Organized leading edge model,Steve Rogers <steve.rogers@avengers.com>,Closed,Backend,13,Chatbot,4/20/2024 12:51:54 AM,5/1/2024 10:29:13 PM,4/30/2024 9:30:22 PM
+110,User Story,Polarised even-keeled function,Anthony Stark <iamironman@avengers.com>,Closed,Frontend,5,Chatbot,4/24/2024 8:40:45 PM,5/7/2024 5:51:47 AM,5/2/2024 5:52:52 AM
+111,User Story,Devolved next generation framework,Steve Rogers <steve.rogers@avengers.com>,Closed,Backend,8,Data Governance Automation,4/19/2024 11:04:55 AM,5/7/2024 1:46:09 PM,5/8/2024 9:49:18 PM
+112,User Story,Multi-channelled zero defect toolset,T'Challa Udaku <wakandaforever@avengers.com>,On Hold,Backend,8,Data Governance Automation,4/24/2024 1:29:52 PM,5/2/2024 6:17:42 PM,4/29/2024 3:42:48 PM
+113,User Story,Networked 24 hour focus group,Anthony Stark <iamironman@avengers.com>,Closed,Frontend,3,Chatbot,4/17/2024 9:05:12 AM,5/1/2024 11:23:42 PM,5/5/2024 7:42:58 PM
+114,User Story,Polarised multi-tasking emulation,Natasha Romanov <1wDf1!@avengers.com>,Closed,Backend,5,Chatbot,4/21/2024 4:24:32 PM,5/3/2024 5:42:36 AM,5/7/2024 4:23:38 PM
+115,User Story,Optional asynchronous core,Steve Rogers <steve.rogers@avengers.com>,Closed,Frontend,5,Sentiment Analysis,4/21/2024 9:28:49 PM,5/2/2024 3:49:28 AM,5/9/2024 7:59:19 PM
+116,Bug,Business-focused upward-trending methodology,Steve Rogers <steve.rogers@avengers.com>,Closed,Backend,5,Sentiment Analysis,4/17/2024 4:52:50 PM,5/4/2024 7:36:39 PM,5/3/2024 6:43:01 AM
+117,User Story,Proactive transitional solution,Natasha Romanov <1wDf1!@avengers.com>,Closed,Frontend,5,Data Governance Automation,4/19/2024 5:16:24 PM,5/2/2024 2:21:31 PM,5/7/2024 9:58:36 PM
+118,User Story,Universal transitional secured line,Steve Rogers <steve.rogers@avengers.com>,Closed,Backend,5,Sentiment Analysis,4/15/2024 10:44:54 AM,5/7/2024 2:24:22 AM,5/7/2024 10:14:46 PM
+119,Bug,Enhanced intangible infrastructure,Natasha Romanov <1wDf1!@avengers.com>,Closed,Backend,8,Chatbot,4/15/2024 3:12:16 PM,5/4/2024 5:24:33 AM,4/29/2024 8:33:47 PM
+120,User Story,Adaptive transitional alliance,Natasha Romanov <1wDf1!@avengers.com>,Closed,Design,1,Data Governance Automation,4/23/2024 3:06:07 AM,5/8/2024 2:53:47 AM,5/9/2024 9:33:05 AM
+121,User Story,Enterprise-wide scalable system engine,T'Challa Udaku <wakandaforever@avengers.com>,Closed,Frontend,5,Data Governance Automation,4/15/2024 10:49:08 AM,5/9/2024 3:26:56 PM,5/4/2024 6:42:48 PM
+122,User Story,Synergized exuding hierarchy,Natasha Romanov <1wDf1!@avengers.com>,Closed,Backend,21,Sentiment Analysis,4/16/2024 7:26:59 PM,5/2/2024 9:40:29 AM,5/5/2024 10:52:37 AM
+123,User Story,Down-sized actuating neural-net,T'Challa Udaku <wakandaforever@avengers.com>,Closed,Frontend,3,Sentiment Analysis,4/20/2024 9:12:23 PM,5/2/2024 1:31:00 AM,5/9/2024 1:55:06 PM
+124,User Story,Inverse regional success,Natasha Romanov <1wDf1!@avengers.com>,Closed,Backend,13,Sentiment Analysis,4/19/2024 5:28:06 AM,5/4/2024 4:46:36 PM,5/2/2024 3:04:38 PM
+125,User Story,Monitored methodical ability,Natasha Romanov <1wDf1!@avengers.com>,Closed,Backend,5,Data Governance Automation,4/15/2024 11:54:54 PM,5/4/2024 8:24:33 PM,5/9/2024 9:17:43 PM
+126,User Story,Operative neutral initiative,Loki Odinson <thor@avengers.com>,Closed,Backend,13,Data Governance Automation,4/25/2024 8:23:39 PM,5/7/2024 9:23:15 AM,4/29/2024 7:15:56 AM
+127,User Story,Synchronised local approach,Natasha Romanov <1wDf1!@avengers.com>,On Hold,Design,21,Sentiment Analysis,4/20/2024 5:08:44 AM,5/3/2024 5:01:59 AM,5/5/2024 12:16:47 AM
+128,User Story,Enterprise-wide web-enabled conglomeration,Steve Rogers <steve.rogers@avengers.com>,Closed,Backend,8,Data Governance Automation,4/15/2024 10:51:17 AM,5/3/2024 6:10:54 AM,4/29/2024 4:15:57 PM
+129,User Story,Exclusive motivating open system,Thor Odinson <the_real_thor@avengers.com>,Closed,Backend,8,Data Governance Automation,4/23/2024 12:13:22 PM,5/5/2024 7:07:47 AM,5/8/2024 10:32:08 AM
+130,User Story,Vision-oriented grid-enabled secured line,Thor Odinson <the_real_thor@avengers.com>,Closed,Frontend,2,Sentiment Analysis,4/24/2024 1:28:05 AM,5/3/2024 1:15:18 AM,5/1/2024 4:29:56 PM
+131,User Story,Networked mission-critical Graphical User Interface,Anthony Stark <iamironman@avengers.com>,Closed,Design,1,Chatbot,4/24/2024 8:06:04 PM,5/7/2024 5:02:08 AM,5/9/2024 12:48:50 AM
+132,User Story,Phased zero defect infrastructure,Thor Odinson <the_real_thor@avengers.com>,Closed,Backend,5,Chatbot,4/15/2024 7:55:16 PM,5/7/2024 9:56:46 AM,5/3/2024 4:14:01 AM
+133,User Story,Monitored client-driven neural-net,T'Challa Udaku <wakandaforever@avengers.com>,Closed,Backend,8,Chatbot,4/21/2024 8:28:12 PM,5/3/2024 3:28:59 AM,5/1/2024 11:55:13 PM
+134,User Story,Phased zero administration knowledge base,Thor Odinson <the_real_thor@avengers.com>,Closed,Frontend,3,Sentiment Analysis,4/18/2024 10:50:59 PM,5/6/2024 6:28:02 AM,5/6/2024 9:16:14 PM
+135,User Story,Monitored modular info-mediaries,Thor Odinson <the_real_thor@avengers.com>,Closed,Backend,5,Data Governance Automation,4/24/2024 3:16:25 AM,5/8/2024 8:37:31 PM,5/2/2024 5:53:16 AM
+136,User Story,Cross-group homogeneous matrices,Steve Rogers <steve.rogers@avengers.com>,On Hold,Frontend,8,Data Governance Automation,4/15/2024 7:13:23 AM,5/4/2024 10:13:12 PM,5/1/2024 6:34:50 PM
+137,User Story,Compatible encompassing analyzer,Natasha Romanov <1wDf1!@avengers.com>,Closed,Frontend,8,Chatbot,4/18/2024 1:43:32 AM,5/7/2024 3:38:44 AM,5/6/2024 11:34:23 AM
+138,User Story,Managed 5th generation open architecture,T'Challa Udaku <wakandaforever@avengers.com>,Closed,Frontend,5,Data Governance Automation,4/15/2024 7:54:14 AM,5/9/2024 2:50:47 PM,5/8/2024 6:09:11 PM
+139,User Story,Down-sized empowering frame,Steve Rogers <steve.rogers@avengers.com>,Closed,Frontend,8,Chatbot,4/25/2024 1:17:22 AM,5/7/2024 7:42:09 PM,5/2/2024 3:33:41 AM
+140,User Story,Enterprise-wide web-enabled installation,Anthony Stark <iamironman@avengers.com>,Closed,Frontend,2,Chatbot,4/23/2024 3:16:23 AM,5/9/2024 4:45:14 AM,4/30/2024 1:32:13 PM
+141,User Story,Front-line systemic support,Loki Odinson <thor@avengers.com>,Closed,Backend,1,Data Governance Automation,4/15/2024 1:34:08 PM,5/4/2024 11:11:32 PM,5/1/2024 6:54:20 PM
+142,User Story,Organized heuristic portal,Anthony Stark <iamironman@avengers.com>,Closed,Backend,1,Data Governance Automation,4/25/2024 11:51:59 PM,5/3/2024 5:57:47 AM,5/7/2024 2:14:03 AM
+143,User Story,Multi-lateral didactic encryption,Thor Odinson <the_real_thor@avengers.com>,Closed,Backend,8,Data Governance Automation,4/19/2024 10:32:22 PM,5/7/2024 3:38:30 PM,5/2/2024 11:17:48 PM
+144,User Story,Fundamental full-range contingency,T'Challa Udaku <wakandaforever@avengers.com>,Closed,Design,8,Data Governance Automation,4/17/2024 5:57:30 PM,5/6/2024 10:40:46 PM,5/7/2024 8:35:07 PM
+145,User Story,Progressive leading edge middleware,Natasha Romanov <1wDf1!@avengers.com>,Closed,Design,5,Chatbot,4/15/2024 3:17:53 AM,5/7/2024 2:38:54 AM,5/7/2024 4:08:37 PM
+146,User Story,Team-oriented background complexity,Loki Odinson <thor@avengers.com>,Closed,Backend,8,Sentiment Analysis,4/17/2024 4:27:43 AM,5/8/2024 9:06:24 AM,5/7/2024 7:54:07 AM
+147,User Story,Multi-layered value-added policy,Thor Odinson <the_real_thor@avengers.com>,Closed,Backend,8,Sentiment Analysis,4/20/2024 4:27:26 PM,5/5/2024 4:19:24 AM,5/5/2024 5:46:08 AM
+148,User Story,Object-based logistical approach,Natasha Romanov <1wDf1!@avengers.com>,Closed,Backend,5,Data Governance Automation,4/24/2024 4:28:29 PM,5/6/2024 2:55:41 PM,5/8/2024 4:58:06 AM
+149,User Story,Re-contextualized empowering capability,Loki Odinson <thor@avengers.com>,Closed,Design,8,Data Governance Automation,4/24/2024 6:27:41 PM,5/9/2024 7:58:20 AM,4/30/2024 1:48:34 AM
+150,User Story,Extended holistic task-force,Thor Odinson <the_real_thor@avengers.com>,Closed,Frontend,5,Data Governance Automation,4/18/2024 1:08:02 PM,5/9/2024 3:13:45 PM,4/30/2024 4:03:12 AM
+151,User Story,Persistent static portal,Loki Odinson <thor@avengers.com>,Closed,Backend,21,Chatbot,4/24/2024 4:59:01 PM,5/7/2024 5:03:26 AM,5/5/2024 3:02:10 PM
+152,User Story,Quality-focused 24 hour matrices,Steve Rogers <steve.rogers@avengers.com>,Closed,Frontend,13,Data Governance Automation,4/16/2024 7:12:07 AM,5/1/2024 10:58:35 PM,5/9/2024 10:54:50 PM
+153,User Story,Assimilated coherent application,Steve Rogers <steve.rogers@avengers.com>,Closed,Design,21,Chatbot,4/25/2024 10:59:10 AM,5/2/2024 8:13:38 PM,5/5/2024 11:05:02 PM
+154,User Story,Multi-lateral fresh-thinking synergy,Natasha Romanov <1wDf1!@avengers.com>,Closed,Frontend,13,Chatbot,4/23/2024 4:16:03 PM,5/6/2024 4:54:38 PM,5/6/2024 2:35:36 AM
+155,User Story,Innovative static array,Natasha Romanov <1wDf1!@avengers.com>,Closed,Design,8,Sentiment Analysis,4/25/2024 1:43:35 AM,5/8/2024 8:37:00 PM,4/30/2024 2:26:09 AM
+156,User Story,Cross-platform actuating Graphical User Interface,Loki Odinson <thor@avengers.com>,Closed,Backend,5,Sentiment Analysis,4/19/2024 11:27:34 AM,5/2/2024 4:17:35 AM,5/5/2024 3:59:42 AM
+157,User Story,Managed homogeneous encoding,Natasha Romanov <1wDf1!@avengers.com>,Closed,Frontend,5,Data Governance Automation,4/20/2024 10:50:45 PM,5/1/2024 2:53:31 PM,5/8/2024 3:17:27 PM
+158,User Story,Devolved intangible attitude,Thor Odinson <the_real_thor@avengers.com>,Closed,Design,5,Data Governance Automation,4/19/2024 2:21:40 AM,5/4/2024 4:28:27 PM,4/29/2024 1:07:09 AM
+159,User Story,Exclusive executive portal,T'Challa Udaku <wakandaforever@avengers.com>,Closed,Design,5,Data Governance Automation,4/19/2024 8:33:25 PM,5/3/2024 9:07:17 AM,5/7/2024 3:09:31 PM
+160,User Story,Right-sized 4th generation standardization,T'Challa Udaku <wakandaforever@avengers.com>,Closed,Frontend,3,Data Governance Automation,4/16/2024 9:26:25 AM,5/4/2024 11:46:30 AM,5/2/2024 7:47:28 PM
+161,User Story,Extended encompassing framework,Loki Odinson <thor@avengers.com>,Closed,Design,8,Sentiment Analysis,4/21/2024 8:00:58 AM,5/3/2024 7:58:11 AM,5/3/2024 2:39:55 AM
+162,User Story,Self-enabling solution-oriented frame,Natasha Romanov <1wDf1!@avengers.com>,Closed,Backend,13,Sentiment Analysis,4/24/2024 3:45:27 AM,5/1/2024 10:07:00 PM,5/6/2024 10:57:07 PM
+163,User Story,Optional asynchronous approach,Steve Rogers <steve.rogers@avengers.com>,Closed,Frontend,2,Sentiment Analysis,4/16/2024 4:50:52 PM,5/1/2024 1:36:04 PM,4/30/2024 11:35:23 PM
+164,User Story,Switchable context-sensitive software,Loki Odinson <thor@avengers.com>,Closed,Backend,3,Chatbot,4/21/2024 3:20:11 AM,5/6/2024 4:37:38 AM,5/2/2024 3:32:21 AM
+165,User Story,Quality-focused eco-centric local area network,Loki Odinson <thor@avengers.com>,Closed,Backend,5,Chatbot,4/23/2024 7:27:18 PM,5/9/2024 6:52:37 PM,5/1/2024 2:36:26 AM
+166,User Story,Innovative multi-state standardization,T'Challa Udaku <wakandaforever@avengers.com>,Closed,Frontend,8,Chatbot,4/24/2024 10:37:23 AM,5/2/2024 8:44:18 PM,5/3/2024 4:33:06 PM
+167,User Story,Robust 24 hour strategy,Thor Odinson <the_real_thor@avengers.com>,Closed,Backend,8,Chatbot,4/24/2024 5:22:52 AM,5/8/2024 5:56:35 PM,5/6/2024 12:29:44 AM
+168,User Story,Implemented object-oriented strategy,Natasha Romanov <1wDf1!@avengers.com>,Closed,Design,1,Sentiment Analysis,4/19/2024 4:33:07 AM,5/3/2024 1:55:12 PM,5/4/2024 4:24:09 AM
+169,User Story,Team-oriented background architecture,Anthony Stark <iamironman@avengers.com>,Closed,Design,21,Sentiment Analysis,4/19/2024 2:55:45 PM,5/5/2024 8:54:27 PM,5/1/2024 2:06:00 AM
+170,Bug,Public-key high-level hub,Anthony Stark <iamironman@avengers.com>,Closed,Frontend,3,Sentiment Analysis,4/22/2024 8:57:04 PM,5/4/2024 5:03:38 AM,5/2/2024 12:16:13 PM
+171,User Story,Decentralized exuding access,Loki Odinson <thor@avengers.com>,Closed,Frontend,5,Sentiment Analysis,4/15/2024 4:13:31 AM,5/7/2024 10:07:53 PM,5/3/2024 3:26:38 PM
+172,User Story,Progressive bi-directional instruction set,Steve Rogers <steve.rogers@avengers.com>,Closed,Frontend,8,Data Governance Automation,4/25/2024 4:22:37 PM,5/7/2024 6:09:15 AM,4/30/2024 4:26:59 PM
+173,User Story,Extended client-driven infrastructure,Natasha Romanov <1wDf1!@avengers.com>,Closed,Design,8,Chatbot,4/19/2024 1:23:57 PM,5/7/2024 7:36:30 PM,5/7/2024 3:30:34 PM
+174,Bug,Vision-oriented full-range monitoring,Loki Odinson <thor@avengers.com>,Closed,Frontend,13,Chatbot,4/15/2024 3:57:36 PM,5/7/2024 8:55:12 PM,5/5/2024 9:55:40 AM
+175,User Story,Integrated upward-trending parallelism,Loki Odinson <thor@avengers.com>,Closed,Backend,13,Chatbot,4/19/2024 7:41:05 PM,5/5/2024 7:39:30 PM,5/2/2024 1:48:44 AM
+176,User Story,Cross-group eco-centric website,T'Challa Udaku <wakandaforever@avengers.com>,Closed,Design,5,Data Governance Automation,4/15/2024 12:07:20 PM,5/3/2024 8:25:28 PM,4/30/2024 2:15:41 PM
+177,User Story,Face to face client-server database,Natasha Romanov <1wDf1!@avengers.com>,Closed,Frontend,3,Data Governance Automation,4/15/2024 6:50:34 PM,5/6/2024 6:40:44 PM,5/6/2024 4:55:17 AM
+178,User Story,Reactive leading edge customer loyalty,Loki Odinson <thor@avengers.com>,Closed,Backend,5,Sentiment Analysis,4/20/2024 3:51:14 PM,5/3/2024 8:49:14 AM,4/30/2024 6:43:04 PM
+179,User Story,Exclusive logistical contingency,Natasha Romanov <1wDf1!@avengers.com>,Closed,Backend,5,Sentiment Analysis,4/19/2024 5:24:28 AM,5/4/2024 11:01:29 AM,5/4/2024 7:06:02 AM
+180,User Story,Right-sized neutral algorithm,Anthony Stark <iamironman@avengers.com>,Closed,Backend,21,Data Governance Automation,4/25/2024 5:35:56 PM,5/4/2024 2:05:03 PM,5/8/2024 8:43:22 PM
+181,User Story,Distributed mission-critical portal,Loki Odinson <thor@avengers.com>,Closed,Frontend,2,Data Governance Automation,4/21/2024 7:20:04 AM,5/5/2024 10:09:14 PM,4/29/2024 10:57:14 AM
+182,User Story,Down-sized asymmetric leverage,Natasha Romanov <1wDf1!@avengers.com>,Closed,Backend,5,Sentiment Analysis,4/20/2024 11:29:51 PM,5/5/2024 9:51:36 AM,5/4/2024 8:49:29 AM
+183,Bug,Reduced foreground framework,Anthony Stark <iamironman@avengers.com>,Closed,Design,2,Data Governance Automation,4/21/2024 2:38:32 PM,5/4/2024 5:51:13 PM,5/2/2024 4:28:31 AM
+184,User Story,Centralized secondary strategy,Loki Odinson <thor@avengers.com>,Closed,Design,2,Chatbot,4/22/2024 3:48:12 PM,5/9/2024 4:09:23 AM,5/1/2024 11:20:54 AM
+185,User Story,Sharable secondary matrix,Natasha Romanov <1wDf1!@avengers.com>,Closed,Design,5,Chatbot,4/20/2024 4:35:47 PM,5/1/2024 1:43:53 AM,5/1/2024 3:13:27 PM
+186,User Story,Cloned foreground architecture,Loki Odinson <thor@avengers.com>,Closed,Backend,3,Sentiment Analysis,4/16/2024 9:16:47 PM,5/9/2024 3:43:36 PM,5/8/2024 8:32:31 AM
+187,User Story,Triple-buffered scalable solution,Thor Odinson <the_real_thor@avengers.com>,Closed,Backend,5,Data Governance Automation,4/20/2024 1:01:30 AM,5/3/2024 5:55:41 PM,5/7/2024 5:26:42 AM
+188,User Story,Focused methodical capacity,Anthony Stark <iamironman@avengers.com>,Closed,Frontend,5,Data Governance Automation,4/23/2024 11:20:35 PM,5/2/2024 10:37:48 AM,5/7/2024 8:12:28 AM
+189,User Story,Reverse-engineered solution-oriented internet solution,Natasha Romanov <1wDf1!@avengers.com>,Closed,Frontend,1,Sentiment Analysis,4/17/2024 8:02:49 PM,5/4/2024 8:06:31 PM,5/2/2024 2:19:12 PM
+190,User Story,Ergonomic empowering attitude,T'Challa Udaku <wakandaforever@avengers.com>,Closed,Design,13,Sentiment Analysis,4/24/2024 11:04:16 PM,5/1/2024 2:56:42 AM,5/2/2024 7:53:24 PM
+191,User Story,Extended radical methodology,T'Challa Udaku <wakandaforever@avengers.com>,Closed,Backend,3,Chatbot,4/24/2024 1:16:01 AM,5/9/2024 1:54:13 PM,5/6/2024 1:28:20 PM
+192,User Story,Devolved 3rd generation ability,Natasha Romanov <1wDf1!@avengers.com>,Closed,Backend,21,Data Governance Automation,4/24/2024 6:05:30 AM,5/6/2024 2:53:26 AM,4/30/2024 5:10:25 PM
+193,User Story,Multi-lateral real-time help-desk,Anthony Stark <iamironman@avengers.com>,Closed,Frontend,5,Sentiment Analysis,4/24/2024 7:16:29 PM,5/5/2024 12:00:53 PM,5/6/2024 7:48:19 AM
+194,User Story,Extended asynchronous conglomeration,Steve Rogers <steve.rogers@avengers.com>,Closed,Backend,8,Sentiment Analysis,4/17/2024 3:14:34 AM,5/1/2024 12:00:38 PM,5/3/2024 10:41:45 PM
+195,User Story,Multi-lateral well-modulated forecast,Thor Odinson <the_real_thor@avengers.com>,Closed,Backend,3,Data Governance Automation,4/18/2024 8:01:52 AM,5/5/2024 5:29:39 PM,5/3/2024 10:19:35 AM
+196,User Story,Polarised modular time-frame,Anthony Stark <iamironman@avengers.com>,Closed,Frontend,2,Sentiment Analysis,4/24/2024 3:29:20 PM,5/1/2024 1:25:06 PM,5/4/2024 11:31:15 AM
+197,User Story,Down-sized optimizing software,Steve Rogers <steve.rogers@avengers.com>,Closed,Frontend,13,Chatbot,4/24/2024 3:36:42 PM,5/3/2024 9:51:29 AM,4/30/2024 6:49:19 AM
+198,User Story,Expanded reciprocal productivity,Thor Odinson <the_real_thor@avengers.com>,Closed,Backend,8,Sentiment Analysis,4/21/2024 2:04:15 AM,5/4/2024 7:01:53 PM,5/6/2024 10:22:41 AM
+199,User Story,Compatible system-worthy software,Anthony Stark <iamironman@avengers.com>,Closed,Frontend,3,Chatbot,4/22/2024 4:35:40 AM,5/9/2024 1:10:04 AM,4/29/2024 4:13:15 PM
+200,User Story,Vision-oriented disintermediate implementation,Thor Odinson <the_real_thor@avengers.com>,Closed,Design,8,Sentiment Analysis,4/15/2024 1:22:24 PM,5/4/2024 11:42:15 PM,5/1/2024 8:59:10 AM
+201,User Story,Open-source static instruction set,Anthony Stark <iamironman@avengers.com>,Closed,Backend,1,Chatbot,4/25/2024 4:55:58 AM,5/9/2024 12:05:26 PM,5/8/2024 7:26:07 PM
+202,User Story,Sharable executive orchestration,Natasha Romanov <1wDf1!@avengers.com>,Closed,Backend,2,Chatbot,4/20/2024 11:51:53 PM,5/8/2024 4:47:35 PM,5/5/2024 2:04:24 PM
+203,User Story,Digitized dynamic synergy,Thor Odinson <the_real_thor@avengers.com>,Closed,Design,5,Data Governance Automation,4/15/2024 12:58:16 PM,5/2/2024 2:13:59 PM,5/1/2024 3:35:18 AM
+204,User Story,Upgradable 3rd generation workforce,Anthony Stark <iamironman@avengers.com>,Closed,Backend,2,Data Governance Automation,4/17/2024 1:31:26 AM,5/7/2024 12:49:06 PM,5/4/2024 9:08:48 PM
+205,User Story,Assimilated explicit data-warehouse,Natasha Romanov <1wDf1!@avengers.com>,Closed,Frontend,21,Chatbot,4/20/2024 12:28:38 AM,5/7/2024 12:23:02 AM,5/3/2024 4:35:26 AM
+206,User Story,Open-source incremental architecture,T'Challa Udaku <wakandaforever@avengers.com>,Closed,Backend,5,Sentiment Analysis,4/20/2024 2:48:05 PM,5/7/2024 1:40:30 PM,5/2/2024 5:11:26 AM
+207,Bug,Switchable optimal migration,Loki Odinson <thor@avengers.com>,Closed,Backend,2,Chatbot,4/22/2024 10:06:14 PM,5/6/2024 12:40:26 AM,5/8/2024 5:07:51 AM
+208,User Story,Ameliorated disintermediate algorithm,Steve Rogers <steve.rogers@avengers.com>,Closed,Backend,13,Sentiment Analysis,4/19/2024 6:29:44 PM,5/6/2024 6:29:17 AM,5/2/2024 1:43:24 AM
+209,User Story,Customizable multimedia time-frame,T'Challa Udaku <wakandaforever@avengers.com>,Closed,Design,5,Chatbot,4/25/2024 9:07:32 AM,5/6/2024 10:40:36 PM,4/29/2024 3:29:52 PM
+210,User Story,Pre-emptive eco-centric challenge,Natasha Romanov <1wDf1!@avengers.com>,Closed,Design,2,Data Governance Automation,4/15/2024 6:27:42 AM,5/2/2024 1:07:14 PM,5/4/2024 12:23:32 PM
+211,Bug,Digitized full-range emulation,Natasha Romanov <1wDf1!@avengers.com>,Closed,Backend,5,Chatbot,4/18/2024 3:26:36 AM,5/2/2024 4:35:54 PM,5/4/2024 12:23:59 PM
+212,User Story,Proactive clear-thinking hardware,T'Challa Udaku <wakandaforever@avengers.com>,On Hold,Design,21,Data Governance Automation,4/18/2024 4:35:47 PM,5/6/2024 5:47:46 AM,5/4/2024 12:30:13 PM
+213,User Story,Extended optimizing initiative,Loki Odinson <thor@avengers.com>,Closed,Backend,8,Data Governance Automation,4/19/2024 12:40:20 PM,5/5/2024 9:02:20 AM,5/3/2024 10:32:08 AM
+214,User Story,Diverse well-modulated local area network,Loki Odinson <thor@avengers.com>,Closed,Backend,21,Data Governance Automation,4/23/2024 10:59:37 AM,5/1/2024 9:19:19 AM,5/5/2024 11:38:01 AM
+215,User Story,Synergistic transitional collaboration,T'Challa Udaku <wakandaforever@avengers.com>,On Hold,Design,5,Sentiment Analysis,4/16/2024 5:09:37 PM,5/8/2024 7:06:53 PM,5/4/2024 2:09:33 PM
+216,User Story,Configurable national neural-net,Thor Odinson <the_real_thor@avengers.com>,Closed,Design,2,Chatbot,4/23/2024 9:06:13 PM,5/1/2024 3:16:47 PM,4/29/2024 7:49:40 AM
+217,User Story,Managed zero administration application,Steve Rogers <steve.rogers@avengers.com>,Closed,Design,8,Data Governance Automation,4/15/2024 9:55:44 PM,5/9/2024 2:30:42 PM,5/6/2024 12:00:00 AM
+218,Bug,Open-source grid-enabled flexibility,T'Challa Udaku <wakandaforever@avengers.com>,Closed,Frontend,3,Data Governance Automation,4/23/2024 9:06:36 PM,5/5/2024 1:28:20 PM,5/3/2024 6:31:44 PM
+219,User Story,Focused even-keeled paradigm,Steve Rogers <steve.rogers@avengers.com>,Closed,Design,1,Chatbot,4/25/2024 10:39:07 PM,5/9/2024 10:51:57 AM,5/9/2024 7:32:58 PM
+220,User Story,Pre-emptive modular monitoring,Natasha Romanov <1wDf1!@avengers.com>,Closed,Backend,1,Data Governance Automation,4/21/2024 10:21:45 AM,5/7/2024 9:24:22 AM,5/5/2024 8:05:10 PM
+221,User Story,Expanded background hub,Natasha Romanov <1wDf1!@avengers.com>,Closed,Design,5,Chatbot,4/20/2024 9:46:45 PM,5/6/2024 7:30:50 PM,5/9/2024 10:59:08 PM
+222,Bug,Persevering context-sensitive moratorium,T'Challa Udaku <wakandaforever@avengers.com>,Closed,Backend,2,Data Governance Automation,4/16/2024 12:26:58 PM,5/1/2024 3:00:14 PM,5/7/2024 12:15:54 AM
+223,User Story,Implemented modular utilisation,T'Challa Udaku <wakandaforever@avengers.com>,Closed,Backend,5,Chatbot,4/17/2024 5:16:31 AM,5/4/2024 5:36:13 PM,5/6/2024 7:32:13 AM
+224,User Story,Inverse bottom-line product,Steve Rogers <steve.rogers@avengers.com>,Closed,Frontend,3,Chatbot,4/22/2024 5:29:09 AM,5/7/2024 6:25:00 PM,4/29/2024 8:15:25 PM
+225,User Story,Phased optimizing throughput,Anthony Stark <iamironman@avengers.com>,Closed,Design,8,Chatbot,4/18/2024 8:17:10 AM,5/3/2024 5:19:10 AM,4/29/2024 1:10:16 PM
+226,Bug,Triple-buffered tertiary emulation,Natasha Romanov <1wDf1!@avengers.com>,On Hold,Design,5,Sentiment Analysis,4/23/2024 11:22:27 PM,5/9/2024 11:55:35 PM,4/29/2024 4:26:46 AM
+227,User Story,Down-sized bi-directional pricing structure,Thor Odinson <the_real_thor@avengers.com>,Closed,Design,5,Chatbot,4/17/2024 11:49:48 AM,5/7/2024 12:03:57 PM,5/6/2024 7:07:21 PM
+228,User Story,Exclusive client-server neural-net,Natasha Romanov <1wDf1!@avengers.com>,Closed,Frontend,8,Data Governance Automation,4/25/2024 7:22:49 PM,5/8/2024 1:13:35 PM,5/3/2024 6:43:21 AM
+229,User Story,Vision-oriented well-modulated array,Loki Odinson <thor@avengers.com>,Closed,Design,21,Sentiment Analysis,4/16/2024 4:02:53 PM,5/9/2024 9:41:09 PM,4/30/2024 7:43:47 AM
+230,User Story,Fully-configurable next generation extranet,Natasha Romanov <1wDf1!@avengers.com>,Closed,Frontend,2,Data Governance Automation,4/20/2024 10:53:35 AM,5/7/2024 6:55:46 PM,5/4/2024 2:24:51 PM
+231,User Story,Synergized static artificial intelligence,Loki Odinson <thor@avengers.com>,Closed,Frontend,5,Sentiment Analysis,4/15/2024 11:37:00 AM,5/1/2024 4:35:08 AM,5/6/2024 1:50:40 AM
+232,User Story,Centralized maximized array,Steve Rogers <steve.rogers@avengers.com>,Closed,Frontend,5,Chatbot,4/22/2024 9:37:05 AM,5/4/2024 6:13:27 AM,5/2/2024 11:15:48 AM
+233,User Story,Visionary upward-trending neural-net,T'Challa Udaku <wakandaforever@avengers.com>,Closed,Design,13,Sentiment Analysis,4/17/2024 3:17:28 AM,5/8/2024 5:31:14 PM,5/7/2024 2:06:57 AM
+234,Bug,Total needs-based policy,T'Challa Udaku <wakandaforever@avengers.com>,On Hold,Backend,1,Chatbot,4/16/2024 7:18:23 PM,5/5/2024 10:16:15 PM,5/3/2024 8:51:47 PM
+235,User Story,Progressive 5th generation definition,Loki Odinson <thor@avengers.com>,Closed,Design,2,Chatbot,4/23/2024 10:01:22 PM,5/9/2024 6:55:04 AM,5/3/2024 4:06:39 PM
+236,User Story,Secured uniform methodology,Steve Rogers <steve.rogers@avengers.com>,Closed,Frontend,3,Sentiment Analysis,4/20/2024 12:36:23 PM,5/4/2024 11:23:31 AM,5/6/2024 7:37:28 AM
+237,User Story,Cloned content-based orchestration,Loki Odinson <thor@avengers.com>,Closed,Frontend,21,Data Governance Automation,4/18/2024 8:00:17 AM,5/7/2024 8:11:13 PM,4/29/2024 7:30:19 AM
+238,User Story,Streamlined well-modulated system engine,T'Challa Udaku <wakandaforever@avengers.com>,Closed,Backend,5,Chatbot,4/15/2024 4:42:44 PM,5/6/2024 7:47:26 PM,5/3/2024 12:38:21 PM
+239,User Story,Proactive bifurcated algorithm,Steve Rogers <steve.rogers@avengers.com>,Closed,Backend,13,Sentiment Analysis,4/21/2024 1:28:03 AM,5/9/2024 11:43:19 AM,5/8/2024 2:13:26 PM
+240,User Story,Streamlined composite initiative,Natasha Romanov <1wDf1!@avengers.com>,On Hold,Design,13,Chatbot,4/20/2024 10:26:17 PM,5/2/2024 1:34:18 PM,4/29/2024 11:28:42 PM
+241,User Story,Configurable methodical instruction set,Anthony Stark <iamironman@avengers.com>,Closed,Backend,2,Sentiment Analysis,4/23/2024 10:02:46 PM,5/9/2024 4:29:27 AM,5/8/2024 9:53:09 PM
+242,User Story,Grass-roots encompassing toolset,Loki Odinson <thor@avengers.com>,Closed,Backend,13,Chatbot,4/17/2024 9:03:34 AM,5/1/2024 10:31:08 PM,5/7/2024 4:05:52 AM
+243,Bug,Realigned bottom-line website,Anthony Stark <iamironman@avengers.com>,Closed,Design,3,Sentiment Analysis,4/20/2024 3:58:46 AM,5/8/2024 12:41:52 AM,5/9/2024 8:11:05 AM
+244,User Story,Reactive needs-based application,Thor Odinson <the_real_thor@avengers.com>,Closed,Backend,8,Chatbot,4/16/2024 11:36:40 PM,5/3/2024 10:54:24 AM,5/1/2024 6:49:20 PM
+245,Bug,Organic zero defect capacity,Thor Odinson <the_real_thor@avengers.com>,Closed,Frontend,8,Data Governance Automation,4/17/2024 4:15:38 PM,5/4/2024 3:36:22 AM,5/6/2024 2:21:46 AM
+246,User Story,Self-enabling multimedia groupware,Thor Odinson <the_real_thor@avengers.com>,Closed,Frontend,3,Chatbot,4/17/2024 12:44:50 PM,5/2/2024 7:28:42 PM,5/9/2024 11:07:35 AM
+247,User Story,Diverse responsive utilisation,Steve Rogers <steve.rogers@avengers.com>,On Hold,Design,3,Chatbot,4/17/2024 3:58:30 PM,5/1/2024 2:29:13 PM,5/6/2024 9:34:03 AM
+248,User Story,Extended local matrix,Steve Rogers <steve.rogers@avengers.com>,Closed,Backend,2,Sentiment Analysis,4/24/2024 3:34:08 PM,5/4/2024 1:46:16 PM,4/29/2024 6:08:16 AM
+249,User Story,Horizontal client-driven archive,Steve Rogers <steve.rogers@avengers.com>,Closed,Frontend,8,Data Governance Automation,4/15/2024 6:42:39 PM,5/7/2024 11:25:11 PM,5/7/2024 8:43:49 AM
+250,User Story,Ergonomic scalable task-force,Steve Rogers <steve.rogers@avengers.com>,Closed,Backend,5,Chatbot,4/18/2024 1:11:37 PM,5/8/2024 11:51:34 PM,4/30/2024 12:02:44 AM
+251,User Story,Multi-layered object-oriented time-frame,Anthony Stark <iamironman@avengers.com>,Closed,Backend,8,Data Governance Automation,4/19/2024 1:55:18 PM,5/1/2024 8:33:52 AM,5/7/2024 9:19:38 PM
+252,User Story,User-friendly needs-based alliance,Natasha Romanov <1wDf1!@avengers.com>,Closed,Backend,3,Chatbot,4/17/2024 2:43:19 AM,5/4/2024 3:24:14 PM,4/30/2024 8:17:57 PM
+253,User Story,Implemented impactful workforce,Natasha Romanov <1wDf1!@avengers.com>,Closed,Backend,8,Sentiment Analysis,4/21/2024 6:10:49 PM,5/4/2024 8:51:14 AM,5/3/2024 4:50:44 AM
+254,User Story,Secured directional open architecture,Natasha Romanov <1wDf1!@avengers.com>,Closed,Backend,5,Data Governance Automation,4/24/2024 12:24:05 PM,5/3/2024 4:18:50 PM,5/8/2024 12:10:31 AM
+255,User Story,Switchable 3rd generation matrix,Thor Odinson <the_real_thor@avengers.com>,Closed,Frontend,13,Chatbot,4/24/2024 5:17:10 PM,5/4/2024 3:30:07 AM,5/3/2024 4:13:30 PM
+256,User Story,Reverse-engineered even-keeled website,Steve Rogers <steve.rogers@avengers.com>,On Hold,Frontend,5,Data Governance Automation,4/15/2024 11:48:43 AM,5/8/2024 4:15:42 PM,5/7/2024 4:54:04 PM
+257,User Story,Reduced composite capability,Loki Odinson <thor@avengers.com>,Closed,Backend,5,Data Governance Automation,4/24/2024 11:48:46 AM,5/6/2024 5:56:06 PM,5/1/2024 11:01:52 PM
+258,User Story,User-friendly optimal workforce,Thor Odinson <the_real_thor@avengers.com>,Closed,Backend,13,Chatbot,4/22/2024 10:30:01 AM,5/5/2024 6:04:33 PM,5/9/2024 10:57:03 PM
+259,User Story,Sharable secondary initiative,Anthony Stark <iamironman@avengers.com>,Closed,Frontend,8,Sentiment Analysis,4/22/2024 5:33:23 PM,5/7/2024 6:46:53 PM,5/2/2024 9:00:13 PM
+260,Bug,Innovative leading edge collaboration,Anthony Stark <iamironman@avengers.com>,Closed,Backend,5,Sentiment Analysis,4/16/2024 5:21:40 PM,5/4/2024 1:17:03 AM,4/30/2024 8:56:59 PM
+261,User Story,De-engineered neutral middleware,Steve Rogers <steve.rogers@avengers.com>,Closed,Backend,3,Data Governance Automation,4/23/2024 12:48:13 AM,5/3/2024 2:03:27 PM,5/5/2024 11:53:42 PM
+262,Bug,Profit-focused even-keeled strategy,Steve Rogers <steve.rogers@avengers.com>,Closed,Frontend,5,Data Governance Automation,4/18/2024 12:18:41 AM,5/1/2024 5:16:18 AM,5/8/2024 10:00:22 PM
+263,User Story,Face to face exuding moderator,Steve Rogers <steve.rogers@avengers.com>,Closed,Frontend,5,Sentiment Analysis,4/16/2024 1:08:07 AM,5/3/2024 4:22:25 AM,5/8/2024 10:15:05 AM
+264,User Story,Synchronised 5th generation secured line,Loki Odinson <thor@avengers.com>,Closed,Design,1,Data Governance Automation,4/19/2024 6:28:05 AM,5/4/2024 3:07:22 AM,5/7/2024 11:34:48 PM
+265,User Story,Mandatory zero defect access,Steve Rogers <steve.rogers@avengers.com>,Closed,Backend,5,Sentiment Analysis,4/19/2024 1:59:36 AM,5/8/2024 4:25:18 PM,5/9/2024 2:05:19 AM
+266,User Story,Open-architected systematic artificial intelligence,Steve Rogers <steve.rogers@avengers.com>,Closed,Frontend,3,Data Governance Automation,4/21/2024 5:21:59 PM,5/8/2024 8:40:18 PM,5/3/2024 10:50:11 PM
+267,User Story,Fundamental uniform process improvement,Steve Rogers <steve.rogers@avengers.com>,Closed,Frontend,5,Data Governance Automation,4/16/2024 6:16:51 PM,5/7/2024 4:39:19 AM,5/6/2024 7:23:51 PM
+268,User Story,Advanced tangible customer loyalty,Loki Odinson <thor@avengers.com>,Closed,Backend,13,Data Governance Automation,4/25/2024 11:23:47 AM,5/8/2024 3:15:36 PM,5/7/2024 1:43:05 PM
+269,User Story,Up-sized disintermediate initiative,Loki Odinson <thor@avengers.com>,Closed,Frontend,2,Sentiment Analysis,4/19/2024 11:27:28 AM,5/6/2024 9:03:02 PM,4/30/2024 10:32:32 AM
+270,User Story,Operative eco-centric success,T'Challa Udaku <wakandaforever@avengers.com>,Closed,Design,5,Chatbot,4/15/2024 12:49:24 PM,5/6/2024 1:17:03 AM,5/2/2024 5:07:25 AM
+271,Bug,Reduced high-level installation,Steve Rogers <steve.rogers@avengers.com>,Closed,Backend,1,Data Governance Automation,4/16/2024 7:13:56 AM,5/5/2024 12:15:45 AM,5/8/2024 12:42:53 AM
+272,User Story,Profound optimizing artificial intelligence,Steve Rogers <steve.rogers@avengers.com>,Closed,Backend,5,Data Governance Automation,4/20/2024 9:58:56 AM,5/4/2024 5:23:23 PM,5/5/2024 11:57:23 PM
+273,User Story,Self-enabling mobile paradigm,Anthony Stark <iamironman@avengers.com>,Closed,Backend,21,Data Governance Automation,4/15/2024 3:24:29 AM,5/7/2024 8:48:24 PM,5/8/2024 5:41:48 AM
+274,User Story,Quality-focused needs-based help-desk,Anthony Stark <iamironman@avengers.com>,Closed,Frontend,5,Chatbot,4/19/2024 3:30:45 PM,5/2/2024 6:36:18 PM,4/29/2024 4:33:58 PM
+275,User Story,Balanced actuating artificial intelligence,Thor Odinson <the_real_thor@avengers.com>,Closed,Design,3,Sentiment Analysis,4/25/2024 10:40:43 PM,5/4/2024 7:50:44 AM,5/6/2024 7:02:40 AM
+276,User Story,Reverse-engineered zero tolerance customer loyalty,Thor Odinson <the_real_thor@avengers.com>,Closed,Frontend,21,Sentiment Analysis,4/20/2024 3:00:50 AM,5/1/2024 8:33:29 PM,5/1/2024 6:03:53 PM
+277,User Story,Re-contextualized optimal moratorium,Anthony Stark <iamironman@avengers.com>,Closed,Backend,13,Chatbot,4/19/2024 12:04:45 PM,5/1/2024 1:33:17 AM,4/30/2024 11:22:58 PM
+278,Bug,Virtual directional knowledge user,Anthony Stark <iamironman@avengers.com>,Closed,Backend,13,Chatbot,4/19/2024 3:06:19 PM,5/1/2024 3:09:38 AM,5/8/2024 6:27:14 PM
+279,Bug,Optional clear-thinking solution,Thor Odinson <the_real_thor@avengers.com>,Closed,Backend,21,Chatbot,4/25/2024 11:51:59 PM,5/2/2024 8:54:07 AM,5/6/2024 4:46:53 AM
+280,User Story,Realigned encompassing solution,Anthony Stark <iamironman@avengers.com>,Closed,Backend,8,Data Governance Automation,4/16/2024 12:37:51 PM,5/7/2024 11:35:06 AM,5/4/2024 8:07:41 AM
+281,User Story,Re-contextualized 24/7 extranet,T'Challa Udaku <wakandaforever@avengers.com>,Closed,Design,3,Data Governance Automation,4/25/2024 6:32:37 PM,5/9/2024 2:39:53 PM,5/2/2024 4:33:39 AM
+282,User Story,Realigned encompassing attitude,Natasha Romanov <1wDf1!@avengers.com>,Closed,Design,5,Chatbot,4/18/2024 6:33:23 AM,5/2/2024 9:12:08 AM,5/5/2024 6:48:08 AM
+283,User Story,User-centric system-worthy function,Steve Rogers <steve.rogers@avengers.com>,Closed,Design,8,Chatbot,4/21/2024 1:05:15 PM,5/4/2024 3:14:39 AM,5/9/2024 10:42:32 PM
+284,User Story,Reverse-engineered fresh-thinking database,Thor Odinson <the_real_thor@avengers.com>,On Hold,Backend,5,Sentiment Analysis,4/23/2024 10:33:19 PM,5/3/2024 2:36:35 PM,5/4/2024 11:36:20 AM
+285,User Story,Grass-roots actuating archive,Loki Odinson <thor@avengers.com>,Closed,Design,5,Data Governance Automation,4/22/2024 10:22:56 PM,5/6/2024 6:44:56 PM,5/2/2024 6:48:14 PM
+286,User Story,Innovative mission-critical synergy,Natasha Romanov <1wDf1!@avengers.com>,Closed,Backend,5,Chatbot,4/15/2024 4:13:39 AM,5/6/2024 1:59:55 PM,4/30/2024 11:33:13 AM
+287,User Story,Persevering tangible flexibility,Natasha Romanov <1wDf1!@avengers.com>,Closed,Backend,2,Sentiment Analysis,4/23/2024 12:03:41 AM,5/3/2024 10:19:16 AM,5/2/2024 6:13:38 PM
+288,User Story,Customer-focused human-resource orchestration,Steve Rogers <steve.rogers@avengers.com>,Closed,Backend,2,Sentiment Analysis,4/22/2024 12:30:44 AM,5/5/2024 10:28:08 AM,5/6/2024 6:45:35 PM
+289,Bug,Networked zero tolerance archive,Steve Rogers <steve.rogers@avengers.com>,Closed,Backend,8,Sentiment Analysis,4/24/2024 6:00:55 PM,5/2/2024 2:53:48 AM,5/9/2024 11:11:40 AM
+290,User Story,Innovative didactic conglomeration,Loki Odinson <thor@avengers.com>,Closed,Frontend,8,Chatbot,4/16/2024 7:12:09 PM,5/6/2024 12:16:01 PM,5/2/2024 6:55:15 PM
+291,Bug,Focused logistical open architecture,T'Challa Udaku <wakandaforever@avengers.com>,Closed,Frontend,3,Data Governance Automation,4/21/2024 11:25:33 AM,5/8/2024 2:37:36 AM,5/1/2024 12:11:14 PM
+292,User Story,Mandatory analyzing help-desk,Thor Odinson <the_real_thor@avengers.com>,Closed,Backend,2,Sentiment Analysis,4/17/2024 2:44:30 AM,5/5/2024 10:09:31 AM,5/2/2024 8:21:03 PM
+293,User Story,Robust next generation structure,Anthony Stark <iamironman@avengers.com>,Closed,Design,8,Sentiment Analysis,4/20/2024 5:59:15 PM,5/6/2024 8:04:46 AM,5/5/2024 7:34:57 PM
+294,Bug,Organic bi-directional installation,Steve Rogers <steve.rogers@avengers.com>,Closed,Frontend,5,Chatbot,4/22/2024 8:41:00 PM,5/4/2024 4:16:41 AM,4/29/2024 6:38:57 PM
+295,User Story,Function-based impactful parallelism,Natasha Romanov <1wDf1!@avengers.com>,Closed,Design,2,Sentiment Analysis,4/15/2024 3:51:46 PM,5/9/2024 10:51:29 AM,5/9/2024 7:22:10 AM
+296,User Story,Secured 24/7 flexibility,Steve Rogers <steve.rogers@avengers.com>,Closed,Frontend,13,Sentiment Analysis,4/19/2024 12:18:00 AM,5/3/2024 7:36:20 AM,5/3/2024 1:56:24 AM
+297,User Story,Organic needs-based customer loyalty,T'Challa Udaku <wakandaforever@avengers.com>,Closed,Frontend,13,Chatbot,4/25/2024 11:53:52 PM,5/9/2024 1:01:20 AM,5/2/2024 4:53:01 AM
+298,User Story,Progressive 5th generation project,Steve Rogers <steve.rogers@avengers.com>,Closed,Design,13,Sentiment Analysis,4/15/2024 2:15:47 AM,5/2/2024 5:48:37 PM,5/5/2024 6:01:36 PM
+299,User Story,Grass-roots solution-oriented array,Thor Odinson <the_real_thor@avengers.com>,On Hold,Design,3,Sentiment Analysis,4/24/2024 12:50:27 AM,5/3/2024 4:06:55 PM,5/7/2024 1:07:25 AM
+300,Bug,Exclusive intermediate workforce,Natasha Romanov <1wDf1!@avengers.com>,Closed,Backend,2,Data Governance Automation,4/20/2024 1:10:38 AM,5/7/2024 7:20:44 AM,4/30/2024 2:31:17 AM
+301,User Story,Enhanced foreground internet solution,Steve Rogers <steve.rogers@avengers.com>,Closed,Frontend,5,Data Governance Automation,4/16/2024 10:01:26 PM,5/2/2024 2:39:48 AM,5/9/2024 2:35:35 AM
+302,User Story,Ergonomic dynamic infrastructure,Loki Odinson <thor@avengers.com>,Closed,Backend,3,Data Governance Automation,4/25/2024 2:42:20 PM,5/2/2024 6:09:47 AM,5/8/2024 8:38:40 PM
+303,User Story,Stand-alone incremental firmware,Loki Odinson <thor@avengers.com>,Closed,Backend,5,Sentiment Analysis,4/20/2024 1:49:54 AM,5/8/2024 1:12:03 PM,4/29/2024 10:08:31 AM
+304,User Story,Quality-focused mobile focus group,Natasha Romanov <1wDf1!@avengers.com>,Closed,Backend,3,Data Governance Automation,4/24/2024 11:24:32 AM,5/1/2024 1:15:25 PM,5/2/2024 7:02:30 AM
+305,User Story,Customizable asynchronous frame,Loki Odinson <thor@avengers.com>,On Hold,Frontend,13,Data Governance Automation,4/16/2024 5:10:28 PM,5/7/2024 4:53:48 PM,5/1/2024 5:25:40 PM
+306,User Story,Re-contextualized bi-directional software,T'Challa Udaku <wakandaforever@avengers.com>,Closed,Frontend,13,Chatbot,4/17/2024 10:54:13 PM,5/5/2024 11:39:28 PM,5/7/2024 2:37:09 AM
+307,User Story,Automated human-resource encryption,T'Challa Udaku <wakandaforever@avengers.com>,Closed,Design,8,Sentiment Analysis,4/23/2024 7:03:28 PM,5/5/2024 10:34:58 AM,5/8/2024 4:10:27 PM
+308,User Story,Stand-alone local collaboration,T'Challa Udaku <wakandaforever@avengers.com>,Closed,Design,5,Chatbot,4/21/2024 2:48:45 PM,5/2/2024 4:47:37 AM,5/7/2024 3:22:32 PM
+309,User Story,Reduced optimizing throughput,Natasha Romanov <1wDf1!@avengers.com>,Closed,Backend,5,Sentiment Analysis,4/22/2024 6:53:02 AM,5/1/2024 7:11:52 AM,5/6/2024 7:16:29 PM
+310,User Story,De-engineered real-time throughput,Steve Rogers <steve.rogers@avengers.com>,On Hold,Backend,8,Chatbot,4/19/2024 7:31:06 PM,5/6/2024 8:58:57 PM,5/8/2024 1:54:44 PM
+311,User Story,Open-architected maximized archive,Loki Odinson <thor@avengers.com>,Closed,Frontend,3,Data Governance Automation,4/25/2024 8:12:06 AM,5/6/2024 5:47:22 AM,5/9/2024 6:00:21 PM
+312,Bug,Quality-focused homogeneous collaboration,Loki Odinson <thor@avengers.com>,Closed,Frontend,3,Chatbot,4/24/2024 2:41:58 PM,5/3/2024 9:57:33 AM,5/5/2024 9:28:37 PM
+313,Bug,Versatile attitude-oriented success,Thor Odinson <the_real_thor@avengers.com>,Closed,Backend,1,Sentiment Analysis,4/25/2024 7:13:43 AM,5/4/2024 1:25:18 PM,5/5/2024 4:37:51 PM
+314,User Story,Self-enabling intangible service-desk,Steve Rogers <steve.rogers@avengers.com>,Closed,Frontend,5,Data Governance Automation,4/17/2024 12:34:09 AM,5/9/2024 12:55:17 PM,5/6/2024 1:01:13 AM
+315,User Story,Synergistic bifurcated attitude,Anthony Stark <iamironman@avengers.com>,Closed,Design,13,Sentiment Analysis,4/22/2024 3:46:47 AM,5/2/2024 11:39:22 PM,4/29/2024 7:11:44 PM
+316,User Story,Advanced well-modulated service-desk,Natasha Romanov <1wDf1!@avengers.com>,On Hold,Backend,13,Sentiment Analysis,4/24/2024 5:45:31 AM,5/6/2024 8:09:09 PM,5/6/2024 3:53:26 AM
+317,User Story,Open-source reciprocal portal,T'Challa Udaku <wakandaforever@avengers.com>,Closed,Frontend,3,Chatbot,4/19/2024 7:43:25 PM,5/1/2024 6:59:21 PM,5/1/2024 10:49:46 PM
+318,Bug,Adaptive next generation focus group,Thor Odinson <the_real_thor@avengers.com>,Closed,Frontend,2,Data Governance Automation,4/23/2024 2:18:25 AM,5/9/2024 4:38:21 AM,5/6/2024 7:25:42 PM
+319,User Story,Intuitive uniform methodology,T'Challa Udaku <wakandaforever@avengers.com>,On Hold,Frontend,5,Chatbot,4/16/2024 11:02:27 PM,5/8/2024 11:42:05 PM,5/6/2024 11:25:40 PM
+320,Bug,Networked heuristic workforce,Natasha Romanov <1wDf1!@avengers.com>,Closed,Backend,5,Data Governance Automation,4/20/2024 10:30:56 PM,5/4/2024 3:46:32 PM,5/8/2024 6:12:50 AM
+321,Bug,Enterprise-wide context-sensitive intranet,T'Challa Udaku <wakandaforever@avengers.com>,Closed,Design,5,Data Governance Automation,4/21/2024 10:22:46 AM,5/9/2024 6:48:17 PM,4/29/2024 7:46:03 AM
+322,User Story,Reactive 24 hour alliance,Natasha Romanov <1wDf1!@avengers.com>,Closed,Design,2,Sentiment Analysis,4/24/2024 1:31:00 AM,5/6/2024 11:25:31 PM,5/5/2024 9:12:24 AM
+323,User Story,Self-enabling solution-oriented project,Steve Rogers <steve.rogers@avengers.com>,Closed,Frontend,8,Sentiment Analysis,4/21/2024 11:48:37 AM,5/8/2024 8:53:25 PM,4/29/2024 1:34:32 PM
+324,User Story,Enhanced multimedia contingency,Thor Odinson <the_real_thor@avengers.com>,Closed,Design,5,Chatbot,4/15/2024 2:25:44 PM,5/4/2024 3:05:42 AM,5/6/2024 1:54:44 AM
+325,User Story,Public-key bottom-line array,Loki Odinson <thor@avengers.com>,Closed,Frontend,3,Chatbot,4/20/2024 3:32:22 PM,5/1/2024 1:32:35 PM,4/29/2024 5:02:59 PM
+326,User Story,Advanced discrete initiative,T'Challa Udaku <wakandaforever@avengers.com>,Closed,Frontend,5,Sentiment Analysis,4/17/2024 4:58:25 PM,5/7/2024 5:22:10 PM,5/9/2024 12:27:11 PM
+327,User Story,Upgradable analyzing challenge,Thor Odinson <the_real_thor@avengers.com>,Closed,Backend,5,Chatbot,4/17/2024 4:14:56 AM,5/7/2024 3:36:40 PM,5/4/2024 2:38:56 PM
+328,User Story,Synchronised composite methodology,Loki Odinson <thor@avengers.com>,Closed,Backend,1,Chatbot,4/17/2024 4:48:08 AM,5/1/2024 6:12:17 PM,5/5/2024 6:06:44 AM
+329,User Story,Managed neutral Graphical User Interface,Steve Rogers <steve.rogers@avengers.com>,Closed,Frontend,3,Sentiment Analysis,4/24/2024 10:03:06 PM,5/6/2024 3:49:09 AM,5/6/2024 7:13:13 PM
+330,User Story,Seamless explicit policy,Anthony Stark <iamironman@avengers.com>,Closed,Frontend,5,Data Governance Automation,4/20/2024 4:35:58 PM,5/9/2024 12:11:42 PM,5/4/2024 10:41:02 PM
+331,User Story,Decentralized contextually-based productivity,T'Challa Udaku <wakandaforever@avengers.com>,Closed,Frontend,8,Chatbot,4/15/2024 8:45:41 AM,5/1/2024 3:30:13 PM,5/8/2024 9:29:01 AM
+332,User Story,Synergistic homogeneous ability,Thor Odinson <the_real_thor@avengers.com>,On Hold,Design,3,Data Governance Automation,4/16/2024 2:08:47 AM,5/6/2024 6:23:17 PM,5/4/2024 3:33:57 AM
+333,User Story,Public-key mobile functionalities,Steve Rogers <steve.rogers@avengers.com>,Closed,Backend,21,Chatbot,4/17/2024 5:50:38 PM,5/1/2024 5:16:49 PM,5/5/2024 5:09:14 PM
+334,User Story,Face to face reciprocal workforce,Steve Rogers <steve.rogers@avengers.com>,Closed,Frontend,5,Chatbot,4/21/2024 12:56:57 PM,5/8/2024 4:25:48 PM,5/8/2024 5:44:51 AM
+335,User Story,Ergonomic contextually-based challenge,Anthony Stark <iamironman@avengers.com>,On Hold,Design,5,Sentiment Analysis,4/19/2024 11:35:39 AM,5/1/2024 10:17:56 AM,5/9/2024 10:03:48 PM
+336,User Story,Inverse zero tolerance emulation,Loki Odinson <thor@avengers.com>,Closed,Backend,8,Data Governance Automation,4/21/2024 12:50:48 AM,5/4/2024 2:34:24 PM,5/3/2024 12:06:57 PM
+337,User Story,Multi-layered user-facing approach,Loki Odinson <thor@avengers.com>,Closed,Design,5,Sentiment Analysis,4/23/2024 2:11:53 PM,5/3/2024 5:04:38 AM,5/8/2024 5:25:26 PM
+338,User Story,Operative real-time help-desk,Natasha Romanov <1wDf1!@avengers.com>,Closed,Backend,5,Sentiment Analysis,4/23/2024 4:57:56 AM,5/2/2024 11:12:07 PM,5/9/2024 6:44:53 PM
+339,User Story,Programmable local standardization,Anthony Stark <iamironman@avengers.com>,On Hold,Backend,5,Chatbot,4/16/2024 11:17:30 AM,5/9/2024 3:30:27 AM,5/1/2024 10:55:27 AM
+340,User Story,Enterprise-wide client-driven neural-net,Loki Odinson <thor@avengers.com>,Closed,Design,5,Sentiment Analysis,4/15/2024 6:32:05 PM,5/7/2024 9:49:13 PM,5/7/2024 6:27:58 AM
+341,User Story,Stand-alone asynchronous support,Steve Rogers <steve.rogers@avengers.com>,Closed,Design,8,Sentiment Analysis,4/23/2024 12:24:23 AM,5/2/2024 8:56:05 AM,5/4/2024 5:12:30 PM
+342,User Story,Proactive intermediate initiative,Natasha Romanov <1wDf1!@avengers.com>,Closed,Frontend,5,Data Governance Automation,4/19/2024 2:27:26 PM,5/7/2024 3:44:06 PM,5/9/2024 5:55:10 PM
+343,User Story,Managed needs-based application,Loki Odinson <thor@avengers.com>,On Hold,Frontend,5,Data Governance Automation,4/25/2024 3:33:30 PM,5/2/2024 7:18:20 PM,5/6/2024 9:50:02 PM
+344,Bug,Profit-focused dynamic contingency,Steve Rogers <steve.rogers@avengers.com>,On Hold,Frontend,2,Chatbot,4/20/2024 9:15:41 AM,5/8/2024 12:20:31 PM,5/5/2024 1:35:48 PM
+345,User Story,Balanced multimedia alliance,Natasha Romanov <1wDf1!@avengers.com>,Closed,Design,3,Chatbot,4/16/2024 8:42:31 PM,5/3/2024 7:34:35 PM,5/2/2024 6:00:33 AM
+346,User Story,Ameliorated tertiary Graphical User Interface,Steve Rogers <steve.rogers@avengers.com>,Closed,Backend,3,Sentiment Analysis,4/16/2024 1:13:22 AM,5/4/2024 2:10:04 PM,5/9/2024 2:50:31 AM
+347,User Story,Team-oriented maximized approach,Anthony Stark <iamironman@avengers.com>,Closed,Backend,3,Sentiment Analysis,4/15/2024 3:53:32 PM,5/1/2024 3:17:51 AM,5/4/2024 2:30:42 AM
+348,User Story,Future-proofed tertiary service-desk,Natasha Romanov <1wDf1!@avengers.com>,Closed,Design,5,Sentiment Analysis,4/24/2024 12:56:07 AM,5/6/2024 8:15:30 PM,5/5/2024 11:31:32 AM
+349,User Story,Multi-channelled foreground benchmark,T'Challa Udaku <wakandaforever@avengers.com>,On Hold,Backend,21,Chatbot,4/22/2024 3:52:15 AM,5/8/2024 8:01:53 PM,5/7/2024 8:25:54 AM
+350,User Story,Cross-group client-driven strategy,Steve Rogers <steve.rogers@avengers.com>,Closed,Design,5,Chatbot,4/17/2024 12:39:39 AM,5/5/2024 5:29:37 PM,5/5/2024 7:12:48 PM
+351,User Story,Digitized heuristic attitude,Thor Odinson <the_real_thor@avengers.com>,Closed,Design,21,Sentiment Analysis,4/18/2024 2:12:46 PM,5/8/2024 8:53:11 PM,4/30/2024 4:48:38 PM
+352,User Story,Virtual dynamic instruction set,Steve Rogers <steve.rogers@avengers.com>,Closed,Backend,5,Chatbot,4/15/2024 10:51:38 AM,5/8/2024 5:56:36 PM,4/29/2024 4:51:34 PM
+353,User Story,Organic secondary hub,Anthony Stark <iamironman@avengers.com>,Closed,Backend,21,Sentiment Analysis,4/15/2024 4:32:17 PM,5/5/2024 8:08:54 AM,5/9/2024 10:16:41 PM
+354,User Story,Public-key demand-driven migration,Thor Odinson <the_real_thor@avengers.com>,Closed,Backend,3,Chatbot,4/17/2024 12:46:23 PM,5/4/2024 2:49:43 PM,5/3/2024 4:29:27 AM
+355,User Story,Seamless 24/7 conglomeration,Loki Odinson <thor@avengers.com>,Closed,Frontend,5,Chatbot,4/17/2024 6:14:22 PM,5/2/2024 1:24:03 PM,5/4/2024 4:34:45 AM
+356,User Story,Operative interactive benchmark,Natasha Romanov <1wDf1!@avengers.com>,Closed,Backend,2,Sentiment Analysis,4/19/2024 9:07:20 PM,5/6/2024 5:08:25 PM,5/3/2024 5:33:10 PM
+357,User Story,Organic value-added circuit,Anthony Stark <iamironman@avengers.com>,Closed,Design,1,Sentiment Analysis,4/20/2024 7:01:19 AM,5/3/2024 2:34:42 PM,5/3/2024 1:04:57 AM
+358,Bug,Implemented incremental framework,T'Challa Udaku <wakandaforever@avengers.com>,Closed,Frontend,3,Sentiment Analysis,4/19/2024 8:03:35 PM,5/6/2024 9:46:58 PM,5/8/2024 4:45:00 AM
+359,Bug,Automated attitude-oriented encryption,Natasha Romanov <1wDf1!@avengers.com>,Closed,Design,5,Data Governance Automation,4/22/2024 1:43:03 PM,5/1/2024 9:04:01 PM,5/3/2024 1:09:17 AM
+360,User Story,Streamlined dynamic project,Loki Odinson <thor@avengers.com>,Closed,Backend,8,Sentiment Analysis,4/15/2024 7:40:03 PM,5/6/2024 9:19:57 PM,5/9/2024 2:14:14 AM
+361,User Story,Object-based grid-enabled knowledge user,Natasha Romanov <1wDf1!@avengers.com>,Closed,Design,13,Sentiment Analysis,4/22/2024 6:41:51 PM,5/9/2024 9:12:42 PM,5/4/2024 10:35:24 PM
+362,User Story,Stand-alone executive circuit,Loki Odinson <thor@avengers.com>,Closed,Frontend,2,Sentiment Analysis,4/15/2024 8:02:08 PM,5/7/2024 8:33:14 PM,4/29/2024 4:32:24 AM
+363,User Story,Total full-range collaboration,Anthony Stark <iamironman@avengers.com>,Closed,Backend,5,Sentiment Analysis,4/19/2024 4:13:06 AM,5/4/2024 7:53:15 PM,5/1/2024 5:17:03 AM
+364,Bug,Inverse multi-state archive,Thor Odinson <the_real_thor@avengers.com>,Closed,Design,8,Data Governance Automation,4/16/2024 7:07:49 AM,5/2/2024 9:05:55 AM,5/2/2024 3:20:21 PM
+365,User Story,Cloned regional attitude,Thor Odinson <the_real_thor@avengers.com>,Closed,Backend,5,Sentiment Analysis,4/18/2024 11:45:43 PM,5/4/2024 11:18:52 PM,5/5/2024 5:38:18 PM
+366,User Story,Re-engineered national application,T'Challa Udaku <wakandaforever@avengers.com>,Closed,Backend,3,Data Governance Automation,4/15/2024 8:11:35 AM,5/7/2024 2:57:32 AM,5/3/2024 9:21:30 AM
+367,User Story,Object-based mobile productivity,Anthony Stark <iamironman@avengers.com>,Closed,Backend,1,Sentiment Analysis,4/24/2024 4:33:43 AM,5/3/2024 3:59:03 PM,5/3/2024 11:02:19 PM
+368,User Story,Progressive content-based moratorium,Loki Odinson <thor@avengers.com>,Closed,Backend,8,Chatbot,4/21/2024 8:08:30 AM,5/5/2024 10:33:20 PM,5/6/2024 9:27:04 PM
+369,User Story,Innovative value-added service-desk,Natasha Romanov <1wDf1!@avengers.com>,On Hold,Design,13,Sentiment Analysis,4/20/2024 6:35:40 AM,5/7/2024 11:57:52 AM,5/2/2024 2:16:24 PM
+370,User Story,Exclusive foreground extranet,T'Challa Udaku <wakandaforever@avengers.com>,Closed,Design,3,Chatbot,4/25/2024 2:48:47 AM,5/6/2024 8:29:17 PM,4/30/2024 12:42:08 AM
+371,User Story,Up-sized systematic success,T'Challa Udaku <wakandaforever@avengers.com>,Closed,Design,5,Chatbot,4/16/2024 4:58:24 PM,5/8/2024 12:38:12 PM,5/7/2024 11:28:24 PM
+372,User Story,Right-sized discrete synergy,Natasha Romanov <1wDf1!@avengers.com>,Closed,Backend,13,Chatbot,4/21/2024 9:56:48 PM,5/6/2024 6:59:25 AM,5/8/2024 5:20:13 PM
+373,User Story,Advanced static Graphic Interface,Steve Rogers <steve.rogers@avengers.com>,Closed,Backend,21,Chatbot,4/20/2024 7:23:52 PM,5/6/2024 6:31:32 AM,5/8/2024 4:28:53 PM
+374,User Story,Public-key motivating complexity,Steve Rogers <steve.rogers@avengers.com>,Closed,Frontend,21,Chatbot,4/25/2024 5:56:38 AM,5/1/2024 4:50:30 PM,4/29/2024 7:34:47 PM
+375,User Story,Ergonomic responsive concept,T'Challa Udaku <wakandaforever@avengers.com>,Closed,Design,2,Data Governance Automation,4/25/2024 11:31:53 PM,5/1/2024 4:18:09 AM,5/4/2024 3:59:51 PM
+376,Bug,Realigned encompassing application,Steve Rogers <steve.rogers@avengers.com>,Closed,Design,3,Chatbot,4/22/2024 2:43:27 AM,5/7/2024 2:52:53 PM,4/29/2024 9:11:40 AM
+377,User Story,Decentralized empowering productivity,T'Challa Udaku <wakandaforever@avengers.com>,Closed,Design,13,Chatbot,4/18/2024 5:37:24 PM,5/9/2024 7:13:11 PM,5/5/2024 12:03:39 AM
+378,User Story,Universal holistic website,Loki Odinson <thor@avengers.com>,Closed,Design,8,Chatbot,4/15/2024 1:28:55 PM,5/8/2024 10:41:58 PM,5/9/2024 11:01:28 PM
+379,User Story,Sharable dedicated matrices,Steve Rogers <steve.rogers@avengers.com>,Closed,Frontend,3,Chatbot,4/19/2024 10:31:40 PM,5/3/2024 2:29:41 AM,4/30/2024 5:43:32 AM
+380,User Story,Streamlined dedicated function,Thor Odinson <the_real_thor@avengers.com>,Closed,Design,3,Sentiment Analysis,4/19/2024 6:45:56 AM,5/7/2024 8:52:11 PM,5/3/2024 11:03:37 PM
+381,User Story,Multi-layered optimizing software,Thor Odinson <the_real_thor@avengers.com>,Closed,Design,1,Sentiment Analysis,4/16/2024 5:44:01 PM,5/6/2024 12:42:50 PM,5/5/2024 9:29:03 PM
+382,User Story,Reduced intermediate function,Loki Odinson <thor@avengers.com>,On Hold,Backend,2,Chatbot,4/25/2024 11:57:01 AM,5/7/2024 3:25:16 AM,5/9/2024 3:22:28 PM
+383,User Story,Advanced local instruction set,T'Challa Udaku <wakandaforever@avengers.com>,On Hold,Frontend,5,Sentiment Analysis,4/21/2024 7:47:29 AM,5/3/2024 12:14:39 PM,5/5/2024 7:48:43 AM
+384,User Story,Future-proofed dedicated benchmark,Thor Odinson <the_real_thor@avengers.com>,Closed,Design,8,Chatbot,4/16/2024 2:45:09 AM,5/7/2024 6:14:26 AM,5/7/2024 2:42:14 PM
+385,Bug,Automated zero tolerance functionalities,Natasha Romanov <1wDf1!@avengers.com>,Closed,Design,3,Sentiment Analysis,4/24/2024 10:26:47 AM,5/2/2024 10:26:42 PM,5/3/2024 12:50:00 AM
+386,User Story,Inverse encompassing challenge,Anthony Stark <iamironman@avengers.com>,Closed,Backend,13,Chatbot,4/18/2024 7:10:13 AM,5/2/2024 2:07:22 AM,5/1/2024 3:02:56 AM
+387,User Story,Reactive client-driven matrices,Thor Odinson <the_real_thor@avengers.com>,Closed,Design,13,Sentiment Analysis,4/24/2024 12:13:14 PM,5/2/2024 12:00:25 AM,5/4/2024 7:11:18 AM
+388,Bug,Persistent local conglomeration,T'Challa Udaku <wakandaforever@avengers.com>,Closed,Backend,2,Chatbot,4/15/2024 3:19:25 AM,5/3/2024 12:44:54 PM,5/3/2024 7:21:53 AM
+389,User Story,Object-based optimal archive,Loki Odinson <thor@avengers.com>,Closed,Backend,5,Sentiment Analysis,4/19/2024 6:39:59 PM,5/1/2024 1:25:23 AM,5/5/2024 6:15:41 AM
+390,User Story,Re-contextualized homogeneous interface,Anthony Stark <iamironman@avengers.com>,Closed,Frontend,8,Data Governance Automation,4/15/2024 2:40:48 AM,5/6/2024 12:41:10 PM,5/5/2024 9:50:02 PM
+391,User Story,Synergistic high-level archive,T'Challa Udaku <wakandaforever@avengers.com>,Closed,Design,3,Data Governance Automation,4/24/2024 12:30:42 PM,5/1/2024 8:27:58 PM,5/7/2024 1:37:45 AM
+392,Bug,De-engineered bi-directional forecast,Anthony Stark <iamironman@avengers.com>,Closed,Design,3,Sentiment Analysis,4/24/2024 12:37:51 AM,5/4/2024 7:08:04 AM,5/7/2024 9:51:56 AM
+393,User Story,Realigned local database,Thor Odinson <the_real_thor@avengers.com>,Closed,Design,21,Chatbot,4/19/2024 2:42:32 PM,5/2/2024 11:28:52 PM,5/3/2024 9:08:32 AM
+394,User Story,Virtual secondary policy,T'Challa Udaku <wakandaforever@avengers.com>,Closed,Frontend,3,Data Governance Automation,4/25/2024 9:38:13 PM,5/1/2024 6:42:19 AM,4/30/2024 9:21:38 AM
+395,User Story,Configurable empowering toolset,Anthony Stark <iamironman@avengers.com>,Closed,Backend,5,Sentiment Analysis,4/15/2024 6:31:39 PM,5/3/2024 10:21:58 AM,5/5/2024 11:20:01 AM
+396,User Story,Centralized motivating installation,Loki Odinson <thor@avengers.com>,Closed,Backend,8,Chatbot,4/23/2024 8:54:03 PM,5/7/2024 9:56:35 PM,4/30/2024 5:11:14 PM
+397,User Story,Up-sized exuding methodology,Anthony Stark <iamironman@avengers.com>,Closed,Design,3,Data Governance Automation,4/17/2024 10:03:58 PM,5/4/2024 10:46:01 PM,4/30/2024 9:33:46 PM
+398,User Story,De-engineered leading edge firmware,Thor Odinson <the_real_thor@avengers.com>,Closed,Design,8,Sentiment Analysis,4/18/2024 10:21:24 PM,5/4/2024 6:24:54 PM,5/9/2024 11:56:14 AM
+399,User Story,Versatile modular knowledge base,T'Challa Udaku <wakandaforever@avengers.com>,Closed,Design,3,Chatbot,4/21/2024 4:32:49 AM,5/1/2024 6:14:24 PM,5/9/2024 11:26:02 PM
+400,User Story,Open-architected maximized moderator,Thor Odinson <the_real_thor@avengers.com>,Closed,Frontend,3,Chatbot,4/25/2024 10:16:54 AM,5/7/2024 11:48:41 AM,5/5/2024 9:52:54 PM
+401,User Story,Total static Graphical User Interface,Steve Rogers <steve.rogers@avengers.com>,Closed,Frontend,2,Chatbot,4/24/2024 7:56:23 PM,5/1/2024 5:23:21 AM,5/7/2024 7:11:22 AM
+402,User Story,Innovative intermediate hardware,Loki Odinson <thor@avengers.com>,Closed,Backend,8,Sentiment Analysis,4/16/2024 2:11:01 PM,5/1/2024 11:23:06 PM,5/5/2024 12:12:43 PM
+403,User Story,Proactive human-resource superstructure,Natasha Romanov <1wDf1!@avengers.com>,On Hold,Frontend,8,Chatbot,4/20/2024 2:03:54 PM,5/1/2024 4:07:44 PM,4/29/2024 2:28:33 AM
+404,User Story,Future-proofed systematic instruction set,Natasha Romanov <1wDf1!@avengers.com>,Closed,Backend,2,Data Governance Automation,4/20/2024 11:32:26 PM,5/9/2024 5:53:49 PM,4/29/2024 10:53:15 PM
+405,User Story,Vision-oriented eco-centric neural-net,Loki Odinson <thor@avengers.com>,Closed,Backend,3,Chatbot,4/17/2024 7:16:32 AM,5/5/2024 4:13:26 AM,5/2/2024 9:13:30 AM
+406,User Story,Reactive mission-critical analyzer,Thor Odinson <the_real_thor@avengers.com>,Closed,Design,2,Chatbot,4/15/2024 8:35:53 PM,5/8/2024 10:40:53 PM,5/9/2024 7:41:42 PM
+407,User Story,Down-sized explicit methodology,Loki Odinson <thor@avengers.com>,Closed,Design,8,Data Governance Automation,4/15/2024 2:09:05 PM,5/7/2024 4:36:50 PM,5/6/2024 12:57:13 PM
+408,User Story,Stand-alone 6th generation function,Natasha Romanov <1wDf1!@avengers.com>,Closed,Frontend,5,Sentiment Analysis,4/24/2024 1:39:51 AM,5/5/2024 8:50:51 PM,5/9/2024 3:18:05 AM
+409,User Story,Vision-oriented tangible challenge,T'Challa Udaku <wakandaforever@avengers.com>,Closed,Frontend,8,Data Governance Automation,4/16/2024 10:19:19 PM,5/4/2024 10:03:39 AM,4/29/2024 11:13:43 PM
+410,User Story,Managed bi-directional concept,Natasha Romanov <1wDf1!@avengers.com>,Closed,Frontend,8,Sentiment Analysis,4/16/2024 6:11:49 AM,5/4/2024 8:14:27 AM,5/2/2024 2:31:05 AM
+411,User Story,Right-sized interactive function,Natasha Romanov <1wDf1!@avengers.com>,Closed,Design,2,Sentiment Analysis,4/21/2024 5:58:06 AM,5/6/2024 12:49:08 PM,5/5/2024 1:04:40 AM
+412,User Story,Organized 6th generation internet solution,Thor Odinson <the_real_thor@avengers.com>,Closed,Frontend,8,Sentiment Analysis,4/24/2024 2:26:45 PM,5/3/2024 10:24:51 AM,4/30/2024 4:09:07 AM
+413,Bug,Cross-group national orchestration,Anthony Stark <iamironman@avengers.com>,Closed,Design,2,Data Governance Automation,4/23/2024 3:45:31 AM,5/5/2024 11:23:40 PM,5/7/2024 4:29:12 PM
+414,User Story,Visionary non-volatile moderator,T'Challa Udaku <wakandaforever@avengers.com>,Closed,Design,1,Data Governance Automation,4/16/2024 3:26:24 PM,5/7/2024 10:24:45 PM,5/7/2024 6:14:50 AM
+415,User Story,Advanced empowering middleware,Thor Odinson <the_real_thor@avengers.com>,Closed,Design,1,Data Governance Automation,4/15/2024 5:37:06 AM,5/2/2024 8:48:25 PM,5/6/2024 12:55:38 PM
+416,User Story,Stand-alone background access,Thor Odinson <the_real_thor@avengers.com>,Closed,Frontend,3,Sentiment Analysis,4/18/2024 3:58:42 PM,5/2/2024 12:28:14 PM,5/8/2024 8:03:20 PM
+417,User Story,Open-architected bi-directional matrices,Loki Odinson <thor@avengers.com>,Closed,Backend,13,Chatbot,4/20/2024 8:53:54 AM,5/7/2024 10:35:37 AM,5/9/2024 5:04:02 AM
+418,User Story,Visionary analyzing frame,Loki Odinson <thor@avengers.com>,Closed,Design,1,Data Governance Automation,4/20/2024 4:37:29 PM,5/9/2024 2:11:03 AM,5/5/2024 2:20:17 PM
+419,User Story,Balanced national installation,Natasha Romanov <1wDf1!@avengers.com>,Closed,Frontend,5,Data Governance Automation,4/15/2024 1:53:15 PM,5/9/2024 1:27:26 PM,5/8/2024 12:44:50 AM
+420,Bug,Reduced secondary open architecture,Steve Rogers <steve.rogers@avengers.com>,Closed,Backend,5,Data Governance Automation,4/23/2024 1:19:29 AM,5/5/2024 10:48:55 PM,4/29/2024 6:46:27 PM
+421,User Story,Multi-tiered heuristic challenge,Natasha Romanov <1wDf1!@avengers.com>,Closed,Frontend,5,Sentiment Analysis,4/17/2024 2:24:50 PM,5/6/2024 8:27:35 PM,5/6/2024 1:47:51 PM
+422,Bug,Cross-platform composite Graphical User Interface,Steve Rogers <steve.rogers@avengers.com>,Closed,Design,3,Sentiment Analysis,4/23/2024 7:52:49 AM,5/6/2024 7:37:45 AM,5/3/2024 11:36:42 AM
+423,User Story,Organized intangible algorithm,Anthony Stark <iamironman@avengers.com>,Closed,Design,8,Data Governance Automation,4/22/2024 7:22:04 PM,5/3/2024 1:53:28 AM,5/9/2024 6:46:24 PM
+424,User Story,Stand-alone systematic workforce,Loki Odinson <thor@avengers.com>,Closed,Backend,8,Data Governance Automation,4/20/2024 4:15:25 AM,5/4/2024 8:47:24 AM,4/30/2024 6:02:53 AM
+425,User Story,Total intermediate Graphic Interface,Thor Odinson <the_real_thor@avengers.com>,Closed,Frontend,8,Sentiment Analysis,4/23/2024 5:22:41 PM,5/5/2024 1:14:19 PM,5/4/2024 4:06:34 PM
+426,User Story,Compatible neutral hub,Steve Rogers <steve.rogers@avengers.com>,Closed,Backend,2,Data Governance Automation,4/25/2024 3:58:22 PM,5/1/2024 11:01:59 PM,5/4/2024 10:38:26 AM
+427,Bug,Ameliorated 6th generation intranet,Steve Rogers <steve.rogers@avengers.com>,Closed,Frontend,13,Sentiment Analysis,4/19/2024 1:25:13 PM,5/2/2024 8:30:43 AM,5/6/2024 9:02:11 PM
+428,User Story,Enhanced homogeneous database,Loki Odinson <thor@avengers.com>,Closed,Backend,3,Chatbot,4/22/2024 4:30:55 PM,5/8/2024 10:20:04 PM,5/4/2024 1:38:02 AM
+429,User Story,Object-based non-volatile system engine,Natasha Romanov <1wDf1!@avengers.com>,Closed,Design,21,Data Governance Automation,4/16/2024 2:28:46 PM,5/2/2024 2:42:12 AM,5/2/2024 9:19:28 AM
+430,User Story,Operative neutral solution,Anthony Stark <iamironman@avengers.com>,Closed,Design,3,Data Governance Automation,4/24/2024 1:52:09 PM,5/4/2024 1:58:40 AM,5/5/2024 7:11:35 PM
+431,User Story,Secured static service-desk,Thor Odinson <the_real_thor@avengers.com>,Closed,Backend,8,Chatbot,4/21/2024 7:44:00 PM,5/5/2024 10:19:47 PM,5/9/2024 10:49:07 PM
+432,User Story,Virtual actuating infrastructure,T'Challa Udaku <wakandaforever@avengers.com>,Closed,Frontend,3,Sentiment Analysis,4/20/2024 5:18:57 AM,5/9/2024 2:20:26 PM,4/29/2024 5:10:51 AM
+433,Bug,Grass-roots fault-tolerant structure,Natasha Romanov <1wDf1!@avengers.com>,Closed,Backend,1,Data Governance Automation,4/22/2024 2:57:32 AM,5/5/2024 5:55:17 PM,5/7/2024 7:22:36 AM
+434,User Story,De-engineered global time-frame,Thor Odinson <the_real_thor@avengers.com>,Closed,Design,8,Chatbot,4/24/2024 7:08:22 PM,5/8/2024 1:48:18 AM,5/3/2024 6:32:22 PM
+435,User Story,Inverse exuding synergy,T'Challa Udaku <wakandaforever@avengers.com>,Closed,Frontend,5,Data Governance Automation,4/17/2024 10:09:13 PM,5/4/2024 10:17:32 PM,5/3/2024 9:27:40 PM
+436,User Story,Progressive analyzing core,Natasha Romanov <1wDf1!@avengers.com>,Closed,Frontend,3,Data Governance Automation,4/25/2024 4:40:28 PM,5/2/2024 7:25:13 AM,5/9/2024 4:41:32 PM
+437,User Story,Seamless regional array,Natasha Romanov <1wDf1!@avengers.com>,Closed,Backend,3,Sentiment Analysis,4/21/2024 8:18:33 AM,5/8/2024 12:54:37 PM,5/2/2024 10:16:15 AM
+438,User Story,Function-based demand-driven attitude,Thor Odinson <the_real_thor@avengers.com>,Closed,Design,8,Data Governance Automation,4/23/2024 11:51:30 PM,5/1/2024 2:01:38 AM,5/5/2024 9:37:10 AM
+439,Bug,Ameliorated modular paradigm,Anthony Stark <iamironman@avengers.com>,Closed,Design,5,Data Governance Automation,4/15/2024 2:05:15 AM,5/9/2024 7:51:12 AM,5/3/2024 2:01:06 AM
+440,User Story,Fundamental holistic internet solution,T'Challa Udaku <wakandaforever@avengers.com>,Closed,Frontend,3,Chatbot,4/18/2024 9:34:27 AM,5/9/2024 11:26:39 PM,5/8/2024 4:06:08 PM
+441,Bug,Operative needs-based knowledge user,Natasha Romanov <1wDf1!@avengers.com>,Closed,Frontend,8,Sentiment Analysis,4/20/2024 12:27:36 AM,5/9/2024 2:11:28 PM,5/7/2024 2:10:23 AM
+442,User Story,Quality-focused actuating emulation,Natasha Romanov <1wDf1!@avengers.com>,Closed,Backend,5,Data Governance Automation,4/18/2024 1:12:25 AM,5/4/2024 5:50:36 AM,5/5/2024 12:00:45 PM
+443,User Story,Profit-focused multi-tasking open system,Anthony Stark <iamironman@avengers.com>,Closed,Backend,3,Data Governance Automation,4/17/2024 4:22:37 AM,5/3/2024 7:11:02 PM,4/29/2024 3:51:35 PM
+444,User Story,Assimilated clear-thinking website,Thor Odinson <the_real_thor@avengers.com>,Closed,Backend,5,Sentiment Analysis,4/21/2024 5:19:32 AM,5/5/2024 2:08:32 PM,5/3/2024 4:07:15 AM
+445,User Story,Team-oriented clear-thinking website,Anthony Stark <iamironman@avengers.com>,Closed,Frontend,13,Data Governance Automation,4/20/2024 6:23:49 PM,5/1/2024 1:44:54 PM,5/8/2024 5:24:14 AM
+446,User Story,User-centric modular leverage,Steve Rogers <steve.rogers@avengers.com>,Closed,Frontend,2,Data Governance Automation,4/15/2024 7:34:03 PM,5/4/2024 10:05:12 PM,5/7/2024 7:53:53 AM
+447,User Story,Adaptive bifurcated portal,T'Challa Udaku <wakandaforever@avengers.com>,Closed,Frontend,3,Sentiment Analysis,4/16/2024 2:12:48 AM,5/5/2024 8:13:20 PM,4/30/2024 3:12:12 AM
+448,User Story,Face to face 5th generation product,T'Challa Udaku <wakandaforever@avengers.com>,Closed,Backend,21,Data Governance Automation,4/21/2024 11:40:45 AM,5/8/2024 9:00:29 AM,5/1/2024 11:46:43 PM
+449,Bug,Devolved user-facing throughput,Anthony Stark <iamironman@avengers.com>,Closed,Backend,21,Chatbot,4/24/2024 2:13:42 PM,5/3/2024 6:12:20 AM,5/2/2024 11:49:37 PM
+450,User Story,Realigned 5th generation info-mediaries,Natasha Romanov <1wDf1!@avengers.com>,Closed,Frontend,8,Chatbot,4/24/2024 2:54:53 PM,5/7/2024 11:36:29 PM,5/1/2024 9:45:11 PM
+451,User Story,Reactive human-resource access,Natasha Romanov <1wDf1!@avengers.com>,Closed,Design,5,Chatbot,4/25/2024 2:31:02 AM,5/4/2024 12:58:35 AM,5/6/2024 12:01:25 PM
+452,User Story,Synergized mobile adapter,Anthony Stark <iamironman@avengers.com>,On Hold,Frontend,1,Chatbot,4/21/2024 8:10:44 PM,5/8/2024 3:13:31 PM,5/8/2024 9:39:45 AM
+453,User Story,Synergistic actuating instruction set,Thor Odinson <the_real_thor@avengers.com>,Closed,Frontend,3,Chatbot,4/25/2024 1:55:38 PM,5/5/2024 3:12:10 PM,5/3/2024 6:19:07 AM
+454,User Story,Monitored heuristic attitude,Anthony Stark <iamironman@avengers.com>,Closed,Backend,1,Data Governance Automation,4/20/2024 12:42:09 AM,5/8/2024 1:27:54 PM,5/1/2024 8:30:00 PM
+455,User Story,Function-based multi-state parallelism,Natasha Romanov <1wDf1!@avengers.com>,Closed,Design,1,Sentiment Analysis,4/16/2024 4:24:36 AM,5/7/2024 12:50:05 AM,5/5/2024 11:36:14 PM
+456,User Story,Self-enabling 3rd generation artificial intelligence,Anthony Stark <iamironman@avengers.com>,Closed,Frontend,5,Chatbot,4/24/2024 5:21:10 AM,5/5/2024 5:20:08 AM,5/1/2024 9:43:53 PM
+457,User Story,Persistent zero administration encryption,Natasha Romanov <1wDf1!@avengers.com>,Closed,Backend,5,Chatbot,4/25/2024 7:51:16 PM,5/7/2024 10:00:34 PM,5/5/2024 12:20:45 AM
+458,User Story,Synchronised web-enabled utilisation,Loki Odinson <thor@avengers.com>,Closed,Backend,1,Data Governance Automation,4/24/2024 6:51:18 AM,5/9/2024 12:28:42 AM,5/6/2024 1:42:07 PM
+459,User Story,Optimized 6th generation monitoring,T'Challa Udaku <wakandaforever@avengers.com>,Closed,Backend,8,Data Governance Automation,4/24/2024 1:26:20 PM,5/9/2024 8:16:13 AM,5/8/2024 9:28:38 PM
+460,User Story,Open-source foreground moratorium,Loki Odinson <thor@avengers.com>,Closed,Backend,8,Chatbot,4/22/2024 11:23:04 AM,5/3/2024 1:29:02 AM,4/29/2024 8:55:01 AM
+461,User Story,Secured modular Graphic Interface,Loki Odinson <thor@avengers.com>,Closed,Design,2,Sentiment Analysis,4/16/2024 10:08:02 PM,5/2/2024 5:28:43 PM,5/6/2024 3:23:04 AM
+462,User Story,Inverse multi-tasking standardization,Natasha Romanov <1wDf1!@avengers.com>,Closed,Backend,5,Data Governance Automation,4/16/2024 1:29:06 PM,5/4/2024 1:22:05 PM,5/2/2024 7:21:28 AM
+463,User Story,Reverse-engineered logistical strategy,Anthony Stark <iamironman@avengers.com>,Closed,Frontend,5,Sentiment Analysis,4/24/2024 4:18:53 AM,5/3/2024 10:49:15 PM,5/2/2024 9:50:59 PM
+464,User Story,Multi-layered contextually-based customer loyalty,Anthony Stark <iamironman@avengers.com>,Closed,Backend,3,Chatbot,4/18/2024 8:59:30 AM,5/5/2024 7:55:00 PM,5/3/2024 6:37:13 PM
+465,User Story,Focused bifurcated local area network,Natasha Romanov <1wDf1!@avengers.com>,Closed,Frontend,3,Chatbot,4/25/2024 10:03:09 PM,5/7/2024 8:47:38 AM,5/9/2024 1:22:43 PM
+466,User Story,Inverse analyzing array,Thor Odinson <the_real_thor@avengers.com>,Closed,Backend,3,Chatbot,4/19/2024 11:57:14 PM,5/3/2024 3:48:13 AM,5/6/2024 11:16:07 PM
+467,User Story,Enhanced systemic functionalities,Loki Odinson <thor@avengers.com>,On Hold,Design,3,Data Governance Automation,4/17/2024 5:58:27 PM,5/5/2024 2:40:22 AM,5/7/2024 6:16:44 AM
+468,User Story,Inverse impactful utilisation,Anthony Stark <iamironman@avengers.com>,Closed,Backend,1,Chatbot,4/23/2024 10:13:45 AM,5/2/2024 10:42:09 AM,5/8/2024 2:49:52 PM
+469,User Story,Centralized demand-driven knowledge user,Steve Rogers <steve.rogers@avengers.com>,Closed,Frontend,2,Sentiment Analysis,4/15/2024 3:49:07 PM,5/5/2024 8:20:32 AM,5/4/2024 3:21:17 PM
+470,User Story,Compatible zero administration model,Steve Rogers <steve.rogers@avengers.com>,Closed,Frontend,3,Data Governance Automation,4/22/2024 2:21:21 AM,5/6/2024 2:26:26 PM,5/8/2024 11:35:41 PM
+471,User Story,Total discrete instruction set,Thor Odinson <the_real_thor@avengers.com>,Closed,Design,5,Sentiment Analysis,4/21/2024 5:15:06 PM,5/8/2024 5:02:03 AM,5/5/2024 2:24:51 AM
+472,User Story,Proactive systemic success,Natasha Romanov <1wDf1!@avengers.com>,Closed,Backend,13,Data Governance Automation,4/22/2024 10:36:30 PM,5/9/2024 2:19:35 AM,5/2/2024 11:20:19 AM
+473,User Story,Inverse actuating matrix,Anthony Stark <iamironman@avengers.com>,Closed,Backend,8,Data Governance Automation,4/20/2024 12:33:23 PM,5/4/2024 8:18:23 PM,5/1/2024 1:03:27 AM
+474,User Story,Horizontal fresh-thinking archive,T'Challa Udaku <wakandaforever@avengers.com>,Closed,Design,2,Data Governance Automation,4/18/2024 3:20:56 AM,5/7/2024 11:31:31 AM,5/1/2024 4:09:55 PM
+475,User Story,Cloned methodical core,T'Challa Udaku <wakandaforever@avengers.com>,Closed,Backend,3,Sentiment Analysis,4/20/2024 2:40:12 AM,5/4/2024 6:17:26 AM,5/6/2024 1:30:07 PM
+476,User Story,Integrated value-added initiative,Natasha Romanov <1wDf1!@avengers.com>,Closed,Backend,13,Chatbot,4/22/2024 2:05:20 AM,5/4/2024 4:04:17 AM,5/6/2024 6:31:43 PM
+477,User Story,Down-sized regional neural-net,Loki Odinson <thor@avengers.com>,Closed,Backend,5,Data Governance Automation,4/22/2024 11:34:27 PM,5/3/2024 7:56:55 AM,5/5/2024 6:25:46 AM
+478,User Story,Team-oriented neutral complexity,Loki Odinson <thor@avengers.com>,Closed,Design,8,Sentiment Analysis,4/18/2024 3:00:48 PM,5/9/2024 7:04:47 PM,5/5/2024 9:46:23 PM
+479,User Story,Profit-focused stable firmware,Steve Rogers <steve.rogers@avengers.com>,On Hold,Design,13,Data Governance Automation,4/19/2024 7:25:48 AM,5/7/2024 12:49:34 AM,5/6/2024 3:18:19 PM
+480,User Story,Team-oriented asynchronous extranet,Anthony Stark <iamironman@avengers.com>,Closed,Frontend,5,Chatbot,4/23/2024 6:02:57 AM,5/1/2024 9:03:40 AM,5/7/2024 3:47:31 AM
+481,User Story,Extended transitional interface,T'Challa Udaku <wakandaforever@avengers.com>,Closed,Backend,13,Data Governance Automation,4/18/2024 11:52:56 AM,5/9/2024 12:14:44 PM,5/9/2024 9:28:31 PM
+482,User Story,Organic homogeneous hardware,Loki Odinson <thor@avengers.com>,Closed,Frontend,3,Data Governance Automation,4/23/2024 8:56:06 PM,5/3/2024 6:18:36 AM,5/7/2024 10:38:40 AM
+483,User Story,Implemented real-time algorithm,Anthony Stark <iamironman@avengers.com>,On Hold,Frontend,8,Data Governance Automation,4/19/2024 5:15:34 AM,5/8/2024 11:01:33 AM,4/29/2024 12:27:10 AM
+484,User Story,Sharable local solution,T'Challa Udaku <wakandaforever@avengers.com>,Closed,Design,1,Chatbot,4/24/2024 11:32:07 AM,5/2/2024 3:58:26 PM,5/8/2024 10:45:41 AM
+485,User Story,Compatible local protocol,Thor Odinson <the_real_thor@avengers.com>,Closed,Backend,8,Chatbot,4/19/2024 8:33:25 AM,5/6/2024 6:37:46 PM,5/8/2024 11:26:56 PM
+486,User Story,Managed system-worthy benchmark,T'Challa Udaku <wakandaforever@avengers.com>,Closed,Backend,21,Data Governance Automation,4/24/2024 9:54:19 PM,5/4/2024 12:54:21 AM,4/29/2024 8:02:43 AM
+487,User Story,Integrated web-enabled moderator,Thor Odinson <the_real_thor@avengers.com>,Closed,Design,13,Sentiment Analysis,4/21/2024 6:55:29 PM,5/4/2024 9:15:48 AM,4/29/2024 3:54:45 AM
+488,User Story,Integrated tertiary projection,Steve Rogers <steve.rogers@avengers.com>,On Hold,Design,8,Sentiment Analysis,4/20/2024 6:46:26 PM,5/8/2024 2:16:11 PM,5/3/2024 12:10:12 PM
+489,User Story,Ergonomic directional knowledge user,Thor Odinson <the_real_thor@avengers.com>,Closed,Backend,2,Sentiment Analysis,4/18/2024 8:49:27 PM,5/5/2024 8:03:21 AM,5/8/2024 10:44:20 AM
+490,User Story,Centralized optimal alliance,Steve Rogers <steve.rogers@avengers.com>,Closed,Design,13,Sentiment Analysis,4/24/2024 9:36:08 AM,5/6/2024 12:28:06 AM,5/3/2024 2:37:08 PM
+491,User Story,Focused responsive internet solution,T'Challa Udaku <wakandaforever@avengers.com>,On Hold,Design,13,Data Governance Automation,4/18/2024 10:13:23 AM,5/1/2024 12:39:41 PM,5/1/2024 11:35:13 AM
+492,Bug,Team-oriented 5th generation utilisation,Steve Rogers <steve.rogers@avengers.com>,Closed,Design,1,Sentiment Analysis,4/19/2024 5:14:05 AM,5/9/2024 12:14:47 AM,5/6/2024 7:40:17 PM
+493,User Story,Cross-group responsive implementation,Natasha Romanov <1wDf1!@avengers.com>,Closed,Frontend,5,Data Governance Automation,4/20/2024 8:28:18 AM,5/8/2024 4:18:42 PM,4/30/2024 12:55:48 PM
+494,User Story,Decentralized mission-critical policy,Thor Odinson <the_real_thor@avengers.com>,Closed,Backend,8,Sentiment Analysis,4/22/2024 9:32:00 AM,5/2/2024 7:14:16 PM,5/4/2024 7:43:56 PM
+495,User Story,Self-enabling bifurcated complexity,Anthony Stark <iamironman@avengers.com>,Closed,Frontend,3,Chatbot,4/18/2024 6:45:35 AM,5/3/2024 3:42:43 AM,5/5/2024 6:21:43 AM
+496,User Story,Synergized background success,Loki Odinson <thor@avengers.com>,Closed,Design,5,Sentiment Analysis,4/21/2024 1:20:26 AM,5/7/2024 11:58:24 PM,5/6/2024 6:55:20 PM
+497,User Story,Down-sized content-based knowledge user,Steve Rogers <steve.rogers@avengers.com>,Closed,Backend,5,Data Governance Automation,4/21/2024 9:34:06 PM,5/1/2024 11:03:23 AM,5/5/2024 1:14:34 PM
+498,User Story,Balanced dedicated extranet,Thor Odinson <the_real_thor@avengers.com>,Closed,Frontend,8,Chatbot,4/16/2024 7:55:17 PM,5/2/2024 11:34:30 AM,5/6/2024 10:23:09 PM
+499,User Story,Switchable motivating encryption,T'Challa Udaku <wakandaforever@avengers.com>,Closed,Frontend,5,Sentiment Analysis,4/16/2024 3:14:07 AM,5/2/2024 4:01:26 PM,5/5/2024 2:34:10 AM
+500,User Story,Customer-focused next generation protocol,Loki Odinson <thor@avengers.com>,Closed,Frontend,5,Sentiment Analysis,4/25/2024 9:10:16 PM,5/9/2024 10:01:28 AM,5/6/2024 3:53:49 AM
+501,User Story,Extended 6th generation pricing structure,Anthony Stark <iamironman@avengers.com>,Closed,Design,5,Chatbot,4/24/2024 12:37:39 PM,5/9/2024 8:01:44 PM,5/4/2024 10:37:49 PM
+502,User Story,Universal content-based throughput,Loki Odinson <thor@avengers.com>,Closed,Design,13,Data Governance Automation,4/21/2024 8:02:03 PM,5/1/2024 12:40:09 AM,5/1/2024 4:03:11 PM
+503,User Story,Future-proofed coherent moderator,Steve Rogers <steve.rogers@avengers.com>,Closed,Design,5,Data Governance Automation,4/23/2024 1:39:40 AM,5/2/2024 7:03:50 PM,5/6/2024 4:10:34 PM
+504,User Story,Stand-alone national throughput,T'Challa Udaku <wakandaforever@avengers.com>,Closed,Frontend,5,Sentiment Analysis,4/17/2024 10:46:13 AM,5/4/2024 11:51:31 PM,5/3/2024 6:44:14 AM
+505,User Story,Virtual hybrid functionalities,Loki Odinson <thor@avengers.com>,Closed,Design,8,Data Governance Automation,4/23/2024 7:33:23 PM,5/5/2024 5:19:49 PM,5/5/2024 7:16:51 PM
+506,User Story,Persevering non-volatile Graphic Interface,Natasha Romanov <1wDf1!@avengers.com>,Closed,Design,3,Data Governance Automation,4/15/2024 5:32:51 AM,5/4/2024 4:35:10 AM,5/5/2024 11:29:39 AM
+507,User Story,Integrated solution-oriented artificial intelligence,Steve Rogers <steve.rogers@avengers.com>,Closed,Design,5,Data Governance Automation,4/23/2024 12:40:20 AM,5/5/2024 8:38:04 AM,5/6/2024 7:57:19 PM
+508,User Story,Streamlined static info-mediaries,Thor Odinson <the_real_thor@avengers.com>,Closed,Backend,8,Chatbot,4/19/2024 9:22:00 AM,5/3/2024 7:27:32 AM,5/6/2024 11:23:05 AM
+509,User Story,Cloned radical initiative,Steve Rogers <steve.rogers@avengers.com>,Closed,Backend,2,Sentiment Analysis,4/25/2024 2:31:43 AM,5/2/2024 1:23:25 AM,4/29/2024 5:30:06 AM
+510,User Story,Realigned needs-based challenge,Anthony Stark <iamironman@avengers.com>,Closed,Backend,5,Sentiment Analysis,4/18/2024 8:51:47 PM,5/2/2024 4:00:22 AM,5/5/2024 11:44:13 PM
+511,User Story,Public-key secondary standardization,Loki Odinson <thor@avengers.com>,Closed,Design,5,Data Governance Automation,4/18/2024 9:45:42 AM,5/3/2024 7:43:41 PM,5/4/2024 7:38:50 AM
+512,Bug,Horizontal didactic application,T'Challa Udaku <wakandaforever@avengers.com>,Closed,Design,5,Sentiment Analysis,4/18/2024 2:16:26 AM,5/4/2024 5:19:47 PM,5/1/2024 6:35:12 PM
+513,User Story,Multi-layered grid-enabled customer loyalty,Steve Rogers <steve.rogers@avengers.com>,Closed,Design,2,Sentiment Analysis,4/21/2024 12:41:32 AM,5/2/2024 6:50:41 AM,5/2/2024 3:09:22 PM
+514,User Story,Business-focused client-server methodology,Steve Rogers <steve.rogers@avengers.com>,Closed,Design,13,Data Governance Automation,4/25/2024 12:17:08 PM,5/6/2024 11:46:23 AM,5/8/2024 7:02:27 AM
+515,User Story,Extended coherent challenge,Thor Odinson <the_real_thor@avengers.com>,Closed,Design,1,Chatbot,4/25/2024 10:59:48 AM,5/3/2024 10:35:25 PM,5/6/2024 8:30:53 PM
+516,User Story,Phased neutral algorithm,Thor Odinson <the_real_thor@avengers.com>,Closed,Frontend,5,Chatbot,4/22/2024 1:13:44 PM,5/5/2024 7:04:10 AM,5/2/2024 4:42:57 AM
+517,User Story,Enterprise-wide even-keeled focus group,T'Challa Udaku <wakandaforever@avengers.com>,Closed,Backend,5,Data Governance Automation,4/24/2024 8:48:42 AM,5/7/2024 8:10:38 PM,5/8/2024 3:15:35 PM
+518,User Story,Customizable motivating projection,Anthony Stark <iamironman@avengers.com>,Closed,Backend,8,Sentiment Analysis,4/15/2024 2:20:25 AM,5/4/2024 3:08:46 AM,5/4/2024 12:41:17 PM
+519,User Story,Fundamental encompassing data-warehouse,Thor Odinson <the_real_thor@avengers.com>,Closed,Design,5,Sentiment Analysis,4/18/2024 8:45:26 PM,5/1/2024 12:58:51 AM,5/6/2024 12:35:00 PM
+520,Bug,Switchable asymmetric Graphic Interface,Loki Odinson <thor@avengers.com>,Closed,Backend,5,Chatbot,4/20/2024 8:48:24 PM,5/8/2024 12:42:23 AM,5/9/2024 4:58:34 AM
+521,User Story,Monitored intermediate algorithm,Steve Rogers <steve.rogers@avengers.com>,Closed,Frontend,3,Data Governance Automation,4/22/2024 4:53:43 AM,5/4/2024 10:03:18 AM,5/5/2024 8:52:02 AM
+522,User Story,Fundamental tertiary encoding,Thor Odinson <the_real_thor@avengers.com>,Closed,Backend,8,Data Governance Automation,4/21/2024 5:21:36 AM,5/7/2024 9:27:20 PM,5/4/2024 5:32:34 AM
+523,User Story,De-engineered human-resource definition,Thor Odinson <the_real_thor@avengers.com>,Closed,Backend,5,Sentiment Analysis,4/20/2024 3:16:11 PM,5/7/2024 10:10:05 PM,4/29/2024 7:22:50 AM
+524,User Story,Horizontal hybrid capability,Thor Odinson <the_real_thor@avengers.com>,Closed,Backend,1,Chatbot,4/21/2024 2:22:06 PM,5/3/2024 2:32:39 PM,5/3/2024 2:14:34 PM
+525,User Story,Future-proofed didactic groupware,Loki Odinson <thor@avengers.com>,Closed,Backend,5,Data Governance Automation,4/20/2024 5:27:12 PM,5/7/2024 11:42:21 PM,5/5/2024 8:20:26 AM
+526,Bug,Stand-alone explicit contingency,Natasha Romanov <1wDf1!@avengers.com>,Closed,Backend,2,Chatbot,4/25/2024 3:38:42 AM,5/4/2024 11:14:10 AM,5/7/2024 8:53:46 PM
+527,User Story,Public-key eco-centric conglomeration,Natasha Romanov <1wDf1!@avengers.com>,On Hold,Design,8,Data Governance Automation,4/15/2024 7:51:23 PM,5/2/2024 5:33:15 PM,4/30/2024 3:20:34 PM
+528,User Story,Innovative empowering process improvement,Steve Rogers <steve.rogers@avengers.com>,Closed,Backend,13,Chatbot,4/22/2024 7:30:46 PM,5/3/2024 10:56:06 AM,5/7/2024 3:43:40 PM
+529,User Story,Distributed executive data-warehouse,T'Challa Udaku <wakandaforever@avengers.com>,Closed,Frontend,13,Chatbot,4/18/2024 2:52:48 AM,5/8/2024 7:23:43 AM,5/7/2024 8:23:04 AM
+530,User Story,Open-architected motivating alliance,Anthony Stark <iamironman@avengers.com>,Closed,Design,2,Sentiment Analysis,4/18/2024 1:06:28 AM,5/3/2024 11:35:32 AM,5/8/2024 2:58:04 AM
+531,User Story,Automated solution-oriented instruction set,Anthony Stark <iamironman@avengers.com>,Closed,Frontend,3,Sentiment Analysis,4/20/2024 3:35:59 AM,5/5/2024 11:48:20 PM,5/8/2024 12:37:54 PM
+532,User Story,Reduced grid-enabled strategy,Thor Odinson <the_real_thor@avengers.com>,Closed,Design,5,Chatbot,4/23/2024 10:04:09 AM,5/8/2024 12:51:04 AM,5/9/2024 11:41:58 PM
+533,User Story,Reactive discrete capacity,Anthony Stark <iamironman@avengers.com>,Closed,Design,21,Sentiment Analysis,4/23/2024 3:57:52 AM,5/1/2024 7:40:45 PM,5/6/2024 7:14:58 PM
+534,User Story,Managed 24 hour strategy,Thor Odinson <the_real_thor@avengers.com>,Closed,Backend,2,Data Governance Automation,4/22/2024 2:07:55 PM,5/7/2024 2:16:04 AM,4/29/2024 9:33:36 AM
+535,User Story,Multi-layered bottom-line Graphic Interface,Thor Odinson <the_real_thor@avengers.com>,Closed,Backend,5,Data Governance Automation,4/25/2024 1:19:21 AM,5/9/2024 4:47:59 AM,5/3/2024 6:34:49 AM
+536,User Story,Configurable holistic policy,Natasha Romanov <1wDf1!@avengers.com>,Closed,Frontend,8,Sentiment Analysis,4/19/2024 9:08:35 PM,5/1/2024 10:06:43 AM,5/8/2024 8:00:20 PM
+537,Bug,Integrated even-keeled model,Natasha Romanov <1wDf1!@avengers.com>,Closed,Design,8,Data Governance Automation,4/25/2024 7:10:44 AM,5/3/2024 9:36:42 PM,5/8/2024 12:12:10 PM
+538,User Story,Phased next generation secured line,Steve Rogers <steve.rogers@avengers.com>,Closed,Design,3,Data Governance Automation,4/20/2024 10:02:00 PM,5/6/2024 12:11:51 AM,5/1/2024 12:25:29 AM
+539,User Story,Focused fault-tolerant extranet,Natasha Romanov <1wDf1!@avengers.com>,Closed,Frontend,2,Chatbot,4/20/2024 11:53:42 AM,5/5/2024 7:53:43 AM,4/30/2024 9:50:31 AM
+540,User Story,Multi-channelled grid-enabled standardization,Loki Odinson <thor@avengers.com>,On Hold,Frontend,5,Sentiment Analysis,4/23/2024 2:36:44 AM,5/1/2024 4:43:08 AM,5/5/2024 2:14:27 PM
+541,User Story,Cloned heuristic Graphical User Interface,Thor Odinson <the_real_thor@avengers.com>,Closed,Frontend,13,Chatbot,4/22/2024 4:21:50 PM,5/3/2024 12:21:38 PM,4/29/2024 6:00:23 PM
+542,User Story,Expanded impactful contingency,T'Challa Udaku <wakandaforever@avengers.com>,On Hold,Backend,3,Sentiment Analysis,4/24/2024 4:30:22 PM,5/6/2024 2:26:38 PM,4/30/2024 12:25:17 AM
+543,User Story,Quality-focused 5th generation policy,Thor Odinson <the_real_thor@avengers.com>,Closed,Backend,3,Sentiment Analysis,4/23/2024 1:21:32 PM,5/1/2024 11:27:20 AM,5/1/2024 8:54:53 AM
+544,User Story,Virtual optimal array,Natasha Romanov <1wDf1!@avengers.com>,On Hold,Backend,13,Chatbot,4/23/2024 11:49:09 AM,5/3/2024 10:29:44 AM,5/2/2024 8:04:07 PM
+545,User Story,Visionary full-range monitoring,T'Challa Udaku <wakandaforever@avengers.com>,Closed,Design,3,Data Governance Automation,4/24/2024 10:09:16 AM,5/4/2024 12:40:53 AM,5/9/2024 2:37:03 PM
+546,User Story,Centralized client-server adapter,Natasha Romanov <1wDf1!@avengers.com>,Closed,Backend,21,Sentiment Analysis,4/15/2024 5:45:55 AM,5/1/2024 10:31:46 AM,4/30/2024 5:44:45 PM
+547,User Story,Future-proofed 6th generation hardware,Steve Rogers <steve.rogers@avengers.com>,On Hold,Backend,3,Chatbot,4/21/2024 11:26:12 PM,5/1/2024 5:01:16 PM,5/2/2024 10:11:40 AM
+548,User Story,Function-based actuating capability,T'Challa Udaku <wakandaforever@avengers.com>,Closed,Backend,8,Sentiment Analysis,4/24/2024 6:35:31 AM,5/1/2024 10:02:42 PM,5/5/2024 2:56:43 AM
+549,Bug,Universal coherent standardization,Thor Odinson <the_real_thor@avengers.com>,Closed,Backend,13,Chatbot,4/19/2024 11:58:51 AM,5/4/2024 1:20:25 PM,4/29/2024 8:52:26 AM
+550,Bug,Inverse content-based toolset,T'Challa Udaku <wakandaforever@avengers.com>,Closed,Backend,5,Data Governance Automation,4/18/2024 5:10:07 PM,5/7/2024 11:02:47 AM,5/9/2024 9:25:55 PM
+551,User Story,Cloned logistical support,T'Challa Udaku <wakandaforever@avengers.com>,Closed,Frontend,2,Chatbot,4/22/2024 2:31:32 AM,5/2/2024 9:42:31 AM,5/4/2024 4:39:22 PM
+552,User Story,Robust logistical capability,Anthony Stark <iamironman@avengers.com>,Closed,Frontend,21,Data Governance Automation,4/23/2024 10:46:35 AM,5/5/2024 3:08:52 AM,5/9/2024 10:09:03 AM
+553,User Story,Robust didactic info-mediaries,T'Challa Udaku <wakandaforever@avengers.com>,Closed,Backend,5,Data Governance Automation,4/22/2024 5:08:01 AM,5/4/2024 1:21:34 AM,5/7/2024 3:32:35 AM
+554,User Story,Operative zero administration monitoring,Loki Odinson <thor@avengers.com>,Closed,Frontend,3,Sentiment Analysis,4/16/2024 2:07:33 AM,5/7/2024 5:01:45 PM,5/3/2024 10:51:19 AM
+555,User Story,Vision-oriented client-driven throughput,T'Challa Udaku <wakandaforever@avengers.com>,Closed,Frontend,5,Sentiment Analysis,4/17/2024 1:12:15 PM,5/9/2024 6:16:01 AM,5/1/2024 3:45:02 AM
+556,Bug,Focused well-modulated parallelism,Thor Odinson <the_real_thor@avengers.com>,Closed,Backend,3,Sentiment Analysis,4/24/2024 7:41:47 AM,5/2/2024 11:06:25 PM,4/29/2024 3:07:15 AM
+557,User Story,Front-line homogeneous capability,Steve Rogers <steve.rogers@avengers.com>,Closed,Frontend,5,Chatbot,4/23/2024 8:39:22 AM,5/9/2024 1:29:48 AM,5/6/2024 4:54:12 AM
+558,User Story,Face to face local product,T'Challa Udaku <wakandaforever@avengers.com>,Closed,Frontend,13,Data Governance Automation,4/25/2024 11:54:13 AM,5/1/2024 5:15:11 PM,4/29/2024 6:14:29 PM
+559,Bug,Face to face contextually-based functionalities,Thor Odinson <the_real_thor@avengers.com>,Closed,Backend,5,Chatbot,4/21/2024 11:40:53 AM,5/5/2024 8:21:25 AM,5/3/2024 2:32:03 AM
+560,User Story,Fundamental motivating workforce,Anthony Stark <iamironman@avengers.com>,Closed,Design,13,Data Governance Automation,4/20/2024 7:59:01 PM,5/5/2024 10:09:51 PM,5/7/2024 4:33:26 PM
+561,User Story,Operative radical project,Anthony Stark <iamironman@avengers.com>,Closed,Design,2,Chatbot,4/21/2024 4:20:47 PM,5/1/2024 10:43:54 PM,4/29/2024 9:04:35 AM
+562,User Story,Digitized systemic capacity,Steve Rogers <steve.rogers@avengers.com>,Closed,Backend,5,Sentiment Analysis,4/18/2024 7:12:40 PM,5/5/2024 3:41:08 PM,4/30/2024 7:55:07 PM
+563,User Story,Streamlined responsive capability,Natasha Romanov <1wDf1!@avengers.com>,Closed,Design,5,Chatbot,4/25/2024 10:39:57 PM,5/3/2024 10:35:06 AM,5/7/2024 9:14:47 PM
+564,User Story,Robust web-enabled time-frame,Steve Rogers <steve.rogers@avengers.com>,Closed,Design,5,Chatbot,4/22/2024 9:14:53 PM,5/3/2024 4:12:26 AM,5/8/2024 1:11:45 AM
+565,User Story,Intuitive 4th generation challenge,Steve Rogers <steve.rogers@avengers.com>,Closed,Design,21,Sentiment Analysis,4/25/2024 5:27:14 PM,5/6/2024 7:30:48 AM,5/4/2024 3:41:31 AM
+566,User Story,Customer-focused content-based frame,Thor Odinson <the_real_thor@avengers.com>,Closed,Backend,13,Sentiment Analysis,4/23/2024 6:04:41 AM,5/8/2024 7:52:13 AM,5/7/2024 4:43:46 AM
+567,User Story,Open-architected systemic array,Natasha Romanov <1wDf1!@avengers.com>,Closed,Design,8,Sentiment Analysis,4/21/2024 9:47:19 AM,5/1/2024 4:18:40 AM,5/5/2024 2:23:43 AM
+568,User Story,Implemented stable workforce,Thor Odinson <the_real_thor@avengers.com>,Closed,Frontend,8,Chatbot,4/18/2024 3:44:16 AM,5/4/2024 6:42:35 AM,5/5/2024 2:15:58 AM
+569,User Story,Reduced holistic strategy,Thor Odinson <the_real_thor@avengers.com>,Closed,Frontend,2,Data Governance Automation,4/17/2024 6:12:22 AM,5/8/2024 2:03:49 AM,5/7/2024 5:29:11 PM
+570,User Story,Secured 6th generation hierarchy,Natasha Romanov <1wDf1!@avengers.com>,Closed,Backend,1,Chatbot,4/21/2024 2:45:17 AM,5/7/2024 8:16:23 AM,5/8/2024 1:14:02 PM
+571,User Story,Future-proofed scalable application,Steve Rogers <steve.rogers@avengers.com>,Closed,Frontend,3,Sentiment Analysis,4/18/2024 3:55:16 AM,5/8/2024 8:35:53 PM,5/2/2024 1:38:05 PM
+572,User Story,Vision-oriented 3rd generation local area network,Anthony Stark <iamironman@avengers.com>,Closed,Frontend,5,Sentiment Analysis,4/21/2024 9:47:35 AM,5/5/2024 7:15:51 PM,5/9/2024 9:03:12 AM
+573,User Story,Programmable static definition,Natasha Romanov <1wDf1!@avengers.com>,Closed,Frontend,3,Data Governance Automation,4/24/2024 7:52:54 AM,5/5/2024 2:24:03 PM,5/5/2024 6:47:06 PM
+574,User Story,Intuitive actuating projection,Loki Odinson <thor@avengers.com>,On Hold,Frontend,21,Sentiment Analysis,4/18/2024 3:36:32 PM,5/5/2024 11:06:52 PM,4/29/2024 4:10:22 AM
+575,User Story,Profound systemic benchmark,Natasha Romanov <1wDf1!@avengers.com>,Closed,Backend,5,Sentiment Analysis,4/25/2024 6:06:21 PM,5/2/2024 5:29:17 PM,5/9/2024 7:18:35 PM
+576,User Story,Expanded clear-thinking structure,Anthony Stark <iamironman@avengers.com>,Closed,Backend,3,Sentiment Analysis,4/18/2024 3:02:32 AM,5/1/2024 11:37:48 AM,5/1/2024 5:04:55 PM
+577,User Story,Robust disintermediate internet solution,Loki Odinson <thor@avengers.com>,Closed,Backend,1,Chatbot,4/23/2024 6:28:25 PM,5/3/2024 12:25:06 PM,4/29/2024 9:46:50 AM
+578,User Story,Devolved 6th generation customer loyalty,Steve Rogers <steve.rogers@avengers.com>,Closed,Backend,5,Sentiment Analysis,4/19/2024 4:49:07 AM,5/5/2024 12:11:25 PM,5/4/2024 2:05:37 AM
+579,User Story,Visionary well-modulated portal,Thor Odinson <the_real_thor@avengers.com>,Closed,Design,3,Chatbot,4/18/2024 4:59:59 AM,5/5/2024 5:16:13 PM,5/4/2024 8:04:09 AM
+580,Bug,Versatile dynamic encoding,Steve Rogers <steve.rogers@avengers.com>,Closed,Backend,2,Data Governance Automation,4/17/2024 5:02:53 AM,5/7/2024 11:22:32 AM,5/8/2024 5:03:52 AM
+581,Bug,Focused reciprocal database,T'Challa Udaku <wakandaforever@avengers.com>,Closed,Design,5,Data Governance Automation,4/15/2024 7:30:45 PM,5/4/2024 1:44:24 PM,5/1/2024 11:47:21 AM
+582,User Story,User-centric composite project,Anthony Stark <iamironman@avengers.com>,Closed,Backend,5,Chatbot,4/18/2024 8:20:24 AM,5/9/2024 5:18:14 AM,5/9/2024 11:47:57 AM
+583,User Story,Customer-focused optimal contingency,Steve Rogers <steve.rogers@avengers.com>,Closed,Design,1,Chatbot,4/20/2024 4:59:58 AM,5/3/2024 10:38:12 AM,5/6/2024 9:48:43 PM
+584,User Story,Mandatory asymmetric website,Anthony Stark <iamironman@avengers.com>,Closed,Frontend,2,Chatbot,4/16/2024 11:59:21 PM,5/1/2024 2:11:20 PM,5/5/2024 12:10:00 AM
+585,User Story,Front-line even-keeled methodology,Loki Odinson <thor@avengers.com>,Closed,Frontend,5,Chatbot,4/23/2024 10:41:40 PM,5/9/2024 12:47:33 AM,5/4/2024 2:51:10 AM
+586,User Story,Multi-layered multimedia architecture,Natasha Romanov <1wDf1!@avengers.com>,Closed,Backend,5,Data Governance Automation,4/21/2024 1:21:56 AM,5/9/2024 2:20:21 PM,5/3/2024 1:57:50 AM
+587,User Story,Grass-roots local complexity,Anthony Stark <iamironman@avengers.com>,Closed,Design,21,Sentiment Analysis,4/25/2024 6:39:38 AM,5/1/2024 7:36:28 AM,5/3/2024 3:01:03 AM
+588,User Story,Distributed encompassing success,T'Challa Udaku <wakandaforever@avengers.com>,Closed,Design,5,Data Governance Automation,4/15/2024 2:32:53 AM,5/1/2024 3:25:30 PM,5/6/2024 6:50:17 AM
+589,User Story,Stand-alone mission-critical middleware,Loki Odinson <thor@avengers.com>,Closed,Design,13,Chatbot,4/17/2024 5:46:46 PM,5/9/2024 5:21:41 PM,5/4/2024 4:21:54 AM
+590,User Story,Multi-channelled optimizing capacity,Thor Odinson <the_real_thor@avengers.com>,Closed,Design,5,Chatbot,4/18/2024 4:15:57 AM,5/3/2024 5:04:51 PM,5/3/2024 4:45:07 PM
+591,User Story,Networked global secured line,Loki Odinson <thor@avengers.com>,Closed,Backend,5,Sentiment Analysis,4/21/2024 6:05:41 AM,5/3/2024 11:24:00 AM,5/6/2024 2:26:27 PM
+592,User Story,Visionary well-modulated portal,Thor Odinson <the_real_thor@avengers.com>,Closed,Design,3,Chatbot,4/22/2024 3:34:50 PM,5/7/2024 11:59:54 PM,5/7/2024 4:20:33 PM
+593,User Story,Sharable modular leverage,Thor Odinson <the_real_thor@avengers.com>,Closed,Design,13,Sentiment Analysis,4/20/2024 1:42:54 AM,5/2/2024 11:33:14 PM,5/5/2024 9:25:15 PM
+594,User Story,Team-oriented bi-directional moratorium,Thor Odinson <the_real_thor@avengers.com>,Closed,Backend,5,Data Governance Automation,4/19/2024 1:20:55 PM,5/6/2024 10:12:57 AM,5/1/2024 8:43:12 PM
+595,User Story,Intuitive bifurcated structure,Natasha Romanov <1wDf1!@avengers.com>,Closed,Backend,3,Sentiment Analysis,4/21/2024 9:46:33 AM,5/4/2024 9:51:17 AM,5/4/2024 1:29:32 AM
+596,User Story,Expanded non-volatile leverage,T'Challa Udaku <wakandaforever@avengers.com>,Closed,Frontend,5,Chatbot,4/18/2024 5:19:13 PM,5/1/2024 10:36:26 AM,5/1/2024 5:27:59 AM
+597,User Story,Adaptive fresh-thinking matrices,Natasha Romanov <1wDf1!@avengers.com>,On Hold,Design,3,Data Governance Automation,4/25/2024 10:38:35 AM,5/9/2024 1:05:49 AM,5/9/2024 2:14:56 AM
+598,User Story,Self-enabling directional moratorium,Loki Odinson <thor@avengers.com>,Closed,Design,5,Sentiment Analysis,4/17/2024 10:02:42 PM,5/5/2024 5:16:42 AM,5/9/2024 10:57:05 AM
+599,User Story,Organic national website,Thor Odinson <the_real_thor@avengers.com>,Closed,Backend,13,Data Governance Automation,4/16/2024 4:51:34 AM,5/9/2024 9:56:24 PM,5/8/2024 10:39:28 AM
+600,User Story,Multi-tiered analyzing interface,Natasha Romanov <1wDf1!@avengers.com>,Closed,Frontend,8,Sentiment Analysis,4/25/2024 7:47:59 PM,5/1/2024 10:24:25 PM,5/3/2024 4:02:29 PM
+601,User Story,Upgradable zero defect synergy,Loki Odinson <thor@avengers.com>,Closed,Frontend,5,Chatbot,4/21/2024 4:13:46 PM,5/9/2024 3:34:15 PM,5/7/2024 1:20:44 AM
+602,User Story,Public-key holistic hardware,Loki Odinson <thor@avengers.com>,Closed,Design,8,Chatbot,4/18/2024 5:45:53 PM,5/1/2024 9:54:40 PM,5/6/2024 9:58:28 AM
+603,User Story,Quality-focused system-worthy open system,Natasha Romanov <1wDf1!@avengers.com>,Closed,Frontend,21,Sentiment Analysis,4/18/2024 3:35:15 PM,5/4/2024 9:26:26 AM,5/6/2024 3:00:14 PM
+604,User Story,Extended interactive artificial intelligence,Steve Rogers <steve.rogers@avengers.com>,Closed,Design,5,Sentiment Analysis,4/25/2024 12:31:03 AM,5/4/2024 6:39:08 AM,5/1/2024 4:57:35 PM
+605,User Story,Exclusive tangible open system,Thor Odinson <the_real_thor@avengers.com>,Closed,Frontend,3,Sentiment Analysis,4/22/2024 7:46:23 PM,5/9/2024 6:25:56 PM,5/2/2024 5:43:53 PM
+606,User Story,Future-proofed zero tolerance hardware,T'Challa Udaku <wakandaforever@avengers.com>,Closed,Design,5,Sentiment Analysis,4/16/2024 2:28:05 AM,5/1/2024 4:24:08 AM,5/8/2024 7:05:32 AM
+607,User Story,Exclusive upward-trending access,Steve Rogers <steve.rogers@avengers.com>,Closed,Design,5,Sentiment Analysis,4/15/2024 9:56:44 AM,5/2/2024 8:14:30 AM,5/1/2024 4:15:34 AM
+608,User Story,Realigned hybrid adapter,Anthony Stark <iamironman@avengers.com>,Closed,Backend,5,Data Governance Automation,4/24/2024 12:31:30 AM,5/7/2024 11:40:45 AM,5/1/2024 1:46:48 PM
+609,User Story,Versatile multi-tasking monitoring,Anthony Stark <iamironman@avengers.com>,Closed,Frontend,5,Data Governance Automation,4/21/2024 9:44:13 PM,5/9/2024 8:40:08 AM,4/30/2024 10:44:23 AM
+610,User Story,Phased bandwidth-monitored structure,Steve Rogers <steve.rogers@avengers.com>,On Hold,Frontend,5,Sentiment Analysis,4/17/2024 3:38:31 PM,5/8/2024 8:54:46 PM,5/3/2024 5:38:06 AM
+611,User Story,Total motivating core,Anthony Stark <iamironman@avengers.com>,Closed,Backend,3,Sentiment Analysis,4/20/2024 5:29:46 AM,5/6/2024 11:48:32 AM,5/1/2024 6:52:13 AM
+612,User Story,Stand-alone incremental instruction set,Anthony Stark <iamironman@avengers.com>,Closed,Design,2,Chatbot,4/18/2024 11:17:32 AM,5/2/2024 5:13:52 PM,5/6/2024 12:49:30 PM
+613,Bug,Decentralized content-based contingency,Steve Rogers <steve.rogers@avengers.com>,Closed,Design,21,Chatbot,4/22/2024 9:05:42 AM,5/8/2024 4:57:46 PM,5/7/2024 3:19:54 PM
+614,User Story,Exclusive secondary productivity,Anthony Stark <iamironman@avengers.com>,Closed,Design,2,Chatbot,4/16/2024 1:02:42 AM,5/4/2024 5:36:23 PM,5/3/2024 6:42:04 AM
+615,Bug,Synchronised object-oriented internet solution,Natasha Romanov <1wDf1!@avengers.com>,Closed,Backend,5,Data Governance Automation,4/20/2024 10:06:00 PM,5/4/2024 8:50:39 PM,5/9/2024 9:42:19 AM
+616,Bug,User-centric multi-tasking model,Thor Odinson <the_real_thor@avengers.com>,On Hold,Design,8,Chatbot,4/23/2024 12:25:01 PM,5/1/2024 7:05:22 PM,4/30/2024 3:27:49 AM
+617,User Story,Balanced empowering matrices,Steve Rogers <steve.rogers@avengers.com>,Closed,Backend,5,Data Governance Automation,4/23/2024 5:24:04 AM,5/1/2024 2:20:51 PM,5/5/2024 2:31:02 PM
+618,User Story,Progressive even-keeled parallelism,Loki Odinson <thor@avengers.com>,Closed,Backend,8,Chatbot,4/15/2024 12:09:06 AM,5/8/2024 9:47:43 PM,4/29/2024 11:09:39 AM
+619,User Story,Synchronised grid-enabled groupware,Anthony Stark <iamironman@avengers.com>,Closed,Frontend,3,Data Governance Automation,4/21/2024 10:19:55 AM,5/6/2024 10:34:27 AM,5/6/2024 5:27:12 AM
+620,User Story,Business-focused global focus group,T'Challa Udaku <wakandaforever@avengers.com>,Closed,Frontend,5,Data Governance Automation,4/24/2024 5:25:42 AM,5/9/2024 1:07:38 PM,5/9/2024 7:06:11 PM
+621,User Story,Organic client-server time-frame,T'Challa Udaku <wakandaforever@avengers.com>,Closed,Design,5,Chatbot,4/20/2024 4:07:28 AM,5/2/2024 2:37:26 PM,5/1/2024 3:08:09 AM
+622,Bug,Automated bandwidth-monitored website,Natasha Romanov <1wDf1!@avengers.com>,Closed,Design,13,Sentiment Analysis,4/20/2024 9:23:44 PM,5/7/2024 11:43:56 AM,5/4/2024 11:10:16 PM
+623,Bug,Synergized scalable emulation,Thor Odinson <the_real_thor@avengers.com>,Closed,Design,3,Data Governance Automation,4/23/2024 3:06:20 PM,5/5/2024 2:33:21 PM,5/9/2024 10:59:34 AM
+624,User Story,Phased background array,Anthony Stark <iamironman@avengers.com>,Closed,Design,1,Data Governance Automation,4/23/2024 4:12:32 AM,5/4/2024 11:02:56 PM,5/5/2024 4:04:01 AM
+625,Bug,Cross-group multi-tasking attitude,Natasha Romanov <1wDf1!@avengers.com>,On Hold,Backend,13,Chatbot,4/19/2024 3:56:02 PM,5/7/2024 3:12:07 AM,5/7/2024 9:23:17 PM
+626,User Story,Object-based bi-directional website,Anthony Stark <iamironman@avengers.com>,Closed,Backend,5,Chatbot,4/25/2024 1:04:45 PM,5/4/2024 9:49:54 AM,4/30/2024 11:41:01 AM
+627,User Story,Seamless radical functionalities,Thor Odinson <the_real_thor@avengers.com>,Closed,Frontend,13,Sentiment Analysis,4/16/2024 1:49:50 PM,5/5/2024 6:57:45 AM,4/29/2024 5:35:35 AM
+628,User Story,Fully-configurable methodical alliance,Thor Odinson <the_real_thor@avengers.com>,Closed,Frontend,5,Data Governance Automation,4/25/2024 3:47:04 AM,5/7/2024 5:35:43 PM,5/5/2024 3:21:25 AM
+629,Bug,Intuitive dynamic knowledge base,Natasha Romanov <1wDf1!@avengers.com>,Closed,Frontend,3,Chatbot,4/16/2024 1:29:58 AM,5/6/2024 2:36:56 PM,5/8/2024 2:04:02 PM
+630,User Story,Pre-emptive heuristic challenge,Natasha Romanov <1wDf1!@avengers.com>,Closed,Backend,8,Sentiment Analysis,4/18/2024 10:24:45 AM,5/2/2024 4:58:42 AM,4/30/2024 6:39:39 PM
+631,User Story,Pre-emptive attitude-oriented ability,T'Challa Udaku <wakandaforever@avengers.com>,Closed,Frontend,5,Data Governance Automation,4/19/2024 12:14:59 PM,5/7/2024 7:19:50 AM,5/6/2024 10:09:32 AM
+632,User Story,Profit-focused 5th generation core,Loki Odinson <thor@avengers.com>,Closed,Frontend,8,Chatbot,4/24/2024 12:00:51 PM,5/1/2024 10:36:21 PM,4/29/2024 1:59:19 PM
+633,User Story,Integrated scalable process improvement,Thor Odinson <the_real_thor@avengers.com>,Closed,Frontend,21,Sentiment Analysis,4/22/2024 1:22:44 PM,5/8/2024 9:12:36 AM,5/4/2024 1:27:55 AM
+634,User Story,Cloned actuating circuit,Loki Odinson <thor@avengers.com>,On Hold,Design,8,Data Governance Automation,4/23/2024 2:41:51 AM,5/3/2024 5:43:30 PM,5/6/2024 12:40:24 PM
+635,Bug,Extended logistical customer loyalty,Anthony Stark <iamironman@avengers.com>,Closed,Design,2,Chatbot,4/20/2024 1:12:32 PM,5/3/2024 11:34:19 AM,4/29/2024 10:30:19 PM
+636,User Story,Fully-configurable even-keeled intranet,Loki Odinson <thor@avengers.com>,Closed,Backend,5,Data Governance Automation,4/15/2024 1:55:18 AM,5/6/2024 9:57:43 PM,5/5/2024 8:56:46 PM
+637,User Story,Re-contextualized well-modulated strategy,Thor Odinson <the_real_thor@avengers.com>,Closed,Design,21,Sentiment Analysis,4/19/2024 12:13:54 PM,5/7/2024 8:56:07 PM,5/8/2024 9:40:38 PM
+638,User Story,Face to face multimedia Graphic Interface,T'Challa Udaku <wakandaforever@avengers.com>,Closed,Backend,3,Sentiment Analysis,4/15/2024 6:15:45 AM,5/2/2024 10:50:02 AM,5/1/2024 3:48:41 PM
+639,User Story,Assimilated content-based firmware,Natasha Romanov <1wDf1!@avengers.com>,Closed,Backend,2,Data Governance Automation,4/22/2024 9:59:00 AM,5/4/2024 9:07:20 PM,5/1/2024 3:39:02 PM
+640,User Story,Cloned clear-thinking archive,Anthony Stark <iamironman@avengers.com>,On Hold,Backend,8,Sentiment Analysis,4/15/2024 11:01:09 PM,5/8/2024 4:48:31 AM,5/4/2024 2:24:10 AM
+641,User Story,Automated national strategy,Thor Odinson <the_real_thor@avengers.com>,On Hold,Design,8,Sentiment Analysis,4/18/2024 12:46:44 PM,5/8/2024 11:01:11 PM,5/3/2024 5:30:43 AM
+642,User Story,Robust user-facing secured line,Loki Odinson <thor@avengers.com>,Closed,Design,5,Data Governance Automation,4/21/2024 8:47:39 PM,5/7/2024 6:37:50 AM,4/29/2024 2:21:21 AM
+643,User Story,Virtual discrete strategy,Anthony Stark <iamironman@avengers.com>,Closed,Frontend,2,Chatbot,4/16/2024 4:44:08 AM,5/6/2024 12:52:36 AM,5/4/2024 8:03:30 AM
+644,User Story,Streamlined global workforce,Steve Rogers <steve.rogers@avengers.com>,Closed,Design,13,Data Governance Automation,4/20/2024 2:23:55 AM,5/3/2024 7:38:20 PM,5/9/2024 5:23:34 AM
+645,User Story,Progressive homogeneous emulation,Natasha Romanov <1wDf1!@avengers.com>,Closed,Backend,3,Data Governance Automation,4/18/2024 4:50:01 PM,5/8/2024 8:27:28 AM,5/2/2024 4:51:16 AM
+646,User Story,Visionary radical standardization,Steve Rogers <steve.rogers@avengers.com>,Closed,Frontend,13,Data Governance Automation,4/22/2024 4:54:25 AM,5/9/2024 5:39:58 PM,4/29/2024 1:07:32 AM
+647,User Story,Adaptive exuding extranet,Loki Odinson <thor@avengers.com>,Closed,Design,3,Sentiment Analysis,4/20/2024 11:01:55 AM,5/4/2024 5:06:13 PM,5/1/2024 5:21:04 PM
+648,User Story,Team-oriented transitional application,Loki Odinson <thor@avengers.com>,Closed,Design,8,Sentiment Analysis,4/15/2024 3:40:58 PM,5/2/2024 11:42:56 AM,5/1/2024 4:52:17 AM
+649,User Story,Implemented systemic collaboration,Steve Rogers <steve.rogers@avengers.com>,Closed,Design,2,Sentiment Analysis,4/19/2024 12:20:05 AM,5/7/2024 10:02:38 AM,5/2/2024 6:09:18 AM
+650,User Story,Persistent incremental matrix,Anthony Stark <iamironman@avengers.com>,Closed,Frontend,21,Data Governance Automation,4/17/2024 9:30:47 AM,5/4/2024 12:23:35 PM,5/2/2024 3:02:55 AM
+651,User Story,Innovative dynamic methodology,T'Challa Udaku <wakandaforever@avengers.com>,Closed,Design,5,Sentiment Analysis,4/17/2024 4:56:13 PM,5/4/2024 8:15:40 PM,5/9/2024 1:54:16 PM
+652,User Story,Optional static analyzer,Steve Rogers <steve.rogers@avengers.com>,Closed,Frontend,13,Sentiment Analysis,4/25/2024 5:25:47 AM,5/4/2024 8:37:18 AM,5/4/2024 6:09:07 PM
+653,User Story,Front-line encompassing productivity,Loki Odinson <thor@avengers.com>,Closed,Frontend,8,Sentiment Analysis,4/19/2024 11:44:35 PM,5/6/2024 8:50:15 AM,5/5/2024 8:55:30 AM
+654,User Story,Synchronised dedicated archive,Thor Odinson <the_real_thor@avengers.com>,Closed,Frontend,2,Sentiment Analysis,4/16/2024 10:28:48 PM,5/4/2024 6:54:30 PM,5/9/2024 8:20:17 PM
+655,User Story,Polarised optimal database,Loki Odinson <thor@avengers.com>,Closed,Backend,21,Chatbot,4/20/2024 12:27:10 PM,5/5/2024 10:03:57 PM,4/30/2024 7:13:42 AM
+656,User Story,Face to face multi-tasking encoding,Thor Odinson <the_real_thor@avengers.com>,Closed,Design,3,Chatbot,4/16/2024 12:49:45 AM,5/2/2024 10:55:03 AM,5/8/2024 12:22:16 AM
+657,User Story,Versatile 5th generation encryption,Natasha Romanov <1wDf1!@avengers.com>,Closed,Backend,5,Chatbot,4/24/2024 8:44:03 AM,5/9/2024 2:42:12 AM,5/1/2024 2:43:13 PM
+658,User Story,Horizontal 3rd generation access,Thor Odinson <the_real_thor@avengers.com>,Closed,Design,21,Data Governance Automation,4/18/2024 10:58:45 AM,5/8/2024 10:48:14 PM,5/1/2024 5:32:25 PM
+659,User Story,Robust 24 hour workforce,Steve Rogers <steve.rogers@avengers.com>,Closed,Backend,5,Data Governance Automation,4/22/2024 2:07:36 PM,5/3/2024 8:26:38 PM,5/4/2024 7:30:05 AM
+660,User Story,Implemented methodical alliance,Thor Odinson <the_real_thor@avengers.com>,Closed,Backend,21,Data Governance Automation,4/25/2024 12:17:23 AM,5/2/2024 9:15:26 AM,5/5/2024 9:47:52 AM
+661,User Story,Public-key actuating process improvement,Thor Odinson <the_real_thor@avengers.com>,Closed,Design,8,Sentiment Analysis,4/25/2024 4:18:44 AM,5/3/2024 11:42:59 AM,4/30/2024 10:36:25 PM
+662,User Story,Organic homogeneous complexity,Thor Odinson <the_real_thor@avengers.com>,Closed,Frontend,8,Data Governance Automation,4/23/2024 2:39:09 AM,5/9/2024 4:33:39 AM,5/2/2024 10:24:36 PM
+663,User Story,Cross-platform static Graphical User Interface,Loki Odinson <thor@avengers.com>,Closed,Backend,2,Sentiment Analysis,4/23/2024 11:11:28 AM,5/3/2024 10:32:29 PM,5/1/2024 8:03:52 AM
+664,User Story,Progressive modular artificial intelligence,Loki Odinson <thor@avengers.com>,Closed,Design,3,Chatbot,4/17/2024 7:43:17 AM,5/3/2024 11:55:40 AM,5/1/2024 3:10:38 PM
+665,User Story,Monitored web-enabled attitude,Steve Rogers <steve.rogers@avengers.com>,On Hold,Design,8,Chatbot,4/23/2024 7:45:46 AM,5/6/2024 5:19:41 PM,5/6/2024 4:08:46 AM
+666,User Story,Business-focused solution-oriented analyzer,T'Challa Udaku <wakandaforever@avengers.com>,Closed,Design,5,Chatbot,4/17/2024 9:43:30 AM,5/8/2024 7:24:52 PM,4/29/2024 6:33:33 AM
+667,Bug,De-engineered modular process improvement,Thor Odinson <the_real_thor@avengers.com>,On Hold,Frontend,13,Sentiment Analysis,4/22/2024 3:02:09 PM,5/5/2024 5:09:32 PM,5/1/2024 10:36:30 PM
+668,User Story,Synergistic high-level parallelism,Anthony Stark <iamironman@avengers.com>,Closed,Frontend,21,Chatbot,4/20/2024 7:18:43 PM,5/9/2024 10:07:46 PM,4/30/2024 12:59:42 PM
+669,User Story,Realigned bottom-line model,Thor Odinson <the_real_thor@avengers.com>,Closed,Design,2,Chatbot,4/22/2024 12:59:07 PM,5/1/2024 5:11:13 PM,5/4/2024 11:24:23 PM
+670,User Story,Enterprise-wide regional toolset,T'Challa Udaku <wakandaforever@avengers.com>,Closed,Frontend,5,Data Governance Automation,4/21/2024 3:14:30 AM,5/7/2024 1:00:26 AM,5/3/2024 5:06:42 AM
+671,User Story,Balanced web-enabled implementation,Steve Rogers <steve.rogers@avengers.com>,Closed,Design,5,Data Governance Automation,4/21/2024 8:18:29 PM,5/4/2024 5:44:13 AM,5/9/2024 4:28:31 AM
+672,User Story,Streamlined human-resource capability,T'Challa Udaku <wakandaforever@avengers.com>,Closed,Design,2,Data Governance Automation,4/16/2024 12:14:41 AM,5/4/2024 10:10:38 PM,5/3/2024 8:12:26 PM
+673,User Story,Stand-alone reciprocal archive,Loki Odinson <thor@avengers.com>,Closed,Frontend,5,Sentiment Analysis,4/22/2024 8:48:18 PM,5/3/2024 8:18:41 PM,5/5/2024 10:52:19 PM
+674,Bug,Devolved directional product,Thor Odinson <the_real_thor@avengers.com>,Closed,Design,21,Sentiment Analysis,4/21/2024 3:09:08 AM,5/3/2024 5:50:09 AM,4/30/2024 9:06:40 AM
+675,User Story,Organic composite analyzer,Anthony Stark <iamironman@avengers.com>,Closed,Frontend,1,Chatbot,4/24/2024 3:51:02 AM,5/5/2024 2:35:23 AM,5/9/2024 11:49:24 AM
+676,User Story,Advanced bi-directional model,Loki Odinson <thor@avengers.com>,Closed,Backend,3,Data Governance Automation,4/19/2024 7:57:11 AM,5/5/2024 8:41:57 AM,4/29/2024 11:59:03 AM
+677,User Story,Cloned real-time circuit,T'Challa Udaku <wakandaforever@avengers.com>,Closed,Backend,2,Chatbot,4/17/2024 4:34:33 AM,5/5/2024 1:41:19 AM,5/1/2024 8:51:53 AM
+678,Bug,Configurable optimal challenge,Natasha Romanov <1wDf1!@avengers.com>,Closed,Frontend,5,Data Governance Automation,4/21/2024 12:23:58 PM,5/2/2024 2:24:45 PM,4/29/2024 7:17:17 PM
+679,User Story,Reverse-engineered logistical internet solution,Natasha Romanov <1wDf1!@avengers.com>,Closed,Design,5,Data Governance Automation,4/25/2024 2:57:14 PM,5/7/2024 6:01:14 AM,5/4/2024 10:40:29 PM
+680,User Story,Robust intangible matrix,Steve Rogers <steve.rogers@avengers.com>,Closed,Backend,2,Data Governance Automation,4/19/2024 4:55:43 PM,5/4/2024 3:23:25 AM,5/7/2024 3:09:00 PM
+681,User Story,Pre-emptive coherent access,Loki Odinson <thor@avengers.com>,Closed,Backend,5,Data Governance Automation,4/24/2024 12:58:37 PM,5/5/2024 8:39:17 AM,4/29/2024 12:30:36 AM
+682,User Story,Reverse-engineered directional installation,Thor Odinson <the_real_thor@avengers.com>,Closed,Backend,5,Chatbot,4/24/2024 8:26:36 AM,5/1/2024 11:16:45 PM,5/8/2024 3:49:58 PM
+683,Bug,Reactive methodical function,Loki Odinson <thor@avengers.com>,Closed,Backend,13,Chatbot,4/18/2024 6:18:48 AM,5/9/2024 11:35:13 AM,5/8/2024 12:25:19 PM
+684,User Story,Configurable human-resource application,Natasha Romanov <1wDf1!@avengers.com>,Closed,Backend,5,Chatbot,4/18/2024 4:17:35 AM,5/4/2024 8:12:57 AM,4/29/2024 7:44:47 PM
+685,User Story,Enterprise-wide executive database,Natasha Romanov <1wDf1!@avengers.com>,Closed,Frontend,3,Data Governance Automation,4/18/2024 3:05:37 AM,5/2/2024 5:01:00 AM,5/3/2024 1:20:51 AM
+686,User Story,Networked intangible open system,Loki Odinson <thor@avengers.com>,Closed,Backend,13,Chatbot,4/20/2024 2:03:20 AM,5/3/2024 11:30:07 AM,5/7/2024 7:45:59 PM
+687,User Story,Upgradable executive project,Anthony Stark <iamironman@avengers.com>,Closed,Frontend,5,Chatbot,4/16/2024 9:06:48 AM,5/5/2024 3:49:54 AM,4/30/2024 4:45:15 PM
+688,User Story,Switchable mobile complexity,Anthony Stark <iamironman@avengers.com>,Closed,Frontend,8,Sentiment Analysis,4/16/2024 5:24:45 AM,5/5/2024 6:28:13 PM,5/2/2024 4:58:28 PM
+689,User Story,Centralized zero defect throughput,Anthony Stark <iamironman@avengers.com>,Closed,Design,3,Chatbot,4/21/2024 9:24:04 AM,5/3/2024 11:49:24 PM,5/5/2024 10:57:55 AM
+690,User Story,Function-based client-driven throughput,Loki Odinson <thor@avengers.com>,Closed,Design,8,Sentiment Analysis,4/24/2024 10:29:01 PM,5/7/2024 6:12:50 PM,4/30/2024 8:53:25 PM
+691,User Story,Object-based zero defect throughput,Natasha Romanov <1wDf1!@avengers.com>,Closed,Frontend,5,Chatbot,4/25/2024 5:14:01 PM,5/8/2024 1:19:23 PM,4/30/2024 4:16:01 AM
+692,User Story,Fundamental scalable methodology,Natasha Romanov <1wDf1!@avengers.com>,Closed,Design,5,Sentiment Analysis,4/22/2024 10:03:18 AM,5/8/2024 6:51:37 AM,5/2/2024 12:20:06 PM
+693,User Story,Synergistic value-added function,Steve Rogers <steve.rogers@avengers.com>,On Hold,Backend,5,Sentiment Analysis,4/17/2024 1:42:42 AM,5/4/2024 8:07:16 AM,5/2/2024 4:46:01 PM
+694,User Story,Profit-focused motivating emulation,Anthony Stark <iamironman@avengers.com>,Closed,Design,21,Sentiment Analysis,4/18/2024 2:25:56 PM,5/6/2024 4:04:10 AM,5/8/2024 1:59:53 PM
+695,User Story,Fundamental interactive contingency,Loki Odinson <thor@avengers.com>,Closed,Design,3,Sentiment Analysis,4/19/2024 8:29:26 PM,5/5/2024 5:27:46 PM,5/9/2024 10:53:15 PM
+696,User Story,Realigned multimedia initiative,Thor Odinson <the_real_thor@avengers.com>,On Hold,Backend,3,Data Governance Automation,4/23/2024 9:45:34 PM,5/6/2024 3:37:19 PM,4/30/2024 3:11:38 PM
+697,User Story,Decentralized motivating encoding,Loki Odinson <thor@avengers.com>,Closed,Backend,5,Sentiment Analysis,4/20/2024 5:39:07 AM,5/8/2024 4:12:36 AM,5/6/2024 6:23:30 AM
+698,User Story,Organized grid-enabled local area network,Thor Odinson <the_real_thor@avengers.com>,Closed,Backend,3,Sentiment Analysis,4/16/2024 7:51:27 AM,5/5/2024 11:00:28 AM,4/30/2024 9:51:50 PM
+699,User Story,Object-based context-sensitive structure,Thor Odinson <the_real_thor@avengers.com>,Closed,Backend,2,Sentiment Analysis,4/22/2024 8:55:47 AM,5/4/2024 12:16:14 AM,5/9/2024 3:42:54 PM
+700,User Story,Progressive human-resource moratorium,T'Challa Udaku <wakandaforever@avengers.com>,Closed,Backend,8,Chatbot,4/19/2024 12:17:46 AM,5/1/2024 3:19:39 AM,5/7/2024 5:26:36 PM
+701,User Story,Extended local approach,T'Challa Udaku <wakandaforever@avengers.com>,On Hold,Frontend,3,Sentiment Analysis,4/17/2024 1:44:52 PM,5/2/2024 12:33:59 AM,5/3/2024 10:27:22 AM
+702,Bug,Devolved actuating structure,Thor Odinson <the_real_thor@avengers.com>,Closed,Frontend,13,Sentiment Analysis,4/16/2024 12:18:09 AM,5/5/2024 6:41:15 AM,5/3/2024 11:44:18 AM
+703,Bug,Integrated uniform knowledge user,Thor Odinson <the_real_thor@avengers.com>,Closed,Frontend,5,Sentiment Analysis,4/16/2024 10:35:38 PM,5/9/2024 6:36:09 PM,5/6/2024 12:22:03 AM
+704,User Story,Assimilated dedicated orchestration,Thor Odinson <the_real_thor@avengers.com>,Closed,Backend,13,Chatbot,4/24/2024 8:13:41 PM,5/7/2024 2:08:50 PM,5/1/2024 7:45:40 PM
+705,User Story,Visionary background Graphical User Interface,Loki Odinson <thor@avengers.com>,Closed,Backend,2,Data Governance Automation,4/15/2024 3:08:13 PM,5/9/2024 11:14:17 PM,5/3/2024 1:15:05 AM
+706,User Story,Expanded didactic open architecture,Steve Rogers <steve.rogers@avengers.com>,Closed,Backend,3,Chatbot,4/25/2024 9:33:14 AM,5/5/2024 4:20:45 PM,5/7/2024 3:30:19 AM
+707,User Story,Organized eco-centric concept,Steve Rogers <steve.rogers@avengers.com>,Closed,Frontend,5,Sentiment Analysis,4/15/2024 7:58:24 PM,5/2/2024 2:46:57 PM,4/30/2024 2:34:36 AM
+708,User Story,Innovative intermediate budgetary management,Thor Odinson <the_real_thor@avengers.com>,Closed,Backend,8,Chatbot,4/17/2024 3:24:46 AM,5/9/2024 7:31:50 PM,5/1/2024 6:41:18 AM
+709,User Story,Sharable 6th generation interface,Steve Rogers <steve.rogers@avengers.com>,Closed,Frontend,5,Sentiment Analysis,4/15/2024 3:52:48 AM,5/4/2024 1:58:02 PM,5/5/2024 4:19:34 AM
+710,User Story,Polarised stable infrastructure,Loki Odinson <thor@avengers.com>,Closed,Design,5,Data Governance Automation,4/20/2024 7:52:07 AM,5/7/2024 1:46:35 PM,5/6/2024 1:23:25 PM
+711,Bug,User-friendly real-time hardware,Steve Rogers <steve.rogers@avengers.com>,Closed,Design,2,Data Governance Automation,4/22/2024 4:39:43 AM,5/4/2024 10:45:43 AM,5/1/2024 6:06:47 PM
+712,User Story,Optimized next generation migration,T'Challa Udaku <wakandaforever@avengers.com>,Closed,Frontend,1,Sentiment Analysis,4/19/2024 2:52:01 AM,5/3/2024 9:13:31 AM,5/1/2024 10:11:40 AM
+713,User Story,Sharable clear-thinking policy,Natasha Romanov <1wDf1!@avengers.com>,Closed,Backend,3,Chatbot,4/16/2024 1:56:11 PM,5/2/2024 10:39:48 AM,5/3/2024 5:30:49 PM
+714,User Story,Reduced analyzing hierarchy,Steve Rogers <steve.rogers@avengers.com>,Closed,Backend,5,Sentiment Analysis,4/20/2024 7:26:44 AM,5/3/2024 7:04:30 PM,5/3/2024 5:20:08 PM
+715,User Story,Object-based grid-enabled time-frame,Anthony Stark <iamironman@avengers.com>,Closed,Frontend,8,Data Governance Automation,4/20/2024 1:03:29 AM,5/4/2024 10:57:20 AM,5/4/2024 4:43:32 PM
+716,User Story,Extended multimedia installation,Thor Odinson <the_real_thor@avengers.com>,Closed,Frontend,3,Chatbot,4/18/2024 7:18:34 PM,5/7/2024 7:34:42 PM,5/8/2024 6:49:50 PM
+717,Bug,User-centric static encoding,Natasha Romanov <1wDf1!@avengers.com>,Closed,Design,1,Chatbot,4/23/2024 1:42:41 PM,5/6/2024 1:33:36 AM,5/7/2024 5:19:35 AM
+718,User Story,Pre-emptive systematic access,Anthony Stark <iamironman@avengers.com>,Closed,Frontend,3,Sentiment Analysis,4/25/2024 12:12:42 PM,5/8/2024 10:43:50 AM,4/29/2024 10:35:15 PM
+719,User Story,Multi-lateral optimal database,Natasha Romanov <1wDf1!@avengers.com>,Closed,Backend,5,Sentiment Analysis,4/16/2024 10:45:32 AM,5/5/2024 6:07:51 AM,4/29/2024 9:49:52 AM
+720,User Story,Universal next generation pricing structure,Steve Rogers <steve.rogers@avengers.com>,Closed,Design,13,Chatbot,4/21/2024 6:53:41 PM,5/8/2024 12:48:00 AM,5/8/2024 4:12:47 PM
+721,User Story,Multi-layered upward-trending benchmark,T'Challa Udaku <wakandaforever@avengers.com>,Closed,Backend,5,Chatbot,4/21/2024 4:15:27 AM,5/8/2024 3:42:47 AM,5/2/2024 7:52:34 AM
+722,User Story,Ameliorated zero defect neural-net,Thor Odinson <the_real_thor@avengers.com>,Closed,Design,5,Data Governance Automation,4/15/2024 4:00:04 AM,5/4/2024 2:11:01 PM,5/3/2024 5:35:35 AM
+723,User Story,Public-key neutral conglomeration,Steve Rogers <steve.rogers@avengers.com>,On Hold,Design,5,Data Governance Automation,4/15/2024 5:43:10 PM,5/5/2024 8:51:54 AM,5/8/2024 10:26:56 PM
+724,User Story,Upgradable real-time complexity,Anthony Stark <iamironman@avengers.com>,Closed,Frontend,3,Chatbot,4/19/2024 11:37:05 AM,5/9/2024 4:56:25 PM,5/9/2024 3:16:01 AM
+725,User Story,Fundamental zero defect initiative,Natasha Romanov <1wDf1!@avengers.com>,Closed,Frontend,3,Sentiment Analysis,4/22/2024 12:30:29 AM,5/2/2024 4:59:32 AM,5/4/2024 7:37:03 AM
+726,User Story,Open-source multi-tasking initiative,Anthony Stark <iamironman@avengers.com>,Closed,Backend,2,Sentiment Analysis,4/22/2024 8:08:22 PM,5/7/2024 4:22:23 AM,5/4/2024 4:41:42 PM
+727,User Story,Team-oriented transitional collaboration,Thor Odinson <the_real_thor@avengers.com>,Closed,Backend,21,Sentiment Analysis,4/25/2024 1:08:13 AM,5/8/2024 3:12:40 AM,5/1/2024 10:59:06 AM
+728,User Story,Public-key global info-mediaries,T'Challa Udaku <wakandaforever@avengers.com>,Closed,Frontend,3,Sentiment Analysis,4/19/2024 1:22:40 PM,5/8/2024 10:47:14 PM,4/30/2024 5:00:32 AM
+729,User Story,Cloned upward-trending migration,Thor Odinson <the_real_thor@avengers.com>,Closed,Backend,13,Data Governance Automation,4/15/2024 6:23:30 PM,5/2/2024 4:48:58 PM,5/8/2024 7:51:40 PM
+730,User Story,Vision-oriented hybrid budgetary management,Steve Rogers <steve.rogers@avengers.com>,Closed,Backend,3,Chatbot,4/22/2024 7:10:12 AM,5/2/2024 10:41:16 PM,5/5/2024 5:52:25 PM
+731,User Story,Down-sized tangible instruction set,Anthony Stark <iamironman@avengers.com>,Closed,Frontend,21,Sentiment Analysis,4/20/2024 7:16:52 PM,5/9/2024 9:11:11 PM,5/1/2024 1:25:26 PM
+732,User Story,Profound encompassing artificial intelligence,Thor Odinson <the_real_thor@avengers.com>,Closed,Frontend,5,Data Governance Automation,4/21/2024 8:44:08 AM,5/3/2024 11:39:05 PM,4/30/2024 3:03:25 AM
+733,User Story,Robust 24 hour model,Loki Odinson <thor@avengers.com>,Closed,Design,5,Sentiment Analysis,4/25/2024 8:44:12 PM,5/3/2024 8:24:24 PM,5/9/2024 3:52:01 AM
+734,User Story,Managed client-driven productivity,Thor Odinson <the_real_thor@avengers.com>,Closed,Backend,3,Data Governance Automation,4/20/2024 4:16:13 PM,5/9/2024 1:09:41 PM,5/6/2024 7:40:10 PM
+735,User Story,Digitized discrete budgetary management,T'Challa Udaku <wakandaforever@avengers.com>,Closed,Design,3,Chatbot,4/22/2024 7:44:01 AM,5/6/2024 4:35:43 AM,5/4/2024 5:04:40 PM
+736,User Story,Synergized contextually-based installation,Anthony Stark <iamironman@avengers.com>,Closed,Design,3,Sentiment Analysis,4/24/2024 10:03:21 PM,5/6/2024 1:56:34 PM,5/3/2024 8:28:57 PM
+737,User Story,Streamlined bandwidth-monitored archive,Loki Odinson <thor@avengers.com>,Closed,Frontend,5,Chatbot,4/25/2024 4:19:20 AM,5/6/2024 5:11:09 PM,5/2/2024 2:24:51 PM
+738,User Story,Seamless asynchronous neural-net,Loki Odinson <thor@avengers.com>,Closed,Design,5,Data Governance Automation,4/22/2024 2:57:21 AM,5/2/2024 12:44:17 PM,4/30/2024 8:21:18 AM
+739,Bug,Reactive systematic alliance,T'Challa Udaku <wakandaforever@avengers.com>,Closed,Design,8,Chatbot,4/23/2024 4:14:28 PM,5/2/2024 3:10:00 AM,4/29/2024 1:05:10 AM
+740,User Story,Expanded didactic internet solution,Steve Rogers <steve.rogers@avengers.com>,Closed,Frontend,3,Chatbot,4/21/2024 5:29:34 PM,5/9/2024 9:44:44 AM,5/3/2024 7:52:04 AM
+741,User Story,Reactive client-driven website,T'Challa Udaku <wakandaforever@avengers.com>,Closed,Design,5,Sentiment Analysis,4/17/2024 4:55:40 PM,5/6/2024 3:04:44 PM,5/7/2024 5:31:13 AM
+742,User Story,Synchronised intermediate forecast,Anthony Stark <iamironman@avengers.com>,Closed,Frontend,13,Data Governance Automation,4/22/2024 5:41:19 PM,5/4/2024 11:04:19 PM,5/6/2024 5:23:07 PM
+743,User Story,Cross-group solution-oriented system engine,Natasha Romanov <1wDf1!@avengers.com>,Closed,Design,5,Data Governance Automation,4/17/2024 8:33:49 PM,5/9/2024 10:06:23 AM,5/2/2024 4:46:41 AM
+744,User Story,Diverse intangible alliance,Thor Odinson <the_real_thor@avengers.com>,Closed,Design,8,Sentiment Analysis,4/16/2024 12:14:46 PM,5/9/2024 4:04:04 AM,5/8/2024 4:54:42 PM
+745,User Story,Digitized needs-based paradigm,Steve Rogers <steve.rogers@avengers.com>,Closed,Design,8,Sentiment Analysis,4/21/2024 1:13:54 AM,5/7/2024 12:39:31 PM,5/6/2024 6:23:08 PM
+746,User Story,Multi-tiered intermediate focus group,Steve Rogers <steve.rogers@avengers.com>,Closed,Backend,1,Chatbot,4/18/2024 3:34:35 AM,5/2/2024 2:05:45 AM,5/3/2024 2:24:58 PM
+747,User Story,Future-proofed bandwidth-monitored strategy,Thor Odinson <the_real_thor@avengers.com>,Closed,Frontend,8,Sentiment Analysis,4/24/2024 6:51:29 AM,5/1/2024 11:40:59 PM,5/1/2024 6:05:21 AM
+748,User Story,Function-based tertiary moratorium,Thor Odinson <the_real_thor@avengers.com>,On Hold,Backend,5,Sentiment Analysis,4/24/2024 3:31:23 PM,5/9/2024 12:35:47 AM,5/9/2024 1:11:41 AM
+749,User Story,Front-line didactic instruction set,Natasha Romanov <1wDf1!@avengers.com>,On Hold,Backend,8,Sentiment Analysis,4/23/2024 11:53:59 AM,5/8/2024 5:06:34 AM,5/5/2024 6:08:09 PM
+750,Bug,Versatile executive utilisation,Loki Odinson <thor@avengers.com>,Closed,Design,3,Sentiment Analysis,4/18/2024 4:45:47 AM,5/5/2024 12:35:54 AM,4/30/2024 10:01:13 AM
+751,Bug,Integrated reciprocal definition,Thor Odinson <the_real_thor@avengers.com>,Closed,Frontend,3,Data Governance Automation,4/21/2024 5:26:11 AM,5/4/2024 9:57:10 PM,5/8/2024 9:03:09 PM
+752,User Story,Optimized 6th generation time-frame,Loki Odinson <thor@avengers.com>,Closed,Backend,21,Sentiment Analysis,4/17/2024 5:32:33 PM,5/7/2024 2:36:49 AM,4/29/2024 2:10:16 AM
+753,User Story,Reverse-engineered modular challenge,Steve Rogers <steve.rogers@avengers.com>,Closed,Design,5,Sentiment Analysis,4/21/2024 8:43:57 PM,5/3/2024 8:52:37 AM,4/29/2024 3:37:02 PM
+754,Bug,Automated global frame,Anthony Stark <iamironman@avengers.com>,Closed,Frontend,2,Chatbot,4/18/2024 11:06:48 AM,5/3/2024 5:35:32 AM,5/2/2024 8:46:25 AM
+755,User Story,Versatile demand-driven alliance,Natasha Romanov <1wDf1!@avengers.com>,Closed,Frontend,5,Data Governance Automation,4/25/2024 5:50:54 PM,5/5/2024 2:42:56 AM,5/8/2024 5:10:10 PM
+756,User Story,Cross-platform tangible system engine,T'Challa Udaku <wakandaforever@avengers.com>,Closed,Design,8,Data Governance Automation,4/20/2024 2:29:40 AM,5/2/2024 11:04:31 PM,5/6/2024 9:48:06 PM
+757,User Story,Advanced well-modulated project,Thor Odinson <the_real_thor@avengers.com>,Closed,Backend,5,Sentiment Analysis,4/17/2024 5:50:51 PM,5/1/2024 7:49:16 PM,5/7/2024 11:43:10 AM
+758,User Story,Monitored fresh-thinking monitoring,Anthony Stark <iamironman@avengers.com>,Closed,Design,2,Data Governance Automation,4/18/2024 4:40:11 AM,5/1/2024 8:03:55 PM,4/29/2024 4:53:41 AM
+759,User Story,Persistent systemic workforce,Anthony Stark <iamironman@avengers.com>,Closed,Frontend,2,Data Governance Automation,4/16/2024 2:27:39 AM,5/4/2024 12:19:13 AM,5/2/2024 6:28:06 PM
+760,User Story,Balanced tangible access,Anthony Stark <iamironman@avengers.com>,Closed,Design,5,Sentiment Analysis,4/24/2024 9:09:23 AM,5/6/2024 3:03:30 AM,5/5/2024 3:44:22 PM
+761,User Story,Team-oriented attitude-oriented protocol,T'Challa Udaku <wakandaforever@avengers.com>,Closed,Backend,5,Data Governance Automation,4/15/2024 11:14:19 AM,5/4/2024 2:12:05 AM,5/3/2024 11:39:18 PM
+762,User Story,Ergonomic impactful middleware,Steve Rogers <steve.rogers@avengers.com>,Closed,Design,8,Data Governance Automation,4/16/2024 2:40:23 PM,5/7/2024 11:58:27 PM,5/3/2024 4:59:49 PM
+763,User Story,Total contextually-based solution,Anthony Stark <iamironman@avengers.com>,Closed,Design,5,Data Governance Automation,4/23/2024 8:46:54 PM,5/4/2024 9:11:27 AM,4/29/2024 11:36:20 AM
+764,User Story,Down-sized global structure,Natasha Romanov <1wDf1!@avengers.com>,Closed,Frontend,8,Chatbot,4/25/2024 2:46:21 PM,5/9/2024 3:14:03 PM,5/3/2024 1:19:10 AM
+765,User Story,Synergized exuding ability,Loki Odinson <thor@avengers.com>,Closed,Backend,3,Chatbot,4/18/2024 7:35:30 AM,5/6/2024 11:15:46 PM,5/4/2024 10:23:57 PM
+766,User Story,Cross-group zero tolerance alliance,Natasha Romanov <1wDf1!@avengers.com>,Closed,Design,8,Chatbot,4/19/2024 2:58:03 AM,5/4/2024 4:03:02 PM,5/6/2024 2:47:46 PM
+767,User Story,Synergistic solution-oriented pricing structure,Thor Odinson <the_real_thor@avengers.com>,On Hold,Frontend,5,Sentiment Analysis,4/15/2024 9:21:50 PM,5/8/2024 12:09:26 PM,5/3/2024 2:05:40 AM
+768,User Story,Object-based value-added time-frame,Thor Odinson <the_real_thor@avengers.com>,Closed,Frontend,1,Sentiment Analysis,4/23/2024 8:24:19 PM,5/4/2024 8:01:31 PM,5/7/2024 4:25:04 AM
+769,User Story,Innovative intermediate migration,Anthony Stark <iamironman@avengers.com>,Closed,Frontend,5,Data Governance Automation,4/20/2024 10:25:28 PM,5/9/2024 11:45:42 AM,5/5/2024 1:32:23 PM
+770,User Story,Focused system-worthy extranet,Thor Odinson <the_real_thor@avengers.com>,Closed,Design,8,Chatbot,4/23/2024 9:46:57 AM,5/4/2024 7:36:24 AM,5/5/2024 3:43:15 AM
+771,User Story,Assimilated 3rd generation secured line,T'Challa Udaku <wakandaforever@avengers.com>,Closed,Frontend,5,Chatbot,4/16/2024 4:47:46 PM,5/4/2024 6:29:51 AM,5/4/2024 3:23:13 PM
+772,Bug,Optimized 5th generation time-frame,Loki Odinson <thor@avengers.com>,Closed,Design,13,Data Governance Automation,4/23/2024 5:04:21 AM,5/5/2024 7:57:25 AM,5/7/2024 5:55:42 PM
+773,User Story,Mandatory methodical solution,T'Challa Udaku <wakandaforever@avengers.com>,Closed,Design,13,Chatbot,4/25/2024 11:48:49 PM,5/8/2024 4:20:42 PM,5/7/2024 1:26:18 PM
+774,User Story,Fully-configurable executive attitude,Thor Odinson <the_real_thor@avengers.com>,Closed,Frontend,8,Data Governance Automation,4/23/2024 7:28:38 PM,5/6/2024 7:37:00 PM,5/5/2024 3:20:25 PM
+775,User Story,Automated directional strategy,Thor Odinson <the_real_thor@avengers.com>,Closed,Design,3,Data Governance Automation,4/20/2024 7:08:19 PM,5/5/2024 2:18:13 AM,5/6/2024 2:47:35 PM
+776,User Story,Compatible 3rd generation capability,Loki Odinson <thor@avengers.com>,Closed,Frontend,2,Chatbot,4/18/2024 4:19:33 AM,5/2/2024 5:45:49 AM,5/8/2024 6:23:42 PM
+777,User Story,Streamlined background emulation,T'Challa Udaku <wakandaforever@avengers.com>,Closed,Design,3,Chatbot,4/24/2024 6:41:50 AM,5/8/2024 5:32:10 PM,5/2/2024 5:23:01 PM
+778,User Story,Total explicit migration,T'Challa Udaku <wakandaforever@avengers.com>,Closed,Design,21,Sentiment Analysis,4/21/2024 6:13:07 AM,5/4/2024 11:19:43 PM,5/8/2024 7:10:41 AM
+779,User Story,Secured tangible product,Anthony Stark <iamironman@avengers.com>,Closed,Backend,21,Chatbot,4/24/2024 11:40:51 AM,5/5/2024 8:35:01 PM,4/29/2024 10:35:53 AM
+780,User Story,Digitized attitude-oriented circuit,Steve Rogers <steve.rogers@avengers.com>,Closed,Frontend,1,Data Governance Automation,4/22/2024 10:40:53 PM,5/4/2024 5:55:44 PM,4/29/2024 1:50:15 PM
+781,User Story,Reduced mission-critical local area network,T'Challa Udaku <wakandaforever@avengers.com>,Closed,Design,8,Chatbot,4/23/2024 1:09:32 PM,5/7/2024 10:59:46 PM,5/8/2024 6:27:26 AM
+782,User Story,Sharable even-keeled moderator,Natasha Romanov <1wDf1!@avengers.com>,Closed,Design,21,Sentiment Analysis,4/19/2024 8:42:48 PM,5/9/2024 7:19:49 AM,4/30/2024 11:34:13 PM
+783,User Story,Synergistic leading edge adapter,Thor Odinson <the_real_thor@avengers.com>,Closed,Design,1,Sentiment Analysis,4/22/2024 9:53:56 PM,5/9/2024 7:43:07 AM,5/7/2024 2:55:58 AM
+784,User Story,Decentralized interactive artificial intelligence,Steve Rogers <steve.rogers@avengers.com>,Closed,Design,8,Chatbot,4/19/2024 6:09:42 PM,5/5/2024 10:48:34 PM,5/4/2024 2:48:58 AM
+785,User Story,Robust next generation budgetary management,Anthony Stark <iamironman@avengers.com>,Closed,Design,3,Sentiment Analysis,4/23/2024 4:39:49 PM,5/8/2024 11:03:20 PM,5/9/2024 7:06:59 AM
+786,User Story,Down-sized asynchronous process improvement,Anthony Stark <iamironman@avengers.com>,On Hold,Design,2,Sentiment Analysis,4/18/2024 7:45:02 PM,5/8/2024 12:17:36 PM,5/4/2024 3:54:11 AM
+787,User Story,Multi-lateral mission-critical time-frame,Natasha Romanov <1wDf1!@avengers.com>,Closed,Frontend,5,Sentiment Analysis,4/17/2024 8:12:37 AM,5/5/2024 4:48:58 PM,5/4/2024 6:28:56 PM
+788,User Story,Ergonomic multi-tasking pricing structure,Steve Rogers <steve.rogers@avengers.com>,Closed,Frontend,5,Data Governance Automation,4/20/2024 11:30:34 AM,5/2/2024 7:18:37 AM,5/5/2024 6:47:49 AM
+789,User Story,Integrated solution-oriented firmware,Steve Rogers <steve.rogers@avengers.com>,Closed,Frontend,5,Sentiment Analysis,4/18/2024 4:00:27 PM,5/2/2024 6:44:43 PM,5/7/2024 10:37:46 PM
+790,User Story,Seamless didactic model,T'Challa Udaku <wakandaforever@avengers.com>,Closed,Frontend,1,Chatbot,4/16/2024 4:26:10 PM,5/3/2024 1:15:22 PM,5/3/2024 10:20:05 PM
+791,User Story,Enterprise-wide systematic solution,Anthony Stark <iamironman@avengers.com>,Closed,Design,13,Data Governance Automation,4/24/2024 6:57:02 AM,5/4/2024 4:56:52 PM,5/8/2024 4:36:50 AM
+792,User Story,Digitized asynchronous support,Anthony Stark <iamironman@avengers.com>,On Hold,Design,8,Data Governance Automation,4/22/2024 8:06:30 AM,5/1/2024 5:03:35 PM,5/8/2024 12:53:52 AM
+793,User Story,Up-sized zero defect productivity,Thor Odinson <the_real_thor@avengers.com>,Closed,Frontend,21,Chatbot,4/20/2024 11:18:39 PM,5/4/2024 8:46:43 PM,5/2/2024 8:43:17 AM
+794,User Story,Centralized executive software,Thor Odinson <the_real_thor@avengers.com>,Closed,Backend,2,Chatbot,4/17/2024 3:41:00 PM,5/6/2024 12:15:01 AM,5/2/2024 3:15:44 AM
+795,User Story,Digitized bi-directional attitude,Natasha Romanov <1wDf1!@avengers.com>,Closed,Frontend,13,Chatbot,4/24/2024 9:03:24 PM,5/2/2024 3:22:31 PM,5/7/2024 3:35:14 PM
+796,User Story,Team-oriented scalable matrices,Steve Rogers <steve.rogers@avengers.com>,Closed,Frontend,5,Chatbot,4/19/2024 3:50:04 PM,5/2/2024 1:30:53 AM,5/2/2024 4:58:58 AM
+797,User Story,Open-architected hybrid interface,Steve Rogers <steve.rogers@avengers.com>,Closed,Backend,3,Chatbot,4/23/2024 9:49:11 PM,5/4/2024 5:27:35 PM,5/3/2024 9:33:34 PM
+798,User Story,Proactive zero tolerance help-desk,Thor Odinson <the_real_thor@avengers.com>,Closed,Design,5,Data Governance Automation,4/17/2024 9:37:34 PM,5/9/2024 6:13:08 AM,5/6/2024 6:44:34 AM
+799,User Story,Front-line radical success,Thor Odinson <the_real_thor@avengers.com>,Closed,Frontend,13,Chatbot,4/21/2024 7:18:10 AM,5/7/2024 1:18:17 AM,5/1/2024 8:17:33 AM
+800,User Story,Operative actuating internet solution,Loki Odinson <thor@avengers.com>,Closed,Design,3,Sentiment Analysis,4/21/2024 12:11:48 AM,5/1/2024 2:23:57 PM,4/29/2024 11:54:56 AM
+801,User Story,Centralized dedicated encryption,T'Challa Udaku <wakandaforever@avengers.com>,Closed,Backend,8,Chatbot,4/16/2024 6:06:27 AM,5/4/2024 11:46:32 AM,5/2/2024 4:54:31 PM
+802,User Story,Innovative analyzing model,Natasha Romanov <1wDf1!@avengers.com>,Closed,Design,5,Sentiment Analysis,4/25/2024 8:53:14 AM,5/3/2024 4:42:52 AM,5/1/2024 8:35:57 AM
+803,User Story,Progressive systematic time-frame,Anthony Stark <iamironman@avengers.com>,Closed,Frontend,5,Data Governance Automation,4/20/2024 2:34:07 AM,5/7/2024 7:27:51 PM,5/9/2024 7:39:16 AM
+804,User Story,Vision-oriented maximized challenge,Natasha Romanov <1wDf1!@avengers.com>,Closed,Frontend,5,Chatbot,4/22/2024 3:24:15 AM,5/9/2024 7:55:40 AM,5/7/2024 8:41:45 AM
+805,Bug,Assimilated web-enabled capacity,Thor Odinson <the_real_thor@avengers.com>,Closed,Design,5,Sentiment Analysis,4/18/2024 8:10:21 PM,5/6/2024 5:24:00 AM,5/9/2024 9:28:33 PM
+806,User Story,Realigned background groupware,Natasha Romanov <1wDf1!@avengers.com>,Closed,Backend,2,Data Governance Automation,4/19/2024 10:32:58 AM,5/2/2024 4:51:51 AM,5/6/2024 6:51:56 AM
+807,User Story,Adaptive 24 hour system engine,Thor Odinson <the_real_thor@avengers.com>,Closed,Design,8,Sentiment Analysis,4/15/2024 10:30:23 PM,5/7/2024 11:15:23 AM,5/6/2024 4:46:24 AM
+808,User Story,Organic contextually-based toolset,Thor Odinson <the_real_thor@avengers.com>,Closed,Frontend,3,Sentiment Analysis,4/25/2024 10:38:42 AM,5/2/2024 10:58:01 AM,5/5/2024 8:26:29 PM
+809,User Story,Cross-platform optimizing toolset,Natasha Romanov <1wDf1!@avengers.com>,Closed,Backend,8,Sentiment Analysis,4/16/2024 7:06:04 AM,5/8/2024 6:55:05 AM,5/4/2024 5:12:51 PM
+810,User Story,Optional impactful throughput,T'Challa Udaku <wakandaforever@avengers.com>,Closed,Frontend,3,Data Governance Automation,4/21/2024 9:30:46 PM,5/7/2024 3:50:21 AM,5/7/2024 4:55:09 AM
+811,User Story,Digitized coherent standardization,Anthony Stark <iamironman@avengers.com>,Closed,Backend,5,Sentiment Analysis,4/20/2024 12:54:22 AM,5/5/2024 10:44:03 PM,4/30/2024 12:47:01 PM
+812,Bug,Switchable high-level attitude,Steve Rogers <steve.rogers@avengers.com>,Closed,Backend,5,Sentiment Analysis,4/18/2024 6:59:30 PM,5/6/2024 12:44:33 PM,4/30/2024 2:26:13 PM
+813,User Story,Intuitive dedicated open architecture,Anthony Stark <iamironman@avengers.com>,Closed,Frontend,2,Data Governance Automation,4/17/2024 7:59:40 AM,5/7/2024 12:46:08 PM,5/6/2024 9:10:37 PM
+814,User Story,Reduced bifurcated superstructure,Loki Odinson <thor@avengers.com>,Closed,Design,13,Data Governance Automation,4/22/2024 8:38:57 PM,5/4/2024 7:21:04 AM,5/1/2024 8:19:53 AM
+815,User Story,Public-key zero tolerance analyzer,T'Challa Udaku <wakandaforever@avengers.com>,Closed,Design,3,Chatbot,4/22/2024 3:30:30 AM,5/1/2024 7:47:42 AM,4/30/2024 12:27:05 PM
+816,User Story,Object-based client-driven info-mediaries,Thor Odinson <the_real_thor@avengers.com>,Closed,Design,3,Chatbot,4/23/2024 7:07:05 PM,5/5/2024 9:55:45 PM,5/7/2024 3:46:50 PM
+817,Bug,Vision-oriented 5th generation solution,Natasha Romanov <1wDf1!@avengers.com>,Closed,Design,3,Data Governance Automation,4/25/2024 10:16:02 AM,5/7/2024 3:19:48 AM,5/7/2024 7:36:04 AM
+818,User Story,Operative maximized installation,Thor Odinson <the_real_thor@avengers.com>,Closed,Design,8,Chatbot,4/15/2024 10:53:09 PM,5/8/2024 11:49:00 AM,5/8/2024 5:44:27 PM
+819,User Story,Balanced demand-driven archive,Loki Odinson <thor@avengers.com>,Closed,Backend,8,Chatbot,4/23/2024 6:58:43 AM,5/9/2024 9:58:49 AM,5/3/2024 12:29:44 AM
+820,User Story,Open-architected secondary hierarchy,Natasha Romanov <1wDf1!@avengers.com>,Closed,Backend,13,Chatbot,4/20/2024 10:40:33 AM,5/2/2024 5:59:10 AM,5/4/2024 12:32:16 AM
+821,User Story,Self-enabling grid-enabled encoding,Steve Rogers <steve.rogers@avengers.com>,Closed,Design,5,Sentiment Analysis,4/15/2024 6:23:36 PM,5/3/2024 8:32:57 PM,4/29/2024 1:24:31 AM
+822,User Story,Fully-configurable contextually-based encryption,Loki Odinson <thor@avengers.com>,Closed,Backend,5,Data Governance Automation,4/25/2024 9:13:08 AM,5/2/2024 11:17:47 AM,5/8/2024 8:58:57 AM
+823,Bug,Customizable bifurcated portal,Thor Odinson <the_real_thor@avengers.com>,Closed,Design,3,Sentiment Analysis,4/19/2024 1:16:24 AM,5/9/2024 3:26:06 PM,5/9/2024 11:19:25 PM
+824,User Story,Stand-alone dedicated core,Anthony Stark <iamironman@avengers.com>,On Hold,Frontend,8,Sentiment Analysis,4/18/2024 8:46:24 PM,5/2/2024 11:50:41 AM,5/6/2024 9:16:31 PM
+825,User Story,Public-key tertiary workforce,Steve Rogers <steve.rogers@avengers.com>,Closed,Backend,5,Chatbot,4/24/2024 1:49:55 AM,5/4/2024 4:35:15 PM,4/29/2024 4:07:48 PM
+826,User Story,Cross-group full-range groupware,Steve Rogers <steve.rogers@avengers.com>,Closed,Backend,3,Chatbot,4/25/2024 4:44:45 PM,5/8/2024 7:52:24 PM,5/2/2024 10:41:54 PM
+827,User Story,Customer-focused high-level approach,Natasha Romanov <1wDf1!@avengers.com>,Closed,Frontend,3,Data Governance Automation,4/15/2024 11:14:35 PM,5/6/2024 1:09:58 AM,5/4/2024 2:38:05 AM
+828,User Story,Self-enabling foreground access,Thor Odinson <the_real_thor@avengers.com>,Closed,Design,13,Chatbot,4/22/2024 12:38:39 PM,5/4/2024 3:22:13 PM,4/29/2024 7:47:18 AM
+829,User Story,Virtual 24 hour encryption,T'Challa Udaku <wakandaforever@avengers.com>,Closed,Design,8,Sentiment Analysis,4/17/2024 12:49:25 PM,5/1/2024 2:24:49 AM,4/29/2024 11:15:51 AM
+830,User Story,Customer-focused holistic attitude,Thor Odinson <the_real_thor@avengers.com>,Closed,Frontend,13,Sentiment Analysis,4/24/2024 1:15:13 PM,5/1/2024 7:34:29 PM,5/6/2024 6:03:00 PM
+831,User Story,Universal mobile firmware,Loki Odinson <thor@avengers.com>,Closed,Frontend,13,Sentiment Analysis,4/23/2024 3:21:32 PM,5/1/2024 12:25:07 AM,5/1/2024 9:18:41 AM
+832,User Story,Polarised executive adapter,Loki Odinson <thor@avengers.com>,Closed,Design,13,Data Governance Automation,4/21/2024 5:56:22 AM,5/6/2024 12:27:20 AM,5/6/2024 6:58:05 PM
+833,User Story,Quality-focused 6th generation throughput,Thor Odinson <the_real_thor@avengers.com>,Closed,Design,2,Sentiment Analysis,4/16/2024 6:07:51 PM,5/9/2024 5:44:18 AM,5/8/2024 8:33:55 PM
+834,User Story,Upgradable bi-directional matrices,Thor Odinson <the_real_thor@avengers.com>,Closed,Frontend,3,Sentiment Analysis,4/18/2024 11:42:39 PM,5/1/2024 5:25:59 PM,5/6/2024 11:38:41 PM
+835,User Story,Optional zero administration alliance,Thor Odinson <the_real_thor@avengers.com>,Closed,Frontend,1,Data Governance Automation,4/21/2024 5:55:26 AM,5/3/2024 7:35:33 PM,5/3/2024 7:08:06 AM
+836,User Story,Face to face client-server hardware,Loki Odinson <thor@avengers.com>,Closed,Frontend,5,Data Governance Automation,4/16/2024 1:13:03 AM,5/7/2024 9:08:26 AM,4/30/2024 11:24:18 PM
+837,User Story,Compatible tangible toolset,Natasha Romanov <1wDf1!@avengers.com>,Closed,Design,2,Data Governance Automation,4/16/2024 12:57:29 AM,5/6/2024 1:26:55 PM,5/5/2024 5:54:36 PM
+838,User Story,Universal full-range open system,Thor Odinson <the_real_thor@avengers.com>,On Hold,Design,13,Data Governance Automation,4/16/2024 4:02:44 AM,5/4/2024 8:04:40 PM,4/29/2024 6:04:49 AM
+839,User Story,Function-based interactive database,Loki Odinson <thor@avengers.com>,Closed,Frontend,5,Chatbot,4/18/2024 6:31:39 PM,5/9/2024 1:17:17 AM,5/4/2024 4:39:55 AM
+840,User Story,Advanced global migration,Loki Odinson <thor@avengers.com>,Closed,Frontend,1,Sentiment Analysis,4/21/2024 6:38:41 PM,5/4/2024 12:13:56 PM,5/2/2024 6:01:49 PM
+841,User Story,Compatible 6th generation emulation,Steve Rogers <steve.rogers@avengers.com>,Closed,Backend,8,Data Governance Automation,4/25/2024 6:26:31 AM,5/8/2024 3:30:51 PM,4/30/2024 8:48:12 PM
+842,Bug,Digitized intangible middleware,Thor Odinson <the_real_thor@avengers.com>,Closed,Design,8,Chatbot,4/16/2024 8:11:50 AM,5/2/2024 3:45:02 PM,5/2/2024 9:15:15 AM
+843,Bug,Front-line responsive Graphical User Interface,Steve Rogers <steve.rogers@avengers.com>,Closed,Backend,8,Chatbot,4/25/2024 6:40:34 AM,5/3/2024 11:45:19 AM,5/5/2024 7:59:48 PM
+844,User Story,De-engineered bi-directional array,Thor Odinson <the_real_thor@avengers.com>,Closed,Design,21,Chatbot,4/24/2024 7:47:19 AM,5/2/2024 1:18:14 AM,4/30/2024 4:41:13 AM
+845,User Story,Fully-configurable directional encryption,T'Challa Udaku <wakandaforever@avengers.com>,Closed,Design,13,Chatbot,4/22/2024 11:18:01 AM,5/8/2024 5:32:20 AM,4/29/2024 6:51:28 AM
+846,User Story,Pre-emptive reciprocal interface,Anthony Stark <iamironman@avengers.com>,Closed,Frontend,8,Sentiment Analysis,4/17/2024 3:05:54 AM,5/2/2024 6:11:52 AM,4/30/2024 3:28:50 AM
+847,User Story,Phased grid-enabled product,Thor Odinson <the_real_thor@avengers.com>,Closed,Frontend,5,Sentiment Analysis,4/20/2024 12:57:19 AM,5/1/2024 10:15:03 PM,5/3/2024 12:19:58 AM
+848,User Story,Customizable system-worthy concept,Loki Odinson <thor@avengers.com>,Closed,Backend,8,Sentiment Analysis,4/24/2024 8:39:41 PM,5/9/2024 4:36:58 PM,4/29/2024 10:29:10 AM
+849,User Story,Versatile client-server system engine,T'Challa Udaku <wakandaforever@avengers.com>,Closed,Design,5,Data Governance Automation,4/18/2024 12:18:07 AM,5/7/2024 9:34:57 AM,5/1/2024 1:20:58 AM
+850,User Story,Open-source bandwidth-monitored matrices,Anthony Stark <iamironman@avengers.com>,Closed,Design,5,Data Governance Automation,4/20/2024 1:21:58 PM,5/3/2024 7:23:32 AM,4/29/2024 12:22:10 AM
+851,User Story,Streamlined 24/7 firmware,Natasha Romanov <1wDf1!@avengers.com>,Closed,Design,13,Sentiment Analysis,4/18/2024 2:25:39 AM,5/5/2024 2:51:13 PM,5/4/2024 8:45:56 PM
+852,User Story,Up-sized 5th generation contingency,Anthony Stark <iamironman@avengers.com>,Closed,Frontend,8,Sentiment Analysis,4/22/2024 10:49:05 AM,5/6/2024 3:52:42 PM,5/8/2024 1:47:18 AM
+853,User Story,Right-sized 5th generation application,Thor Odinson <the_real_thor@avengers.com>,Closed,Design,2,Sentiment Analysis,4/23/2024 12:45:09 AM,5/4/2024 6:35:33 AM,5/9/2024 12:18:57 PM
+854,User Story,Cross-group zero tolerance focus group,Natasha Romanov <1wDf1!@avengers.com>,Closed,Backend,5,Sentiment Analysis,4/22/2024 12:32:19 PM,5/2/2024 4:33:32 AM,5/1/2024 12:01:25 PM
+855,User Story,Optimized content-based framework,Thor Odinson <the_real_thor@avengers.com>,Closed,Backend,3,Data Governance Automation,4/16/2024 8:40:29 PM,5/4/2024 11:56:09 PM,5/6/2024 1:23:53 AM
+856,User Story,Open-source eco-centric policy,Steve Rogers <steve.rogers@avengers.com>,Closed,Frontend,8,Data Governance Automation,4/20/2024 11:52:34 PM,5/2/2024 4:05:13 PM,5/7/2024 1:01:17 PM
+857,User Story,Organic dynamic array,Anthony Stark <iamironman@avengers.com>,On Hold,Design,8,Sentiment Analysis,4/19/2024 1:45:21 PM,5/9/2024 12:52:28 AM,5/8/2024 12:04:29 AM
+858,User Story,Diverse tertiary strategy,Anthony Stark <iamironman@avengers.com>,Closed,Design,21,Data Governance Automation,4/17/2024 11:57:30 AM,5/2/2024 5:14:07 PM,5/6/2024 7:16:42 AM
+859,User Story,Operative solution-oriented superstructure,Thor Odinson <the_real_thor@avengers.com>,Closed,Design,5,Chatbot,4/15/2024 3:21:18 PM,5/7/2024 4:32:10 AM,5/3/2024 12:26:43 AM
+860,User Story,Re-contextualized tertiary access,Thor Odinson <the_real_thor@avengers.com>,Closed,Backend,5,Sentiment Analysis,4/23/2024 12:39:51 PM,5/3/2024 2:32:01 PM,5/1/2024 2:46:05 AM
+861,User Story,Grass-roots incremental neural-net,T'Challa Udaku <wakandaforever@avengers.com>,On Hold,Frontend,8,Sentiment Analysis,4/16/2024 7:08:41 AM,5/7/2024 9:04:42 AM,5/2/2024 7:14:25 AM
+862,Bug,Object-based needs-based ability,Steve Rogers <steve.rogers@avengers.com>,Closed,Backend,21,Data Governance Automation,4/23/2024 10:41:45 AM,5/4/2024 1:52:24 AM,5/6/2024 11:47:37 PM
+863,User Story,Object-based dedicated service-desk,T'Challa Udaku <wakandaforever@avengers.com>,Closed,Design,5,Sentiment Analysis,4/21/2024 4:41:53 AM,5/8/2024 3:36:13 PM,5/9/2024 4:18:04 PM
+864,User Story,Networked analyzing productivity,Anthony Stark <iamironman@avengers.com>,Closed,Design,5,Sentiment Analysis,4/22/2024 8:31:07 PM,5/8/2024 2:17:33 PM,5/9/2024 9:50:12 AM
+865,User Story,Vision-oriented system-worthy contingency,Loki Odinson <thor@avengers.com>,Closed,Backend,5,Chatbot,4/16/2024 6:14:30 PM,5/3/2024 1:44:24 AM,5/1/2024 9:40:58 PM
+866,User Story,Cloned fault-tolerant concept,Steve Rogers <steve.rogers@avengers.com>,Closed,Backend,8,Data Governance Automation,4/25/2024 9:16:20 PM,5/4/2024 1:11:34 PM,5/4/2024 6:37:37 AM
+867,User Story,Balanced 4th generation benchmark,Anthony Stark <iamironman@avengers.com>,Closed,Backend,3,Sentiment Analysis,4/24/2024 4:40:47 PM,5/5/2024 5:24:40 PM,4/29/2024 11:11:52 AM
+868,User Story,Expanded heuristic benchmark,Steve Rogers <steve.rogers@avengers.com>,On Hold,Backend,2,Sentiment Analysis,4/15/2024 6:17:36 AM,5/8/2024 10:06:40 PM,5/7/2024 1:34:48 PM
+869,User Story,Sharable zero defect projection,Loki Odinson <thor@avengers.com>,Closed,Frontend,5,Chatbot,4/25/2024 9:51:42 PM,5/9/2024 12:21:45 PM,5/8/2024 1:31:12 PM
+870,User Story,Digitized fault-tolerant ability,Natasha Romanov <1wDf1!@avengers.com>,Closed,Design,5,Chatbot,4/25/2024 12:14:11 PM,5/7/2024 3:16:19 PM,5/1/2024 7:33:31 PM
+871,User Story,Progressive 24/7 parallelism,Steve Rogers <steve.rogers@avengers.com>,Closed,Frontend,5,Sentiment Analysis,4/17/2024 5:04:42 AM,5/8/2024 11:35:15 PM,4/30/2024 1:00:45 PM
+872,User Story,Persevering systematic emulation,Steve Rogers <steve.rogers@avengers.com>,Closed,Frontend,1,Chatbot,4/24/2024 8:36:01 AM,5/1/2024 10:44:46 PM,5/4/2024 2:22:58 AM
+873,User Story,Visionary non-volatile protocol,T'Challa Udaku <wakandaforever@avengers.com>,Closed,Design,1,Sentiment Analysis,4/19/2024 7:49:22 AM,5/2/2024 12:49:17 AM,5/3/2024 1:07:46 AM
+874,User Story,Customer-focused discrete service-desk,Steve Rogers <steve.rogers@avengers.com>,Closed,Backend,8,Data Governance Automation,4/15/2024 11:31:59 PM,5/9/2024 2:59:34 AM,5/3/2024 8:55:56 AM
+875,User Story,Front-line solution-oriented throughput,Natasha Romanov <1wDf1!@avengers.com>,Closed,Design,2,Sentiment Analysis,4/15/2024 9:40:50 AM,5/7/2024 8:32:23 PM,5/8/2024 4:26:10 PM
+876,User Story,Up-sized web-enabled utilisation,Anthony Stark <iamironman@avengers.com>,Closed,Frontend,2,Sentiment Analysis,4/20/2024 12:13:59 PM,5/8/2024 12:21:01 AM,5/5/2024 7:34:56 AM
+877,User Story,Cloned actuating archive,Anthony Stark <iamironman@avengers.com>,Closed,Frontend,5,Sentiment Analysis,4/23/2024 6:56:56 PM,5/1/2024 7:57:24 AM,4/30/2024 9:05:00 AM
+878,User Story,Switchable grid-enabled protocol,Anthony Stark <iamironman@avengers.com>,Closed,Frontend,13,Sentiment Analysis,4/19/2024 2:09:16 PM,5/1/2024 9:07:12 AM,5/3/2024 9:01:50 PM
+879,User Story,Organic grid-enabled pricing structure,T'Challa Udaku <wakandaforever@avengers.com>,Closed,Design,5,Chatbot,4/24/2024 11:10:46 PM,5/9/2024 4:42:07 AM,5/7/2024 10:56:59 PM
+880,User Story,Re-contextualized explicit standardization,Thor Odinson <the_real_thor@avengers.com>,Closed,Frontend,8,Chatbot,4/19/2024 6:31:33 PM,5/2/2024 9:03:12 PM,5/1/2024 5:48:51 AM
+881,User Story,Multi-tiered 3rd generation matrices,Thor Odinson <the_real_thor@avengers.com>,Closed,Frontend,5,Sentiment Analysis,4/21/2024 11:29:19 PM,5/3/2024 1:02:48 AM,5/4/2024 7:09:30 AM
+882,User Story,Reactive systemic protocol,Steve Rogers <steve.rogers@avengers.com>,Closed,Frontend,5,Data Governance Automation,4/15/2024 12:50:09 AM,5/7/2024 8:35:04 AM,5/3/2024 6:15:38 AM
+883,User Story,Programmable dynamic migration,Thor Odinson <the_real_thor@avengers.com>,Closed,Design,8,Data Governance Automation,4/18/2024 3:14:12 PM,5/9/2024 11:26:53 AM,5/3/2024 6:56:37 AM
+884,User Story,Networked stable knowledge base,Thor Odinson <the_real_thor@avengers.com>,Closed,Frontend,1,Chatbot,4/16/2024 12:09:42 AM,5/8/2024 6:33:10 AM,5/4/2024 6:49:23 PM
+885,User Story,Stand-alone tertiary system engine,Loki Odinson <thor@avengers.com>,Closed,Frontend,8,Sentiment Analysis,4/22/2024 10:24:04 AM,5/5/2024 12:42:39 AM,5/4/2024 2:52:49 AM
+886,User Story,Advanced motivating knowledge user,Anthony Stark <iamironman@avengers.com>,Closed,Design,5,Sentiment Analysis,4/22/2024 12:07:06 AM,5/9/2024 9:31:22 PM,5/7/2024 10:49:47 PM
+887,User Story,Multi-channelled needs-based interface,Anthony Stark <iamironman@avengers.com>,Closed,Design,5,Chatbot,4/23/2024 9:57:58 PM,5/3/2024 5:11:20 AM,5/9/2024 11:54:35 AM
+888,User Story,Operative web-enabled Graphic Interface,Steve Rogers <steve.rogers@avengers.com>,Closed,Backend,8,Chatbot,4/15/2024 10:09:12 AM,5/2/2024 6:15:26 AM,5/3/2024 9:10:59 PM
+889,User Story,Enhanced regional frame,Steve Rogers <steve.rogers@avengers.com>,Closed,Backend,2,Data Governance Automation,4/22/2024 5:25:28 PM,5/9/2024 1:31:18 AM,5/5/2024 10:11:02 PM
+890,User Story,Synergized demand-driven support,Steve Rogers <steve.rogers@avengers.com>,On Hold,Frontend,8,Sentiment Analysis,4/20/2024 3:57:36 AM,5/8/2024 12:03:08 AM,5/2/2024 9:05:20 AM
+891,User Story,Virtual mobile challenge,Anthony Stark <iamironman@avengers.com>,Closed,Frontend,8,Sentiment Analysis,4/21/2024 7:04:08 AM,5/5/2024 12:20:35 PM,5/9/2024 3:29:23 PM
+892,User Story,Streamlined systemic database,Anthony Stark <iamironman@avengers.com>,Closed,Design,1,Chatbot,4/17/2024 3:32:50 PM,5/9/2024 2:35:50 PM,5/6/2024 6:14:02 AM
+893,Bug,Reduced leading edge solution,Steve Rogers <steve.rogers@avengers.com>,Closed,Backend,5,Sentiment Analysis,4/15/2024 12:26:33 AM,5/3/2024 5:51:26 PM,5/6/2024 5:33:37 AM
+894,User Story,Polarised coherent encryption,Anthony Stark <iamironman@avengers.com>,Closed,Backend,5,Chatbot,4/24/2024 5:37:27 AM,5/6/2024 10:10:38 PM,5/7/2024 1:14:41 AM
+895,Bug,Function-based optimal intranet,Natasha Romanov <1wDf1!@avengers.com>,Closed,Frontend,3,Chatbot,4/16/2024 2:21:51 PM,5/5/2024 3:44:43 AM,5/9/2024 4:04:38 PM
+896,User Story,Optimized zero administration adapter,Thor Odinson <the_real_thor@avengers.com>,Closed,Design,2,Sentiment Analysis,4/15/2024 1:44:20 AM,5/4/2024 2:17:25 PM,5/6/2024 8:55:08 AM
+897,User Story,Organic fault-tolerant functionalities,T'Challa Udaku <wakandaforever@avengers.com>,Closed,Design,13,Data Governance Automation,4/21/2024 9:38:15 AM,5/2/2024 12:53:05 AM,5/9/2024 7:32:51 PM
+898,User Story,Synchronised 24/7 functionalities,T'Challa Udaku <wakandaforever@avengers.com>,Closed,Design,2,Sentiment Analysis,4/23/2024 5:40:18 PM,5/5/2024 8:31:07 AM,4/30/2024 5:13:39 AM
+899,User Story,Upgradable holistic knowledge base,T'Challa Udaku <wakandaforever@avengers.com>,On Hold,Frontend,3,Chatbot,4/24/2024 4:35:53 AM,5/6/2024 9:31:14 AM,5/4/2024 4:55:42 PM
+900,User Story,Synergistic scalable open system,Thor Odinson <the_real_thor@avengers.com>,Closed,Backend,5,Sentiment Analysis,4/22/2024 10:05:47 AM,5/7/2024 12:13:18 AM,4/30/2024 11:58:46 PM
+901,User Story,Assimilated local solution,Thor Odinson <the_real_thor@avengers.com>,Closed,Backend,3,Sentiment Analysis,4/20/2024 7:23:24 PM,5/9/2024 5:03:01 AM,5/5/2024 6:05:51 PM
+902,Bug,Cross-platform zero tolerance portal,Anthony Stark <iamironman@avengers.com>,Closed,Frontend,3,Chatbot,4/20/2024 1:44:12 PM,5/3/2024 2:21:06 AM,5/1/2024 12:29:50 PM
+903,User Story,Advanced bandwidth-monitored workforce,Steve Rogers <steve.rogers@avengers.com>,Closed,Backend,3,Sentiment Analysis,4/15/2024 3:39:58 PM,5/8/2024 10:13:05 PM,4/29/2024 8:38:55 AM
+904,User Story,Total well-modulated capacity,T'Challa Udaku <wakandaforever@avengers.com>,On Hold,Frontend,8,Sentiment Analysis,4/21/2024 12:47:45 PM,5/2/2024 2:46:28 PM,5/3/2024 3:29:24 PM
+905,User Story,Distributed multi-state paradigm,Thor Odinson <the_real_thor@avengers.com>,On Hold,Frontend,5,Chatbot,4/21/2024 9:24:30 AM,5/7/2024 1:25:10 PM,5/2/2024 9:08:25 AM
+906,User Story,Diverse directional approach,Loki Odinson <thor@avengers.com>,Closed,Design,5,Sentiment Analysis,4/24/2024 3:01:11 AM,5/7/2024 3:54:05 AM,5/5/2024 7:32:49 PM
+907,User Story,Switchable motivating algorithm,Natasha Romanov <1wDf1!@avengers.com>,Closed,Design,2,Sentiment Analysis,4/22/2024 10:37:02 PM,5/2/2024 11:06:29 AM,5/6/2024 10:42:32 AM
+908,Bug,Public-key grid-enabled knowledge base,T'Challa Udaku <wakandaforever@avengers.com>,Closed,Design,8,Chatbot,4/23/2024 11:15:53 PM,5/5/2024 9:50:43 PM,5/8/2024 11:12:22 PM
+909,Bug,Networked non-volatile standardization,T'Challa Udaku <wakandaforever@avengers.com>,Closed,Design,2,Data Governance Automation,4/15/2024 3:34:58 AM,5/3/2024 3:42:46 AM,5/9/2024 2:10:20 AM
+910,User Story,Optimized regional paradigm,Thor Odinson <the_real_thor@avengers.com>,Closed,Design,3,Data Governance Automation,4/25/2024 8:41:12 AM,5/8/2024 9:11:34 PM,5/8/2024 9:54:34 PM
+911,User Story,Automated logistical moderator,Steve Rogers <steve.rogers@avengers.com>,On Hold,Backend,5,Chatbot,4/18/2024 1:01:46 AM,5/8/2024 8:33:53 PM,4/29/2024 3:02:47 AM
+912,User Story,Organized asynchronous architecture,T'Challa Udaku <wakandaforever@avengers.com>,Closed,Frontend,13,Sentiment Analysis,4/19/2024 6:06:43 PM,5/4/2024 10:07:51 PM,5/8/2024 2:56:06 PM
+913,User Story,Synchronised regional forecast,Thor Odinson <the_real_thor@avengers.com>,Closed,Frontend,5,Chatbot,4/18/2024 8:37:49 AM,5/6/2024 9:17:53 AM,5/8/2024 8:11:19 PM
+914,User Story,Future-proofed multi-state matrices,T'Challa Udaku <wakandaforever@avengers.com>,Closed,Backend,13,Sentiment Analysis,4/22/2024 8:54:07 PM,5/4/2024 8:40:09 PM,5/5/2024 11:25:14 AM
+915,User Story,Proactive global monitoring,Anthony Stark <iamironman@avengers.com>,Closed,Frontend,8,Data Governance Automation,4/20/2024 5:26:14 AM,5/8/2024 9:16:49 AM,5/3/2024 2:51:54 PM
+916,User Story,Down-sized incremental alliance,Steve Rogers <steve.rogers@avengers.com>,Closed,Frontend,8,Data Governance Automation,4/18/2024 10:49:55 AM,5/6/2024 4:48:13 AM,4/30/2024 2:03:02 AM
+917,User Story,Grass-roots cohesive core,T'Challa Udaku <wakandaforever@avengers.com>,Closed,Backend,5,Chatbot,4/16/2024 5:40:58 AM,5/5/2024 10:40:24 PM,5/6/2024 12:14:27 PM
+918,User Story,Re-engineered static open architecture,Loki Odinson <thor@avengers.com>,Closed,Design,5,Chatbot,4/15/2024 4:57:32 AM,5/3/2024 7:35:52 AM,5/4/2024 12:31:17 PM
+919,User Story,Enhanced high-level hub,Loki Odinson <thor@avengers.com>,Closed,Frontend,5,Chatbot,4/24/2024 11:20:45 AM,5/8/2024 11:34:22 PM,5/8/2024 3:43:50 AM
+920,User Story,Pre-emptive upward-trending framework,Anthony Stark <iamironman@avengers.com>,Closed,Design,5,Data Governance Automation,4/24/2024 7:13:30 PM,5/8/2024 9:15:58 PM,5/1/2024 9:37:50 PM
+921,User Story,Grass-roots local synergy,Anthony Stark <iamironman@avengers.com>,Closed,Backend,2,Chatbot,4/17/2024 6:07:30 PM,5/9/2024 7:33:23 PM,5/8/2024 3:39:38 AM
+922,User Story,Grass-roots maximized implementation,Anthony Stark <iamironman@avengers.com>,On Hold,Design,1,Chatbot,4/18/2024 3:34:03 AM,5/2/2024 2:27:00 AM,4/29/2024 10:20:11 PM
+923,Bug,Team-oriented holistic product,Natasha Romanov <1wDf1!@avengers.com>,Closed,Backend,8,Data Governance Automation,4/21/2024 10:46:13 PM,5/8/2024 11:43:27 PM,5/7/2024 7:31:59 PM
+924,User Story,Persevering analyzing parallelism,Thor Odinson <the_real_thor@avengers.com>,On Hold,Backend,8,Data Governance Automation,4/22/2024 8:45:51 AM,5/9/2024 12:16:16 PM,5/4/2024 6:57:35 PM
+925,User Story,Cloned interactive model,Thor Odinson <the_real_thor@avengers.com>,Closed,Design,13,Chatbot,4/20/2024 8:08:45 AM,5/7/2024 1:06:25 PM,5/1/2024 4:19:03 PM
+926,User Story,Mandatory global emulation,Thor Odinson <the_real_thor@avengers.com>,Closed,Frontend,3,Sentiment Analysis,4/24/2024 2:44:00 AM,5/5/2024 9:14:42 PM,5/8/2024 12:03:53 AM
+927,Bug,Multi-channelled mobile synergy,T'Challa Udaku <wakandaforever@avengers.com>,Closed,Backend,8,Chatbot,4/25/2024 4:55:16 PM,5/1/2024 6:24:42 AM,4/30/2024 1:52:29 AM
+928,User Story,Object-based multi-tasking database,Steve Rogers <steve.rogers@avengers.com>,Closed,Frontend,8,Chatbot,4/25/2024 7:54:52 PM,5/7/2024 2:41:27 AM,5/6/2024 11:08:40 PM
+929,Bug,Business-focused 6th generation policy,Anthony Stark <iamironman@avengers.com>,On Hold,Frontend,1,Data Governance Automation,4/19/2024 3:45:43 AM,5/8/2024 10:57:41 PM,4/30/2024 2:30:12 PM
+930,User Story,Adaptive clear-thinking middleware,Steve Rogers <steve.rogers@avengers.com>,Closed,Frontend,8,Sentiment Analysis,4/23/2024 4:01:27 AM,5/5/2024 2:59:09 AM,5/3/2024 4:38:03 PM
+931,User Story,Organic holistic website,T'Challa Udaku <wakandaforever@avengers.com>,Closed,Design,2,Chatbot,4/20/2024 5:01:17 AM,5/2/2024 8:12:14 AM,5/2/2024 10:09:37 PM
+932,User Story,Streamlined executive policy,Natasha Romanov <1wDf1!@avengers.com>,Closed,Backend,8,Data Governance Automation,4/21/2024 8:18:54 PM,5/4/2024 1:52:08 PM,5/5/2024 10:47:25 AM
+933,User Story,Universal fault-tolerant model,Anthony Stark <iamironman@avengers.com>,Closed,Frontend,5,Chatbot,4/19/2024 2:34:01 AM,5/6/2024 12:59:23 PM,5/4/2024 3:43:51 AM
+934,User Story,Devolved motivating algorithm,Natasha Romanov <1wDf1!@avengers.com>,Closed,Backend,5,Data Governance Automation,4/16/2024 7:54:56 PM,5/6/2024 4:34:10 PM,4/30/2024 3:46:32 PM
+935,User Story,Sharable multimedia middleware,Steve Rogers <steve.rogers@avengers.com>,Closed,Design,13,Data Governance Automation,4/17/2024 9:26:22 PM,5/6/2024 5:13:53 PM,5/7/2024 8:28:33 PM
+936,User Story,Horizontal 24 hour extranet,Steve Rogers <steve.rogers@avengers.com>,On Hold,Backend,1,Data Governance Automation,4/17/2024 2:22:56 AM,5/4/2024 5:21:43 AM,5/9/2024 1:01:08 AM
+937,Bug,Exclusive web-enabled knowledge user,Natasha Romanov <1wDf1!@avengers.com>,On Hold,Backend,5,Chatbot,4/19/2024 3:40:41 AM,5/2/2024 8:37:49 AM,5/1/2024 3:25:06 AM
+938,User Story,Virtual multi-tasking benchmark,Natasha Romanov <1wDf1!@avengers.com>,Closed,Backend,3,Sentiment Analysis,4/25/2024 4:04:32 AM,5/3/2024 10:13:20 PM,5/1/2024 2:58:17 AM
+939,User Story,Reactive logistical standardization,Thor Odinson <the_real_thor@avengers.com>,Closed,Design,1,Data Governance Automation,4/15/2024 10:17:07 PM,5/9/2024 5:35:27 PM,5/6/2024 4:27:00 PM
+940,User Story,Pre-emptive intangible circuit,T'Challa Udaku <wakandaforever@avengers.com>,Closed,Frontend,2,Data Governance Automation,4/18/2024 7:33:29 AM,5/9/2024 9:32:25 AM,4/29/2024 7:09:48 AM
+941,User Story,Right-sized national groupware,Natasha Romanov <1wDf1!@avengers.com>,Closed,Frontend,3,Data Governance Automation,4/15/2024 10:10:17 PM,5/2/2024 11:38:14 AM,5/3/2024 6:10:04 PM
+942,User Story,Proactive global forecast,Loki Odinson <thor@avengers.com>,Closed,Frontend,3,Data Governance Automation,4/23/2024 1:04:57 AM,5/7/2024 1:23:29 AM,5/2/2024 3:42:56 AM
+943,Bug,Advanced tertiary array,Anthony Stark <iamironman@avengers.com>,Closed,Design,13,Chatbot,4/20/2024 2:27:24 AM,5/4/2024 10:21:09 AM,5/2/2024 5:45:32 PM
+944,User Story,Public-key web-enabled methodology,Thor Odinson <the_real_thor@avengers.com>,Closed,Frontend,5,Data Governance Automation,4/17/2024 8:57:44 AM,5/6/2024 5:11:33 AM,4/30/2024 9:23:03 AM
+945,User Story,Re-contextualized interactive local area network,T'Challa Udaku <wakandaforever@avengers.com>,Closed,Frontend,13,Chatbot,4/20/2024 2:24:05 PM,5/9/2024 12:50:31 PM,5/2/2024 7:48:08 AM
+946,User Story,Organized motivating definition,Anthony Stark <iamironman@avengers.com>,Closed,Backend,2,Chatbot,4/17/2024 5:49:34 AM,5/6/2024 5:48:51 PM,5/5/2024 1:47:56 AM
+947,User Story,Grass-roots mission-critical extranet,Thor Odinson <the_real_thor@avengers.com>,Closed,Design,8,Data Governance Automation,4/21/2024 6:57:22 PM,5/1/2024 4:19:13 PM,4/30/2024 7:50:49 PM
+948,User Story,Cloned logistical analyzer,Thor Odinson <the_real_thor@avengers.com>,Closed,Backend,8,Chatbot,4/25/2024 4:59:09 AM,5/6/2024 2:32:59 AM,5/1/2024 7:15:10 AM
+949,Bug,Public-key well-modulated frame,T'Challa Udaku <wakandaforever@avengers.com>,Closed,Backend,3,Sentiment Analysis,4/19/2024 3:04:01 PM,5/6/2024 8:59:54 PM,4/30/2024 3:55:53 AM
+950,User Story,Function-based 6th generation hub,Anthony Stark <iamironman@avengers.com>,Closed,Backend,3,Chatbot,4/17/2024 8:57:40 AM,5/9/2024 4:08:13 AM,5/3/2024 5:36:59 PM
+951,User Story,Multi-tiered dynamic complexity,Anthony Stark <iamironman@avengers.com>,Closed,Design,3,Data Governance Automation,4/19/2024 5:45:34 PM,5/9/2024 1:05:04 PM,5/5/2024 11:45:16 AM
+952,User Story,Business-focused 24 hour service-desk,Loki Odinson <thor@avengers.com>,Closed,Backend,1,Sentiment Analysis,4/17/2024 2:16:33 AM,5/4/2024 8:37:45 AM,5/4/2024 10:55:57 AM
+953,User Story,Enterprise-wide even-keeled data-warehouse,Thor Odinson <the_real_thor@avengers.com>,Closed,Design,21,Sentiment Analysis,4/19/2024 5:46:33 PM,5/7/2024 9:27:24 PM,5/2/2024 2:33:32 AM
+954,User Story,Polarised didactic system engine,Steve Rogers <steve.rogers@avengers.com>,Closed,Design,3,Chatbot,4/20/2024 7:04:11 PM,5/1/2024 2:01:06 AM,5/8/2024 4:00:04 AM
+955,User Story,Function-based optimal structure,Steve Rogers <steve.rogers@avengers.com>,Closed,Frontend,3,Data Governance Automation,4/25/2024 11:04:31 AM,5/7/2024 9:46:33 PM,5/8/2024 11:14:54 PM
+956,User Story,Fully-configurable client-driven migration,Steve Rogers <steve.rogers@avengers.com>,On Hold,Design,13,Chatbot,4/24/2024 3:46:46 AM,5/5/2024 2:12:51 PM,5/2/2024 11:15:27 AM
+957,User Story,Polarised optimizing pricing structure,Loki Odinson <thor@avengers.com>,Closed,Frontend,13,Chatbot,4/19/2024 9:46:59 PM,5/2/2024 9:27:18 PM,5/7/2024 10:05:23 AM
+958,User Story,Advanced value-added open system,Thor Odinson <the_real_thor@avengers.com>,Closed,Backend,5,Chatbot,4/23/2024 12:06:42 AM,5/9/2024 6:50:26 PM,5/2/2024 4:12:13 AM
+959,User Story,Pre-emptive content-based matrix,Anthony Stark <iamironman@avengers.com>,Closed,Design,13,Data Governance Automation,4/24/2024 9:23:06 PM,5/5/2024 9:41:57 PM,5/9/2024 4:41:17 AM
+960,User Story,Progressive modular pricing structure,Steve Rogers <steve.rogers@avengers.com>,Closed,Design,5,Data Governance Automation,4/22/2024 11:34:34 AM,5/2/2024 8:02:20 AM,5/3/2024 10:30:09 AM
+961,User Story,Universal client-driven capacity,Natasha Romanov <1wDf1!@avengers.com>,Closed,Frontend,5,Chatbot,4/22/2024 7:46:25 PM,5/6/2024 3:38:29 PM,4/30/2024 8:35:44 AM
+962,User Story,Seamless 24/7 core,Thor Odinson <the_real_thor@avengers.com>,Closed,Frontend,5,Sentiment Analysis,4/22/2024 11:59:47 AM,5/5/2024 6:17:03 PM,5/7/2024 12:24:26 PM
+963,Bug,Intuitive contextually-based attitude,Loki Odinson <thor@avengers.com>,Closed,Frontend,8,Data Governance Automation,4/17/2024 4:07:17 AM,5/8/2024 12:51:29 AM,5/4/2024 3:43:20 AM
+964,Bug,Programmable background analyzer,T'Challa Udaku <wakandaforever@avengers.com>,Closed,Design,5,Data Governance Automation,4/23/2024 5:02:47 AM,5/2/2024 2:01:51 AM,5/8/2024 6:42:58 PM
+965,User Story,Profound system-worthy time-frame,Natasha Romanov <1wDf1!@avengers.com>,Closed,Backend,13,Chatbot,4/22/2024 8:26:58 AM,5/1/2024 10:33:30 AM,5/8/2024 4:43:43 AM
+966,User Story,Decentralized web-enabled superstructure,Steve Rogers <steve.rogers@avengers.com>,Closed,Backend,21,Data Governance Automation,4/20/2024 1:37:16 PM,5/2/2024 7:49:46 AM,5/7/2024 2:07:26 PM
+967,User Story,Virtual reciprocal middleware,Steve Rogers <steve.rogers@avengers.com>,Closed,Backend,8,Data Governance Automation,4/20/2024 9:56:19 AM,5/5/2024 12:02:18 PM,5/4/2024 12:01:49 PM
+968,User Story,Business-focused dynamic architecture,T'Challa Udaku <wakandaforever@avengers.com>,Closed,Frontend,5,Chatbot,4/19/2024 2:01:16 AM,5/5/2024 5:51:47 AM,5/3/2024 6:42:10 AM
+969,User Story,Diverse real-time solution,Steve Rogers <steve.rogers@avengers.com>,Closed,Frontend,21,Sentiment Analysis,4/24/2024 3:26:09 PM,5/1/2024 6:15:35 AM,5/7/2024 11:05:37 AM
+970,Bug,Progressive didactic throughput,Anthony Stark <iamironman@avengers.com>,Closed,Frontend,5,Data Governance Automation,4/22/2024 8:23:56 PM,5/5/2024 1:40:19 AM,5/4/2024 8:07:44 PM
+971,User Story,Synergistic context-sensitive matrices,Steve Rogers <steve.rogers@avengers.com>,Closed,Backend,13,Sentiment Analysis,4/15/2024 2:16:46 PM,5/6/2024 1:38:45 PM,5/9/2024 1:28:51 PM
+972,User Story,Quality-focused tertiary project,Anthony Stark <iamironman@avengers.com>,Closed,Design,21,Chatbot,4/21/2024 9:52:11 PM,5/9/2024 8:14:55 PM,4/30/2024 7:38:32 PM
+973,User Story,Balanced web-enabled installation,Steve Rogers <steve.rogers@avengers.com>,Closed,Backend,13,Sentiment Analysis,4/22/2024 6:37:09 PM,5/6/2024 6:33:26 AM,5/3/2024 4:20:50 PM
+974,User Story,Reduced zero tolerance database,Loki Odinson <thor@avengers.com>,Closed,Backend,8,Sentiment Analysis,4/24/2024 11:52:38 PM,5/7/2024 4:57:35 PM,5/3/2024 3:26:51 AM
+975,User Story,Implemented dedicated pricing structure,Steve Rogers <steve.rogers@avengers.com>,Closed,Design,8,Data Governance Automation,4/22/2024 4:49:57 PM,5/8/2024 11:21:45 AM,5/8/2024 8:35:09 PM
+976,User Story,Self-enabling asynchronous instruction set,Steve Rogers <steve.rogers@avengers.com>,Closed,Design,3,Data Governance Automation,4/20/2024 2:53:41 PM,5/4/2024 8:18:26 AM,5/3/2024 6:47:13 PM
+977,User Story,Switchable local strategy,Anthony Stark <iamironman@avengers.com>,Closed,Design,3,Sentiment Analysis,4/17/2024 6:01:58 PM,5/2/2024 11:16:35 PM,5/6/2024 5:11:06 PM
+978,User Story,Adaptive content-based attitude,Natasha Romanov <1wDf1!@avengers.com>,Closed,Frontend,13,Data Governance Automation,4/22/2024 8:47:42 PM,5/2/2024 9:37:30 PM,5/1/2024 7:00:29 PM
+979,User Story,Multi-tiered asymmetric ability,Loki Odinson <thor@avengers.com>,Closed,Frontend,13,Data Governance Automation,4/16/2024 9:33:52 PM,5/9/2024 10:39:19 AM,5/3/2024 5:02:53 PM
+980,User Story,User-friendly asynchronous matrix,T'Challa Udaku <wakandaforever@avengers.com>,Closed,Frontend,13,Chatbot,4/20/2024 4:18:03 PM,5/1/2024 6:34:51 AM,4/29/2024 6:19:29 PM
+981,User Story,Multi-channelled 5th generation data-warehouse,Anthony Stark <iamironman@avengers.com>,Closed,Frontend,3,Data Governance Automation,4/22/2024 3:25:08 AM,5/3/2024 12:08:23 AM,5/8/2024 3:42:20 AM
+982,User Story,Stand-alone intermediate system engine,T'Challa Udaku <wakandaforever@avengers.com>,Closed,Backend,5,Data Governance Automation,4/23/2024 12:30:31 AM,5/7/2024 3:43:04 AM,4/30/2024 1:56:11 PM
+983,User Story,Re-engineered mobile algorithm,Anthony Stark <iamironman@avengers.com>,On Hold,Backend,1,Sentiment Analysis,4/15/2024 8:23:45 AM,5/2/2024 3:39:43 PM,5/7/2024 3:31:35 AM
+984,User Story,Networked attitude-oriented framework,Anthony Stark <iamironman@avengers.com>,Closed,Frontend,3,Sentiment Analysis,4/23/2024 7:21:42 PM,5/3/2024 6:31:16 AM,4/30/2024 8:54:00 PM
+985,User Story,Seamless multi-tasking archive,T'Challa Udaku <wakandaforever@avengers.com>,Closed,Frontend,5,Data Governance Automation,4/18/2024 4:18:05 PM,5/2/2024 8:46:44 AM,5/3/2024 10:07:15 PM
+986,User Story,Implemented zero administration strategy,Anthony Stark <iamironman@avengers.com>,Closed,Frontend,5,Chatbot,4/18/2024 12:00:54 PM,5/1/2024 10:11:51 PM,5/9/2024 4:52:42 PM
+987,User Story,Digitized upward-trending projection,T'Challa Udaku <wakandaforever@avengers.com>,Closed,Design,13,Data Governance Automation,4/21/2024 10:26:20 AM,5/5/2024 2:54:08 PM,5/7/2024 6:14:04 PM
+988,Bug,Multi-layered bi-directional concept,Steve Rogers <steve.rogers@avengers.com>,Closed,Frontend,21,Chatbot,4/19/2024 10:55:30 AM,5/3/2024 10:12:05 PM,4/30/2024 10:24:08 AM
+989,User Story,Progressive contextually-based projection,Steve Rogers <steve.rogers@avengers.com>,Closed,Backend,3,Sentiment Analysis,4/22/2024 5:01:12 AM,5/7/2024 6:08:08 AM,4/30/2024 3:24:46 PM
+990,User Story,Progressive human-resource alliance,Natasha Romanov <1wDf1!@avengers.com>,Closed,Backend,8,Data Governance Automation,4/15/2024 4:52:51 AM,5/8/2024 10:05:16 PM,4/30/2024 1:56:16 AM
+991,User Story,Horizontal value-added methodology,Anthony Stark <iamironman@avengers.com>,Closed,Design,3,Chatbot,4/18/2024 2:16:55 PM,5/2/2024 6:46:29 PM,4/30/2024 1:52:01 AM
+992,User Story,Visionary hybrid Graphic Interface,Anthony Stark <iamironman@avengers.com>,Closed,Frontend,1,Sentiment Analysis,4/25/2024 7:50:03 PM,5/9/2024 1:15:42 AM,5/1/2024 6:24:51 PM
+993,Bug,Advanced full-range product,Thor Odinson <the_real_thor@avengers.com>,Closed,Backend,21,Chatbot,4/21/2024 7:35:05 AM,5/3/2024 7:00:47 AM,4/30/2024 10:59:35 PM
+994,User Story,Synchronised 24/7 algorithm,Thor Odinson <the_real_thor@avengers.com>,Closed,Design,5,Sentiment Analysis,4/24/2024 2:24:49 AM,5/8/2024 10:08:32 AM,5/3/2024 4:05:22 AM
+995,User Story,Upgradable scalable implementation,Loki Odinson <thor@avengers.com>,Closed,Backend,3,Sentiment Analysis,4/19/2024 8:47:12 AM,5/9/2024 7:17:23 PM,5/8/2024 5:20:45 PM
+996,User Story,Multi-lateral 4th generation circuit,Thor Odinson <the_real_thor@avengers.com>,Closed,Frontend,21,Chatbot,4/17/2024 3:09:43 PM,5/5/2024 1:29:41 PM,4/29/2024 2:57:21 PM
+997,Bug,Horizontal non-volatile attitude,Natasha Romanov <1wDf1!@avengers.com>,Closed,Frontend,3,Data Governance Automation,4/22/2024 7:21:58 PM,5/7/2024 3:01:40 AM,5/8/2024 6:38:14 AM
+998,User Story,Organized leading edge definition,Loki Odinson <thor@avengers.com>,Closed,Frontend,13,Chatbot,4/25/2024 3:27:18 AM,5/9/2024 8:54:54 PM,5/7/2024 8:12:21 AM
+999,User Story,Programmable holistic knowledge user,Anthony Stark <iamironman@avengers.com>,Closed,Design,8,Sentiment Analysis,4/19/2024 8:55:27 AM,5/7/2024 9:31:27 PM,4/30/2024 2:45:28 AM
+1000,User Story,Customizable exuding strategy,T'Challa Udaku <wakandaforever@avengers.com>,Closed,Frontend,3,Data Governance Automation,4/25/2024 3:08:53 PM,5/9/2024 11:06:12 AM,4/29/2024 5:49:05 PM
