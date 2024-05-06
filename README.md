@@ -43,7 +43,7 @@ If you have any questions or feedback, please feel free to reach out. I would lo
 
 Thank you for reading!
 
-Mock data was generated using '''https://www.mockaroo.com/'''.
+Mock data was generated using [Mockaroo](https://www.mockaroo.com/).
 
 ## **References**
 
@@ -60,7 +60,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 * This project was inspired by a passion for project management and a desire to help project managers succeed.
 * Special thanks to the team at OpenAI for creating the GPT3 model and making it available to developers.
-* Special thanks to Gradio team for helping developers all over the world get POC's going super fast '''https://gradio.app/'''.
+* Special thanks to [Gradio](https://gradio.app/) team for helping developers all over the world get POC's going super fast.
 
 
 
